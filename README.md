@@ -18,7 +18,6 @@ A curated list of web development resources I find useful
 
 
 
----
 
 ## Javascript
 
@@ -46,18 +45,15 @@ A curated list of web development resources I find useful
 
 
 
----
 
 ## Git
 
 
 
----
 
 ## UI / UX
 
 
 
----
 
 ## Project Management

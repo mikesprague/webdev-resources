@@ -20,7 +20,9 @@
   6. **[Documentation Collections](#documentation-collections)**
   7. **[Project Management](#project-management)**
 
+
 ---
+
 
 ### HTML(5) / CSS(3)
 
@@ -62,6 +64,7 @@
   * [Kinetic Email CSS Support](http://freshinbox.com/resources/css.php)
   * [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
   * [Search Engine Optimization (SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
+  * [Varvy: Google webmaster guidelines tester](https://varvy.com/)
   * [Perf.Rocks: Web Performance Matters](http://perf.rocks/)
   * [CSS: The Good Parts](https://github.com/bevacqua/css)
   * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
@@ -131,6 +134,8 @@
   * [PostCSS.parts: A searchable catalog of PostCSS plugins](http://postcss.parts/)
 
 
+  ---
+
 
 ### JavaScript
 
@@ -197,6 +202,7 @@
   * [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
   * [Guide to the (sometimes overwhelming!) React Ecosystem](https://github.com/petehunt/react-howto)
   * [React.js Koans](https://github.com/arkency/reactjs_koans)
+  * [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
 
 
 #### Angular
@@ -213,6 +219,8 @@
   * [Meteor: The Official Guide](http://guide.meteor.com/)
 
 
+  ---
+
 
 ### Git / GitHub
 
@@ -224,6 +232,8 @@
   * [Git Goodies](https://github.com/qw3rtman/gg)
 
 
+  ---
+
 
 ### Markdown
 
@@ -233,6 +243,8 @@
   * [Mastering Markdown: Course by Wes Bos](http://masteringmarkdown.com/)
 
 
+  ---
+
 
 ### Regular Expressions
 
@@ -240,6 +252,8 @@
   * [Learn Regular Expressions in About 55 Minutes](http://qntm.org/files/re/re.html)
   * [Regulex](https://jex.im/regulex/)
 
+
+  ---
 
 
 ### Documentation Collections
@@ -250,6 +264,8 @@
   * [Website Style Guide Resources](http://styleguides.io/)
   * [Popular Coding Convention on Github](http://sideeffect.kr/popularconvention/)
 
+
+  ---
 
 
 ### Project Management

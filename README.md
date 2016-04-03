@@ -134,7 +134,7 @@
   * [PostCSS.parts: A searchable catalog of PostCSS plugins](http://postcss.parts/)
 
 
-  ---
+---
 
 
 ### JavaScript
@@ -219,7 +219,7 @@
   * [Meteor: The Official Guide](http://guide.meteor.com/)
 
 
-  ---
+---
 
 
 ### Git / GitHub
@@ -232,7 +232,7 @@
   * [Git Goodies](https://github.com/qw3rtman/gg)
 
 
-  ---
+---
 
 
 ### Markdown
@@ -243,7 +243,7 @@
   * [Mastering Markdown: Course by Wes Bos](http://masteringmarkdown.com/)
 
 
-  ---
+---
 
 
 ### Regular Expressions
@@ -253,7 +253,7 @@
   * [Regulex](https://jex.im/regulex/)
 
 
-  ---
+---
 
 
 ### Documentation Collections
@@ -265,7 +265,7 @@
   * [Popular Coding Convention on Github](http://sideeffect.kr/popularconvention/)
 
 
-  ---
+---
 
 
 ### Project Management

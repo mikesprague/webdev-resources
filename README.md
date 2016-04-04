@@ -270,6 +270,7 @@
 
 ### Project Management
 
+  * [Waffle](https://waffle.io/)
   * [Zube](https://zube.io/)
   * [WeKan](https://wekan.io/)
   * [Trello](https://trello.com)

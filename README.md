@@ -208,6 +208,7 @@
   * [Guide to the (sometimes overwhelming!) React Ecosystem](https://github.com/petehunt/react-howto)
   * [React.js Koans](https://github.com/arkency/reactjs_koans)
   * [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
+  * [A Comprehensive Guide to Building Apps with React.js](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 
 
 #### Angular

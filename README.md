@@ -230,6 +230,8 @@
   * [GitHub Guides](https://guides.github.com/)
   * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
   * [Git Goodies](https://github.com/qw3rtman/gg)
+  * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+  * [Git Commits For Non-Git Users](https://github.com/thoughtbot/til/blob/master/GitCommitsForNonGitUsers.md)
 
 
 ---

@@ -197,6 +197,7 @@
 
   * [package.json: An Interactive Guide](http://browsenpm.org/package.json)
   * [Understanding npm](https://unpm.nodesource.com/)
+  * [A Beginner’s Guide to npm — the Node Package Manager](http://www.sitepoint.com/beginners-guide-node-package-manager/)
 
 
 #### React

@@ -70,6 +70,7 @@
   * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
   * [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
   * [Workmanship Manual](http://workmanship.io/)
+  * [Duri.me: A Super Simple DataURI Tool](http://duri.me/)
 
 
 #### Frameworks / Starters

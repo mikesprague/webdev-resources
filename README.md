@@ -74,6 +74,7 @@
   * [Workmanship Manual](http://workmanship.io/)
   * [Duri.me: A Super Simple DataURI Tool](http://duri.me/)
   * [A Simple Web Developer's Guide to Color](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
+  * [Enduring CSS](http://ecss.io/)
 
 
 #### Frameworks / Starters

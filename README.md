@@ -21,6 +21,7 @@
   5. **[Regular Expressions](#regular-expressions)**
   6. **[Documentation Collections](#documentation-collections)**
   7. **[Project Management](#project-management)**
+  8. **[Python](#python)**
 
 
 ---
@@ -310,3 +311,16 @@
   * [Trello](https://trello.com)
   * [Kick Off Meeting Checklist/Template (PDF)](http://cdn.sixrevisions.com/0348-13_web_development_kickoff_meeting_template.pdf)
   * [Example UX Docs and Deliverables](http://www.uxforthemasses.com/resources/example-ux-docs/)
+
+
+
+  ---
+
+
+### Python
+
+  * [Learning Python – Novice Beginner Level](http://herculesphaeton.com/2015/03/learning-python-novice-beginner/)
+  * [Progressing In Python – Level Intermediate](http://herculesphaeton.com/2015/03/progressing-python-level-intermediate/)
+  * [Learning Python – Advanced Level](http://herculesphaeton.com/2015/03/python-learning-advanced-level/)
+  * [Django Unchained – Learn and Master Django](http://herculesphaeton.com/2015/03/django-unchained-learn-and-master-django/)
+  * [A Primer For Web Development In Python](http://herculesphaeton.com/2015/03/a-primer-for-web-development-in-python/)

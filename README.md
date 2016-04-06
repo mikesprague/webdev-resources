@@ -189,6 +189,7 @@
   * [ServiceWorker Cookbook](https://serviceworke.rs/)
   * [A Gentle Introduction to Functional Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
   * [json2jsdoc](https://eek.ro/json-to-jsdoc/)
+  * [Tools to Learn JavaScript By Doing](http://developer.telerik.com/featured/tools-learn-javascript/)
 
 
 #### jQuery

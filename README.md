@@ -209,6 +209,7 @@
   * [A Beginner’s Guide to npm — the Node Package Manager](http://www.sitepoint.com/beginners-guide-node-package-manager/)
   * [Node Hero Tutorial Series](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
   * [You Don't Know Node](https://github.com/azat-co/you-dont-know-node)
+  * [Node Patterns: From Callbacks to Observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/)
 
 
 #### React

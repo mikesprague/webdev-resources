@@ -23,6 +23,7 @@
   7. **[Project Management](#project-management)**
   8. **[Python](#python)**
   9. **[Ruby](#ruby)**
+  10. **[Editors / IDEs](#editors--ides)**
 
 
 ---
@@ -342,3 +343,13 @@
 ### Ruby
 
   * [The Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.railstutorial.org/book)
+
+
+
+---
+
+
+
+### Editors / IDEs
+
+  * [Atom Keyboard Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)

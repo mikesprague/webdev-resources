@@ -195,6 +195,8 @@
   * [A Gentle Introduction to Functional Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
   * [json2jsdoc](https://eek.ro/json-to-jsdoc/)
   * [Tools to Learn JavaScript By Doing](http://developer.telerik.com/featured/tools-learn-javascript/)
+  * [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
+  * [ES6 Succinctly](http://kamranahmed.info/blog/2016/04/04/es6-in-depth/)
 
 
 #### jQuery

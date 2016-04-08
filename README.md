@@ -82,6 +82,7 @@
   * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
   * [DataURL.net - Data URL Maker, Data URL CSS Optimizer and the Data URL Toolkit](http://dataurl.net/)
   * [Moving from HTML Grid Systems to CSS Grid Systems](http://zellwk.com/blog/from-html-grids-to-css-grids/)
+  * [CSS custom properties (native variables) In-Depth](https://blog.gospodarets.com/css_properties_in_depth)
 
 
 #### Frameworks / Starters

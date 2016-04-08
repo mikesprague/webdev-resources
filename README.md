@@ -127,6 +127,7 @@
   * [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
   * [Flexbox Froggy](http://flexboxfroggy.com/)
   * [Test CSS Flexbox Rules Live](http://flexbox.help/)
+  * [Website Layout Tools Compared: Flexbox vs Susy](https://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/)
 
 
 #### CSS Preprocessing / Post-processing

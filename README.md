@@ -83,6 +83,7 @@
   * [DataURL.net - Data URL Maker, Data URL CSS Optimizer and the Data URL Toolkit](http://dataurl.net/)
   * [Moving from HTML Grid Systems to CSS Grid Systems](http://zellwk.com/blog/from-html-grids-to-css-grids/)
   * [CSS custom properties (native variables) In-Depth](https://blog.gospodarets.com/css_properties_in_depth)
+  * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 
 
 #### Frameworks / Starters

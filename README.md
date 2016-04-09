@@ -361,7 +361,9 @@
 
 ### Ruby
 
-  * [The Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.railstutorial.org/book)
+  * [Learn Ruby with the Neo Ruby Koans](http://rubykoans.com/)
+  * [Try Ruby](http://tryruby.org/)
+  * [Ruby Monk Interactive Ruby Tutorials](https://rubymonk.com/)
 
 
 
@@ -383,14 +385,23 @@
 ### Editors / IDEs
 
   * [Atom Keyboard Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+  * [Sublime Text Unofficial Documentation](http://docs.sublimetext.info)
+  * [Sublime Text Tips](http://sublimetexttips.com/archives/)
+  * [Getting Started with Sublime Text 3](https://generalassemb.ly/blog/sublime-text-3-tips-tricks-shortcuts/)
 
 
 
-  ---
+---
 
 
 
-### ebooks
+### eBooks
 
   * [DOM Enlightenment](http://domenlightenment.com/)
-  
+  * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+  * [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
+  * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+  * [Eloquent JavaScript](http://eloquentjavascript.net/)
+  * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+  * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+  * [The Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.railstutorial.org/book)

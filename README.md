@@ -23,7 +23,8 @@
   7. **[Project Management](#project-management)**
   8. **[Python](#python)**
   9. **[Ruby](#ruby)**
-  10. **[Editors / IDEs](#editors--ides)**
+  10. **[PHP](#php)**
+  11. **[Editors / IDEs](#editors--ides)**
 
 
 ---
@@ -357,6 +358,17 @@
 ### Ruby
 
   * [The Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.railstutorial.org/book)
+
+
+
+---
+
+
+
+### PHP
+
+  * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
+  * [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
 
 

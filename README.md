@@ -25,6 +25,7 @@
   9. **[Ruby](#ruby)**
   10. **[PHP](#php)**
   11. **[Editors / IDEs](#editors--ides)**
+  12. **[eBooks](#ebooks)**
 
 
 ---
@@ -382,3 +383,14 @@
 ### Editors / IDEs
 
   * [Atom Keyboard Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+
+
+
+  ---
+
+
+
+### ebooks
+
+  * [DOM Enlightenment](http://domenlightenment.com/)
+  

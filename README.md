@@ -120,6 +120,7 @@
   * [Modest Grid](http://modestgrid.com/)
   * [Metro UI CSS](http://metroui.org.ua/)
   * [CloseCSS](http://closecss.io/)
+  * [Repaintless Library for fast CSS Animations](https://github.com/szynszyliszys/repaintless)
 
 
 #### Flexbox

@@ -234,6 +234,8 @@
   * [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
   * [A Comprehensive Guide to Building Apps with React.js](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
   * [A curriculum for learning React and Flux for total beginners](http://prestonparry.com/articles/ReactCurriculum/)
+  * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+  * [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial (Part 1)](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
 
 
 #### Angular

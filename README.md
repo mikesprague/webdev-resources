@@ -203,6 +203,7 @@
   * [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
   * [ES6 Succinctly](http://kamranahmed.info/blog/2016/04/04/es6-in-depth/)
   * [Getting Started with Browserify](https://scotch.io/tutorials/getting-started-with-browserify)
+  * [Introduction to Functional Reactive Programming with RxJS](http://www.sitepoint.com/functional-reactive-programming-rxjs/)
 
 
 #### jQuery

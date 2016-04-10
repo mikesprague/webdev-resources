@@ -409,6 +409,11 @@
   * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
   * [The Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.railstutorial.org/book)
   * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+  * [Build your applications with Webpack](https://alexandrebodin.gitbooks.io/webpack/content/)
+  * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
+  * [Javascript Promises](https://samypesse.gitbooks.io/js-promises/content/)
+  * [A General Theory of Reactivity](https://kriskowal.gitbooks.io/gtor/content/)
+  * [Heroku + Node.js](https://samypesse.gitbooks.io/heroku-node/content/)
 
 
 

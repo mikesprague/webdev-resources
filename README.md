@@ -208,6 +208,7 @@
   * [Getting Started with Browserify](https://scotch.io/tutorials/getting-started-with-browserify)
   * [Introduction to Functional Reactive Programming with RxJS](http://www.sitepoint.com/functional-reactive-programming-rxjs/)
   * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+  * [Essential TDD/BDD React List](https://github.com/Cmdv/Essential-TDD-BDD-React-list)
 
 
 #### jQuery

@@ -26,6 +26,7 @@
   10. **[PHP](#php)**
   11. **[Editors / IDEs](#editors--ides)**
   12. **[eBooks](#ebooks)**
+  13. **[Security](#security)**
 
 
 ---
@@ -407,3 +408,14 @@
   * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
   * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
   * [The Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.railstutorial.org/book)
+
+
+
+---
+
+
+### Security
+
+  * [Analyze your HTTP Response Headers](https://securityheaders.io/)
+  * [Report URI: CSP and HPKP Violation Reporting](https://report-uri.io/)
+  * [What is Subresource Integrity (SRI)?](https://www.maxcdn.com/one/visual-glossary/subresource-integrity/)

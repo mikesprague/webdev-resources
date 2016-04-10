@@ -408,10 +408,12 @@
   * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
   * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
   * [The Ruby on Rails Tutorial: Learn Web Development with Rails](https://www.railstutorial.org/book)
+  * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 
 
 
 ---
+
 
 
 ### Security

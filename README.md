@@ -214,6 +214,7 @@
   * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
   * [Essential TDD/BDD React List](https://github.com/Cmdv/Essential-TDD-BDD-React-list)
   * [Chance.js: Utility library to generate anything random for JavaScript](http://chancejs.com/)
+  * [ES6 - New Features in JavaScript by Tom Kelly](http://slides.com/tomkelly-1/es6-deck/#/)
 
 
 #### jQuery

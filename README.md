@@ -90,9 +90,10 @@
   * [CSS custom properties (native variables) In-Depth](https://blog.gospodarets.com/css_properties_in_depth)
   * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
   * [Font Famous](http://fontfamous.com/)
-  * [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
+  * [Font Awesome](http://fortawesome.io/)
   * [Icon Font & SVG Icon Sets](https://icomoon.io/)
   * [HTML Icon Font List](http://www.rrpowered.com/2014/05/html-icon-font-list/)
+  * [Font Awesome Favicon Generator](http://paulferrett.com/fontawesome-favicon/)
 
 
 #### Frameworks / Starters

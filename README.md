@@ -213,6 +213,7 @@
   * [Introduction to Functional Reactive Programming with RxJS](http://www.sitepoint.com/functional-reactive-programming-rxjs/)
   * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
   * [Essential TDD/BDD React List](https://github.com/Cmdv/Essential-TDD-BDD-React-list)
+  * [Chance.js: Utility library to generate anything random for JavaScript](http://chancejs.com/)
 
 
 #### jQuery

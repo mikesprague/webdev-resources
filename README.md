@@ -29,7 +29,9 @@
   13. **[Security](#security)**
 
 
+
 ---
+
 
 
 ### HTML(5) / CSS(3)
@@ -158,10 +160,13 @@
   * [How to Use PostCSS with Gulp](http://www.sitepoint.com/how-to-use-postcss-with-gulp/)
 
 
+
 ---
 
 
+
 ### JavaScript
+
 
 #### Tools / References
 
@@ -264,7 +269,9 @@
   * [Meteor: The Official Guide](http://guide.meteor.com/)
 
 
+
 ---
+
 
 
 ### Git / GitHub
@@ -279,7 +286,9 @@
   * [Git Commits For Non-Git Users](https://github.com/thoughtbot/til/blob/master/GitCommitsForNonGitUsers.md)
 
 
+
 ---
+
 
 
 ### Markdown
@@ -312,7 +321,9 @@
   * [Haroopad (Windows/Max/Linux)](http://pad.haroopress.com/user.html)
 
 
+
 ---
+
 
 
 ### Regular Expressions
@@ -322,7 +333,9 @@
   * [Regulex](https://jex.im/regulex/)
 
 
+
 ---
+
 
 
 ### Documentation Collections
@@ -352,7 +365,7 @@
 
 
 
-  ---
+---
 
 
 
@@ -366,7 +379,7 @@
 
 
 
-  ---
+---
 
 
 

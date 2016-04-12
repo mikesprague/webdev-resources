@@ -289,6 +289,7 @@
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
   * [Git Commits For Non-Git Users](https://github.com/thoughtbot/til/blob/master/GitCommitsForNonGitUsers.md)
   * [GitHub Git Cheat Sheet (PDF)](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+  * [GitHub Training Classes](https://training.github.com/classes/)
 
 
 

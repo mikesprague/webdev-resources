@@ -97,6 +97,7 @@
   * [BrandColors: Official color codes for the world's biggest brands](http://brandcolors.net/)
   * [Colours: A list of colour names in CSS](http://colours.neilorangepeel.com/)
   * [CSS Modules Tutorial Series](https://css-tricks.com/css-modules-part-1-need/)
+  * [The Psychology of Color in Web Design](http://www.vandelaydesign.com/the-psychology-of-color-in-web-design/)
 
 
 #### Frameworks / Starters

@@ -95,6 +95,7 @@
   * [HTML Icon Font List](http://www.rrpowered.com/2014/05/html-icon-font-list/)
   * [Font Awesome Favicon Generator](http://paulferrett.com/fontawesome-favicon/)
   * [BrandColors: Official color codes for the world's biggest brands](http://brandcolors.net/)
+  * [Colours: A list of colour names in CSS](http://colours.neilorangepeel.com/)
 
 
 #### Frameworks / Starters

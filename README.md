@@ -95,6 +95,7 @@
   * [CSS Modules Tutorial Series](https://css-tricks.com/css-modules-part-1-need/)
   * [The Psychology of Color in Web Design](http://www.vandelaydesign.com/the-psychology-of-color-in-web-design/)
   * [Quick Tip: The Right Way to Use Figure & Figcaption Elements](http://www.sitepoint.com/quick-tip-the-right-way-to-use-figure-and-figcaption-elements/)
+  * [Building a dynamic SVG timer](http://stylecampaign.com/blog/2016/04/building-a-dynamic-svg-timer/)
 
 #### Frameworks / Starters
 
@@ -142,6 +143,7 @@
   * [Flexbox Froggy](http://flexboxfroggy.com/)
   * [Test CSS Flexbox Rules Live](http://flexbox.help/)
   * [Website Layout Tools Compared: Flexbox vs Susy](https://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/)
+  * [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 
 #### CSS Preprocessing / Post-processing
 
@@ -224,6 +226,7 @@
   * [Understanding the prototype property in JavaScript](http://bytearcher.com/articles/understanding-prototype-property-in-javascript/)
   * [Tracking unhandled rejected Promises](http://www.2ality.com/2016/04/unhandled-rejections.html)
   * [Introduction to Test Driven Development in JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-test-driven-development-in-javascript)
+  * [Understanding JavaScript Modules: Bundling & Transpiling](http://www.sitepoint.com/javascript-modules-bundling-transpiling/)
 
 #### jQuery
 
@@ -260,6 +263,7 @@
   * [Tutorial: Let's Build a Redux Powered React Application](https://stormpath.com/blog/build-a-redux-powered-react-application/)
   * [Build a Peer-to-Peer File Sharing Component in React & PeerJS](http://www.sitepoint.com/file-sharing-component-react/)
   * [Performance optimisations for React applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.pz48beu92)
+  * [How to Make Your React Apps 15x Faster](https://reactjsnews.com/how-to-make-your-react-apps-10x-faster)
 
 #### Angular
 

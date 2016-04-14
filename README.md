@@ -28,11 +28,7 @@
   12. **[eBooks](#ebooks)**
   13. **[Security](#security)**
 
-
-
 ---
-
-
 
 ### HTML(5) / CSS(3)
 
@@ -98,7 +94,7 @@
   * [Colours: A list of colour names in CSS](http://colours.neilorangepeel.com/)
   * [CSS Modules Tutorial Series](https://css-tricks.com/css-modules-part-1-need/)
   * [The Psychology of Color in Web Design](http://www.vandelaydesign.com/the-psychology-of-color-in-web-design/)
-
+  * [Quick Tip: The Right Way to Use Figure & Figcaption Elements](http://www.sitepoint.com/quick-tip-the-right-way-to-use-figure-and-figcaption-elements/)
 
 #### Frameworks / Starters
 
@@ -133,7 +129,7 @@
   * [Metro UI CSS](http://metroui.org.ua/)
   * [CloseCSS](http://closecss.io/)
   * [Repaintless Library for fast CSS Animations](https://github.com/szynszyliszys/repaintless)
-
+  * [Material Kit: A Badass Bootstrap UI Kit Based on Material Design](http://demos.creative-tim.com/material-kit/index.html)
 
 #### Flexbox
 
@@ -146,7 +142,6 @@
   * [Flexbox Froggy](http://flexboxfroggy.com/)
   * [Test CSS Flexbox Rules Live](http://flexbox.help/)
   * [Website Layout Tools Compared: Flexbox vs Susy](https://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/)
-
 
 #### CSS Preprocessing / Post-processing
 
@@ -163,15 +158,11 @@
   * [PostCSS](http://postcss.org/)
   * [PostCSS.parts: A searchable catalog of PostCSS plugins](http://postcss.parts/)
   * [How to Use PostCSS with Gulp](http://www.sitepoint.com/how-to-use-postcss-with-gulp/)
-
-
+  * [An introduction to PostCSS](http://blog.mrfrontend.org/2016/03/an-introduction-to-postcss/)
 
 ---
 
-
-
 ### JavaScript
-
 
 #### Tools / References
 
@@ -225,7 +216,14 @@
   * [Essential TDD/BDD React List](https://github.com/Cmdv/Essential-TDD-BDD-React-list)
   * [Chance.js: Utility library to generate anything random for JavaScript](http://chancejs.com/)
   * [ES6 - New Features in JavaScript by Tom Kelly](http://slides.com/tomkelly-1/es6-deck/#/)
-
+  * [A Guide to Proper Error Handling in JavaScript](http://www.sitepoint.com/proper-error-handling-javascript/)
+  * [Record almost everything in the browser with MediaRecorder](https://hacks.mozilla.org/2016/04/record-almost-everything-in-the-browser-with-mediarecorder/)
+  * [Lazy-load your images with Coloor](http://krasimirtsonev.com/blog/article/lazy-load-your-images-with-coloor)
+  * [Making a Simple Site Work Offline with ServiceWorker](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
+  * [Understanding JavaScript Modules: Bundling & Transpiling](http://www.sitepoint.com/javascript-modules-bundling-transpiling/)
+  * [Understanding the prototype property in JavaScript](http://bytearcher.com/articles/understanding-prototype-property-in-javascript/)
+  * [Tracking unhandled rejected Promises](http://www.2ality.com/2016/04/unhandled-rejections.html)
+  * [Introduction to Test Driven Development in JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-test-driven-development-in-javascript)
 
 #### jQuery
 
@@ -233,7 +231,6 @@
   * [jQuery UI Events Cheatsheet](http://bitsofco.de/jquery-ui-events/)
   * [An Introduction to jQuery’s Deferred Objects](http://www.sitepoint.com/introduction-jquery-deferred-objects/)
   * [JavaScript Design Patterns Cheat Sheet Using jQuery](https://github.com/nnupoor/js_designpatterns)
-
 
 #### Node/npm
 
@@ -245,7 +242,7 @@
   * [You Don't Know Node Repo](https://github.com/azat-co/you-dont-know-node)
   * [Node Patterns: From Callbacks to Observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/)
   * [Better Node with ES6 Tutorial Series](https://scotch.io/tutorials/better-node-with-es6-pt-i)
-
+  * [Deploy Your Own REST API in 30 Mins Using mLab and Heroku](http://www.sitepoint.com/deploy-rest-api-in-30-mins-mlabs-heroku/)
 
 #### React
 
@@ -260,7 +257,9 @@
   * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
   * [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial (Part 1)](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
   * [React Starter Kit](https://www.reactstarterkit.com/)
-
+  * [Tutorial: Let's Build a Redux Powered React Application](https://stormpath.com/blog/build-a-redux-powered-react-application/)
+  * [Build a Peer-to-Peer File Sharing Component in React & PeerJS](http://www.sitepoint.com/file-sharing-component-react/)
+  * [Performance optimisations for React applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.pz48beu92)
 
 #### Angular
 
@@ -269,17 +268,13 @@
   * [Todd Motto's Angular Style Guide](https://github.com/toddmotto/angular-styleguide)
   * [John Papa's Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
   * [AngularJS Best Practices](https://github.com/angular/angular.js/wiki/Best-Practices)
-
+  * [5 Rookie Mistakes to Avoid with Angular 2](http://angularjs.blogspot.com/2016/04/5-rookie-mistakes-to-avoid-with-angular.html)
 
 #### Meteor
 
   * [Meteor: The Official Guide](http://guide.meteor.com/)
 
-
-
 ---
-
-
 
 ### Git / GitHub
 
@@ -294,11 +289,7 @@
   * [GitHub Git Cheat Sheet (PDF)](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
   * [GitHub Training Classes](https://training.github.com/classes/)
 
-
-
 ---
-
-
 
 ### Markdown
 
@@ -308,7 +299,6 @@
   * [Mastering Markdown: Course by Wes Bos](http://masteringmarkdown.com/)
   * [Markdown Reference](http://commonmark.org/help/)
 
-
 #### Markdown Editors (Online)
 
   * [Markable.in](https://markable.in/)
@@ -316,7 +306,6 @@
   * [Dillinger](http://dillinger.io/)
   * [MirrorMark](http://musicbed.github.io/MirrorMark/)
   * [Classeur](https://app.classeur.io/)
-
 
 #### Markdown Editors (Local)
 
@@ -329,11 +318,7 @@
   * [Mou (Mac)](http://25.io/mou/)
   * [Haroopad (Windows/Max/Linux)](http://pad.haroopress.com/user.html)
 
-
-
 ---
-
-
 
 ### Regular Expressions
 
@@ -341,11 +326,7 @@
   * [Learn Regular Expressions in About 55 Minutes](http://qntm.org/files/re/re.html)
   * [Regulex](https://jex.im/regulex/)
 
-
-
 ---
-
-
 
 ### Documentation Collections
 
@@ -356,11 +337,7 @@
   * [Popular Coding Convention on Github](http://sideeffect.kr/popularconvention/)
   * [10up Engineering Best Practices](https://10up.github.io/Engineering-Best-Practices/)
 
-
-
 ---
-
-
 
 ### Project Management
 
@@ -372,11 +349,7 @@
   * [Example UX Docs and Deliverables](http://www.uxforthemasses.com/resources/example-ux-docs/)
   * [TrackingTime: Task-based Time Tracking](http://trackingtime.co/)
 
-
-
 ---
-
-
 
 ### Python
 
@@ -386,11 +359,7 @@
   * [Django Unchained – Learn and Master Django](http://herculesphaeton.com/2015/03/django-unchained-learn-and-master-django/)
   * [A Primer For Web Development In Python](http://herculesphaeton.com/2015/03/a-primer-for-web-development-in-python/)
 
-
-
 ---
-
-
 
 ### Ruby
 
@@ -398,11 +367,7 @@
   * [Try Ruby](http://tryruby.org/)
   * [Ruby Monk Interactive Ruby Tutorials](https://rubymonk.com/)
 
-
-
 ---
-
-
 
 ### PHP
 
@@ -412,11 +377,7 @@
   * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
   * [Laravel 5.1 Cheat Sheet](http://www.linxiang.info/l5-cs/)
 
-
-
 ---
-
-
 
 ### Editors / IDEs
 
@@ -425,11 +386,7 @@
   * [Sublime Text Tips](http://sublimetexttips.com/archives/)
   * [Getting Started with Sublime Text 3](https://generalassemb.ly/blog/sublime-text-3-tips-tricks-shortcuts/)
 
-
-
 ---
-
-
 
 ### eBooks
 
@@ -448,14 +405,12 @@
   * [A General Theory of Reactivity](https://kriskowal.gitbooks.io/gtor/content/)
   * [Heroku + Node.js](https://samypesse.gitbooks.io/heroku-node/content/)
 
-
-
 ---
-
-
 
 ### Security
 
   * [Analyze your HTTP Response Headers](https://securityheaders.io/)
   * [Report URI: CSP and HPKP Violation Reporting](https://report-uri.io/)
   * [What is Subresource Integrity (SRI)?](https://www.maxcdn.com/one/visual-glossary/subresource-integrity/)
+  * [Bolstering HTTPS Security](https://textslashplain.com/2016/04/11/bolstering-https-security/)
+  * [The Web Cryptography API]()https://medium.com/net-magazine/the-web-cryptography-api-15d052271494#.lc1oirmkt

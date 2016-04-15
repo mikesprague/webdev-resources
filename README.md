@@ -96,6 +96,7 @@
   * [The Psychology of Color in Web Design](http://www.vandelaydesign.com/the-psychology-of-color-in-web-design/)
   * [Quick Tip: The Right Way to Use Figure & Figcaption Elements](http://www.sitepoint.com/quick-tip-the-right-way-to-use-figure-and-figcaption-elements/)
   * [Building a dynamic SVG timer](http://stylecampaign.com/blog/2016/04/building-a-dynamic-svg-timer/)
+  * [How to make complex icons with only CSS](https://medium.com/truth-labs/how-to-make-complex-icons-with-only-css-e135e6dc2c5e#.y69y1y5q0)
 
 #### Frameworks / Starters
 
@@ -264,6 +265,7 @@
   * [Build a Peer-to-Peer File Sharing Component in React & PeerJS](http://www.sitepoint.com/file-sharing-component-react/)
   * [Performance optimisations for React applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.pz48beu92)
   * [How to Make Your React Apps 15x Faster](https://reactjsnews.com/how-to-make-your-react-apps-10x-faster)
+  * [Getting Started with React and JSX](http://www.sitepoint.com/getting-started-react-jsx/)
 
 #### Angular
 

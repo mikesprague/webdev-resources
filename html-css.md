@@ -104,7 +104,6 @@
   * [Metro UI CSS](http://metroui.org.ua/)
   * [CloseCSS](http://closecss.io/)
   * [Repaintless Library for fast CSS Animations](https://github.com/szynszyliszys/repaintless)
-  * [Material Kit: A Badass Bootstrap UI Kit Based on Material Design](http://demos.creative-tim.com/material-kit/index.html)
 
 ---
 
@@ -120,6 +119,12 @@
   * [Test CSS Flexbox Rules Live](http://flexbox.help/)
   * [Website Layout Tools Compared: Flexbox vs Susy](https://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/)
   * [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
+
+---
+
+### Bootstrap
+
+  * [Material Kit: A Badass Bootstrap UI Kit Based on Material Design](http://demos.creative-tim.com/material-kit/index.html)
 
 ---
 

@@ -108,6 +108,7 @@
   * [How to Make Your React Apps 15x Faster](https://reactjsnews.com/how-to-make-your-react-apps-10x-faster)
   * [Getting Started with React and JSX](http://www.sitepoint.com/getting-started-react-jsx/)
   * [React/Redux Links](https://github.com/markerikson/react-redux-links)
+  * [Material UI: A Set of React Components that Implement Google's Material Design](http://www.material-ui.com/#/)
 
 ---
 

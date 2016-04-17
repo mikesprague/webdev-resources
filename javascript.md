@@ -63,6 +63,7 @@
   * [Tracking unhandled rejected Promises](http://www.2ality.com/2016/04/unhandled-rejections.html)
   * [Introduction to Test Driven Development in JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-test-driven-development-in-javascript)
   * [Understanding JavaScript Modules: Bundling & Transpiling](http://www.sitepoint.com/javascript-modules-bundling-transpiling/)
+  * [jq: Lightweight and Flexible Command-line JSON Processor](https://stedolan.github.io/jq/)
 
 ---
 

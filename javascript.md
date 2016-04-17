@@ -107,6 +107,7 @@
   * [Performance optimisations for React applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.pz48beu92)
   * [How to Make Your React Apps 15x Faster](https://reactjsnews.com/how-to-make-your-react-apps-10x-faster)
   * [Getting Started with React and JSX](http://www.sitepoint.com/getting-started-react-jsx/)
+  * [React/Redux Links](https://github.com/markerikson/react-redux-links)
 
 ---
 

@@ -126,6 +126,15 @@
 ### Fonts / Icon Fonts
 
 * [Google Fonts](https://www.google.com/fonts)
+* [Font Squirrel](https://www.fontsquirrel.com/)
+* [CSS Font Stack](http://www.cssfontstack.com/)
+* [A Practical Guide to Web Typography](http://webtypography.net/)
+* [Comprehensive Guide: When to Use Em vs. Rem](http://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
+* [Using System UI Fonts in Web Design: A Quick Practical Guide](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/)
+* [Use rems for global sizing, use ems for local sizing](http://clagnut.com/blog/2384/)
+* [PX to EM conversions made simple](http://pxtoem.com/)
+* [REM Calculator](https://offroadcode.com/rem-calculator/)
+* [PX to EM Calculator](http://px-em.com/)
 * [Font Famous](http://fontfamous.com/)
 * [Font Awesome](http://fortawesome.io/)
 * [Icon Font & SVG Icon Sets](https://icomoon.io/)

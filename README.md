@@ -1,5 +1,7 @@
 # Web Development Resources
 
+A curated list of web development resources, tutorials, tools, etc. that I find useful
+
 ## Contents
 
   1. **[HTML(5) / CSS(3)](html-css.md#html5--css3)**

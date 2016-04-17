@@ -119,7 +119,13 @@
 
 ### Bootstrap
 
+  * [Bootstrap CDN](https://www.bootstrapcdn.com/)
+  * [Bootswatch: Free Themes for Bootstrap](https://bootswatch.com/)
+  * [Bootsnipp: Free Code Snippets for Bootstrap](http://bootsnipp.com/)
+  * [Start Bootstrap: Free Bootstrap Themes and Templates](http://startbootstrap.com/)
   * [Material Kit: A Badass Bootstrap UI Kit Based on Material Design](http://demos.creative-tim.com/material-kit/index.html)
+  * [Material Design Theme for Bootstrap 3](http://fezvrasta.github.io/bootstrap-material-design/)
+  * [Materialize](http://materializecss.com/)
 
 ---
 

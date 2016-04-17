@@ -20,6 +20,7 @@ A curated list of web development resources, tutorials, tools, etc. that I find 
     * [Meteor](javascript.md#meteor)
   3. **[Git/GitHub](git-github.md#git)**
   4. **[Markdown](markdown.md#markdown)**
+    * [References](markdown.md#references)
     * [Markdown Editors (Online)](markdown.md#markdown-editors-online)
     * [Markdown Editors (Local)](markdown.md#markdown-editors-local)
   5. **[Regular Expressions](regex.md#regular-expressions)**

@@ -146,6 +146,9 @@
 * [Icon Font & SVG Icon Sets](https://icomoon.io/)
 * [HTML Icon Font List](http://www.rrpowered.com/2014/05/html-icon-font-list/)
 * [Font Awesome Favicon Generator](http://paulferrett.com/fontawesome-favicon/)
+* [Material Icons Guide](http://google.github.io/material-design-icons/)
+* [Weather Icons](https://erikflowers.github.io/weather-icons/)
+* [GitHub's Icon Font](https://octicons.github.com/)
 
 ---
 

@@ -125,6 +125,7 @@
 
 ### Fonts / Icon Fonts
 
+* [Google Fonts](https://www.google.com/fonts)
 * [Font Famous](http://fontfamous.com/)
 * [Font Awesome](http://fortawesome.io/)
 * [Icon Font & SVG Icon Sets](https://icomoon.io/)

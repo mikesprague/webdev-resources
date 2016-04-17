@@ -9,6 +9,7 @@ A curated list of web development resources, tutorials, tools, etc. that I find 
     * [Frameworks / Starters](html-css.md#frameworks--starters)
     * [Flexbox](html-css.md#flexbox)
     * [Bootstrap](html-css.md#bootstrap)
+    * [Fonts / Icon Fonts](html-css.md#fonts--icon-fonts)
     * [CSS Preprocessing / Post-processing](html-css.md#css-preprocessing--post-processing)
   2. **[JavaScript](javascript.md#javascript)**
     * [Tools / References](javascript.md#tools--references-1)

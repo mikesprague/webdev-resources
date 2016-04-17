@@ -55,11 +55,6 @@
   * [Moving from HTML Grid Systems to CSS Grid Systems](http://zellwk.com/blog/from-html-grids-to-css-grids/)
   * [CSS custom properties (native variables) In-Depth](https://blog.gospodarets.com/css_properties_in_depth)
   * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
-  * [Font Famous](http://fontfamous.com/)
-  * [Font Awesome](http://fortawesome.io/)
-  * [Icon Font & SVG Icon Sets](https://icomoon.io/)
-  * [HTML Icon Font List](http://www.rrpowered.com/2014/05/html-icon-font-list/)
-  * [Font Awesome Favicon Generator](http://paulferrett.com/fontawesome-favicon/)
   * [BrandColors: Official color codes for the world's biggest brands](http://brandcolors.net/)
   * [Colours: A list of colour names in CSS](http://colours.neilorangepeel.com/)
   * [CSS Modules Tutorial Series](https://css-tricks.com/css-modules-part-1-need/)
@@ -125,6 +120,16 @@
 ### Bootstrap
 
   * [Material Kit: A Badass Bootstrap UI Kit Based on Material Design](http://demos.creative-tim.com/material-kit/index.html)
+
+---
+
+### Fonts / Icon Fonts
+
+* [Font Famous](http://fontfamous.com/)
+* [Font Awesome](http://fortawesome.io/)
+* [Icon Font & SVG Icon Sets](https://icomoon.io/)
+* [HTML Icon Font List](http://www.rrpowered.com/2014/05/html-icon-font-list/)
+* [Font Awesome Favicon Generator](http://paulferrett.com/fontawesome-favicon/)
 
 ---
 

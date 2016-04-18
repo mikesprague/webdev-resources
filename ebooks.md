@@ -17,3 +17,4 @@
   * [A General Theory of Reactivity](https://kriskowal.gitbooks.io/gtor/content/)
   * [Heroku + Node.js](https://samypesse.gitbooks.io/heroku-node/content/)
   * [A series of short books on ethical web development](https://github.com/ascott1/ethical-web-dev)
+  * [SurviveJS - Webpack and React - From apprentice to master](http://survivejs.com/webpack_react/introduction/)

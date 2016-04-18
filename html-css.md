@@ -64,6 +64,9 @@
   * [How to make complex icons with only CSS](https://medium.com/truth-labs/how-to-make-complex-icons-with-only-css-e135e6dc2c5e#.y69y1y5q0)
   * [Principles of Ethical Web Development](https://ethicalweb.org/)
   * [Colorizer: Color Picker and Converter](http://colorizer.org/)
+  * [Responsify: Responsive Template Generator](http://responsify.it/)
+  * [Golden Ratio Calculator](http://www.calculatorsoup.com/calculators/math/goldenratio.php)
+  * [Pictaculous Color Palette Generator](http://www.pictaculous.com/)
 
 ---
 

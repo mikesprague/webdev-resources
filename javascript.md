@@ -88,7 +88,9 @@
   * [You Don't Know Node Article](http://webapplog.com/you-dont-know-node/)
   * [You Don't Know Node Repo](https://github.com/azat-co/you-dont-know-node)
   * [Node Patterns: From Callbacks to Observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/)
-  * [Better Node with ES6 Tutorial Series](https://scotch.io/tutorials/better-node-with-es6-pt-i)
+  * Better Node with ES6 Tutorial Series
+    * [Part 1: Block Scoping, Aarow Functions, Shorthand Properties & Methods](https://scotch.io/tutorials/better-node-with-es6-pt-i)
+    * [Part 2: A Deep Dive into Classes](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
   * [Deploy Your Own REST API in 30 Mins Using mLab and Heroku](http://www.sitepoint.com/deploy-rest-api-in-30-mins-mlabs-heroku/)
 
 ---

@@ -65,6 +65,7 @@
   * [Understanding JavaScript Modules: Bundling & Transpiling](http://www.sitepoint.com/javascript-modules-bundling-transpiling/)
   * [jq: Lightweight and Flexible Command-line JSON Processor](https://stedolan.github.io/jq/)
   * [Unit Tests vs Functional Tests vs Integration Tests](https://github.com/paralleldrive/unit-vs-functional-vs-integration)
+  * [CSSX: Real, Working CSS in JavaScript](http://krasimir.github.io/cssx/)
 
 ---
 

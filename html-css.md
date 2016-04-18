@@ -149,6 +149,7 @@
 * [Material Icons Guide](http://google.github.io/material-design-icons/)
 * [Weather Icons](https://erikflowers.github.io/weather-icons/)
 * [GitHub's Icon Font](https://octicons.github.com/)
+* [Typicons Vector Icons ](http://typicons.com/)
 
 ---
 

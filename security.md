@@ -9,3 +9,4 @@
   * [The Web Cryptography API]()https://medium.com/net-magazine/the-web-cryptography-api-15d052271494#.lc1oirmkt
   * [The Basics of Web Application Security](http://martinfowler.com/articles/web-security-basics.html)
   * [Password Hashing: Why and How](http://ithare.com/password-hashing-why-and-how/)
+  * [Web Security Fundamentals Video Course (free)](https://www.varonis.com/learn/web-security-fundamentals/)

@@ -63,6 +63,7 @@
   * [Building a dynamic SVG timer](http://stylecampaign.com/blog/2016/04/building-a-dynamic-svg-timer/)
   * [How to make complex icons with only CSS](https://medium.com/truth-labs/how-to-make-complex-icons-with-only-css-e135e6dc2c5e#.y69y1y5q0)
   * [Principles of Ethical Web Development](https://ethicalweb.org/)
+  * [Colorizer: Color Picker and Converter](http://colorizer.org/)
 
 ---
 

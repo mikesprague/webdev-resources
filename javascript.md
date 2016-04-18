@@ -64,6 +64,7 @@
   * [Introduction to Test Driven Development in JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-test-driven-development-in-javascript)
   * [Understanding JavaScript Modules: Bundling & Transpiling](http://www.sitepoint.com/javascript-modules-bundling-transpiling/)
   * [jq: Lightweight and Flexible Command-line JSON Processor](https://stedolan.github.io/jq/)
+  * [Unit Tests vs Functional Tests vs Integration Tests](https://github.com/paralleldrive/unit-vs-functional-vs-integration)
 
 ---
 

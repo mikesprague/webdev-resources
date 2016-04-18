@@ -66,6 +66,7 @@
   * [jq: Lightweight and Flexible Command-line JSON Processor](https://stedolan.github.io/jq/)
   * [Unit Tests vs Functional Tests vs Integration Tests](https://github.com/paralleldrive/unit-vs-functional-vs-integration)
   * [CSSX: Real, Working CSS in JavaScript](http://krasimir.github.io/cssx/)
+  * [Finally, CSS In JavaScript! Meet CSSX (Tutorial)](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/)
 
 ---
 

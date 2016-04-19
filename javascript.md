@@ -135,3 +135,5 @@
 ### Meteor
 
   * [Meteor: The Official Guide](http://guide.meteor.com/)
+  * [LearnToProgram Meteor Tutorial 1](http://learntoprogram.wpengine.com/javascript-meteor-tutorial/)
+  * [LearnToProgram Meteor Tutorial 2](http://learntoprogram.wpengine.com/javascript-meteor-tutorial-2/)

@@ -103,6 +103,7 @@
   * [Metro UI CSS](http://metroui.org.ua/)
   * [CloseCSS](http://closecss.io/)
   * [Repaintless Library for fast CSS Animations](https://github.com/szynszyliszys/repaintless)
+  * [Solid Framework & Style Guide](http://solid.buzzfeed.com/)
 
 ---
 

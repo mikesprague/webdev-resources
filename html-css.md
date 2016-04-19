@@ -67,6 +67,8 @@
   * [Responsify: Responsive Template Generator](http://responsify.it/)
   * [Golden Ratio Calculator](http://www.calculatorsoup.com/calculators/math/goldenratio.php)
   * [Pictaculous Color Palette Generator](http://www.pictaculous.com/)
+  * [CSS @apply rule (native CSS mixins)](https://blog.gospodarets.com/css_apply_rule)
+  * [The Web Fonts: Preloaded](http://www.zachleat.com/web/preload/)
 
 ---
 

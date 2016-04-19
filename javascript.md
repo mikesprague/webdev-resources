@@ -118,6 +118,15 @@
   * [Material UI: A Set of React Components that Implement Google's Material Design](http://www.material-ui.com/#/)
   * [React Icons](http://gorangajic.github.io/react-icons/)
   * [Events in React](https://www.kirupa.com/react/events_in_react.htm)
+  * [React-topui: Topcoat components using reactjs](http://kjda.github.io/react-topui/)
+  * [React Toolbox](http://react-toolbox.com/)
+  * [Elemental UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
+  * [React Rocks: ReactJS Examples](https://react.rocks/)
+  * [Build with React: A Periodical of Tutorials and Advanced Articles](http://buildwithreact.com/)
+  * [Comprehensive Beginner’s Guide To ReactJS](http://antjanus.com/blog/web-development-tutorials/front-end-development/comprehensive-beginners-guide-to-reactjs/)
+  * [The ReactJS Bible](https://www.stanleycyang.com/tutorials/the-reactjs-bible)
+  * [React Redux Scaffold: A React Scaffold with Redux and its Best Practice](https://github.com/lcjnil/react-redux-scaffold)
+  * [Simple Redux Boilerplate: A simple, yet comprehensive React + Redux application, complete with DevTools](https://github.com/tsaiDavid/simple-redux-boilerplate)
 
 ---
 

@@ -18,3 +18,4 @@
   * [Heroku + Node.js](https://samypesse.gitbooks.io/heroku-node/content/)
   * [A series of short books on ethical web development](https://github.com/ascott1/ethical-web-dev)
   * [SurviveJS - Webpack and React - From apprentice to master](http://survivejs.com/webpack_react/introduction/)
+  * [The Node Beginner Book](http://www.nodebeginner.org/)

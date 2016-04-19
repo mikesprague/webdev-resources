@@ -116,6 +116,7 @@
   * [React/Redux Links](https://github.com/markerikson/react-redux-links)
   * [Material UI: A Set of React Components that Implement Google's Material Design](http://www.material-ui.com/#/)
   * [React Icons](http://gorangajic.github.io/react-icons/)
+  * [Events in React](https://www.kirupa.com/react/events_in_react.htm)
 
 ---
 

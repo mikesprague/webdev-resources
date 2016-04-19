@@ -92,6 +92,7 @@
     * [Part 1: Block Scoping, Aarow Functions, Shorthand Properties & Methods](https://scotch.io/tutorials/better-node-with-es6-pt-i)
     * [Part 2: A Deep Dive into Classes](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
   * [Deploy Your Own REST API in 30 Mins Using mLab and Heroku](http://www.sitepoint.com/deploy-rest-api-in-30-mins-mlabs-heroku/)
+  * [Brunch: ultra-fast HTML5 build tool](http://brunch.io/)
 
 ---
 

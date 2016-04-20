@@ -129,6 +129,8 @@
   * [The ReactJS Bible](https://www.stanleycyang.com/tutorials/the-reactjs-bible)
   * [React Redux Scaffold: A React Scaffold with Redux and its Best Practice](https://github.com/lcjnil/react-redux-scaffold)
   * [Simple Redux Boilerplate: A simple, yet comprehensive React + Redux application, complete with DevTools](https://github.com/tsaiDavid/simple-redux-boilerplate)
+  * [React 101, Part 1: Building a GIF search engine](http://blog.tighten.co/react-101-building-a-gif-search-engine)
+  * [React 101, Part 2: Refactoring with Redux](http://blog.tighten.co/react-101-using-redux)
 
 ---
 

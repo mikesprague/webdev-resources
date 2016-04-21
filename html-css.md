@@ -134,6 +134,7 @@
   * [Material Kit: A Badass Bootstrap UI Kit Based on Material Design](http://demos.creative-tim.com/material-kit/index.html)
   * [Material Design Theme for Bootstrap 3](http://fezvrasta.github.io/bootstrap-material-design/)
   * [Materialize](http://materializecss.com/)
+  * [Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet)
 
 ---
 

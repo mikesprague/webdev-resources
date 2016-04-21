@@ -160,6 +160,7 @@
 * [Weather Icons](https://erikflowers.github.io/weather-icons/)
 * [GitHub's Icon Font](https://octicons.github.com/)
 * [Typicons Vector Icons ](http://typicons.com/)
+* [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
 
 ---
 

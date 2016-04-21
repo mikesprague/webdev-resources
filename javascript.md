@@ -131,6 +131,7 @@
   * [Simple Redux Boilerplate: A simple, yet comprehensive React + Redux application, complete with DevTools](https://github.com/tsaiDavid/simple-redux-boilerplate)
   * [React 101, Part 1: Building a GIF search engine](http://blog.tighten.co/react-101-building-a-gif-search-engine)
   * [React 101, Part 2: Refactoring with Redux](http://blog.tighten.co/react-101-using-redux)
+  * [Rally Coding - Weekly Videos on React](http://rallycoding.com/)
 
 ---
 

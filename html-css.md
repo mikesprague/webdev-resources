@@ -122,6 +122,7 @@
   * [Website Layout Tools Compared: Flexbox vs Susy](https://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/)
   * [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
   * [Flexbox Patterns: Build awesome user interfaces with CSS flexbox (examples and source code included)](http://www.flexboxpatterns.com/)
+  * [The Web Designer's Guide to Flexbox](http://www.creativebloq.com/web-design/solve-layout-problems-flexbox-21619093)
 
 ---
 

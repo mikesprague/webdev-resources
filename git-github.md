@@ -15,3 +15,4 @@
   * [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
   * [Learn Git Branching](https://pcottle.github.io/learnGitBranching/)
   * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+  * [Getting Started – Git-Flow](https://yakiloo.com/getting-started-git-flow/)

@@ -19,3 +19,4 @@
   * [A series of short books on ethical web development](https://github.com/ascott1/ethical-web-dev)
   * [SurviveJS - Webpack and React - From apprentice to master](http://survivejs.com/webpack_react/introduction/)
   * [The Node Beginner Book](http://www.nodebeginner.org/)
+  * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)

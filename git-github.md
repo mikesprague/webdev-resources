@@ -12,3 +12,4 @@
   * [Git Commits For Non-Git Users](https://github.com/thoughtbot/til/blob/master/GitCommitsForNonGitUsers.md)
   * [GitHub Git Cheat Sheet (PDF)](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
   * [GitHub Training Classes](https://training.github.com/classes/)
+  * [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)

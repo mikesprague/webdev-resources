@@ -95,6 +95,7 @@
   * [Deploy Your Own REST API in 30 Mins Using mLab and Heroku](http://www.sitepoint.com/deploy-rest-api-in-30-mins-mlabs-heroku/)
   * [Brunch: ultra-fast HTML5 build tool](http://brunch.io/)
   * [Webpack Your Bags](https://blog.madewithlove.be/post/webpack-your-bags/)
+  * [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.3np9yuycx)
 
 ---
 

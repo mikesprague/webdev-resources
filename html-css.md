@@ -68,7 +68,7 @@
   * [Golden Ratio Calculator](http://www.calculatorsoup.com/calculators/math/goldenratio.php)
   * [Pictaculous Color Palette Generator](http://www.pictaculous.com/)
   * [CSS @apply rule (native CSS mixins)](https://blog.gospodarets.com/css_apply_rule)
-  * [The Web Fonts: Preloaded](http://www.zachleat.com/web/preload/)
+  * [Global CSS Property Usage](https://developer.microsoft.com/en-us/microsoft-edge/platform/usage/)
 
 ---
 
@@ -161,6 +161,7 @@
 * [Weather Icons](https://erikflowers.github.io/weather-icons/)
 * [GitHub's Icon Font](https://octicons.github.com/)
 * [Typicons Vector Icons ](http://typicons.com/)
+* [The Web Fonts: Preloaded](http://www.zachleat.com/web/preload/)
 * [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
 
 ---

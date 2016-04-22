@@ -68,6 +68,7 @@
   * [CSSX: Real, Working CSS in JavaScript](http://krasimir.github.io/cssx/)
   * [Finally, CSS In JavaScript! Meet CSSX (Tutorial)](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/)
   * [Function Expressions vs Function Declarations](http://www.sitepoint.com/function-expressions-vs-declarations/)
+  * [10 Priceless Resources for JavaScript Learners](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e#.6a00qq3ag)
 
 ---
 

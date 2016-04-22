@@ -20,3 +20,4 @@
   * [SurviveJS - Webpack and React - From apprentice to master](http://survivejs.com/webpack_react/introduction/)
   * [The Node Beginner Book](http://www.nodebeginner.org/)
   * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
+  * [The Docker & Container Ebook Series](https://github.com/thenewstack/docker-and-containers-ebooks)

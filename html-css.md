@@ -72,6 +72,7 @@
   * [Performance Tooling Today](http://www.perf-tooling.today/)
   * [HTML5 Cheat Sheet](http://www.hostingreviewbox.com/html5-cheat-sheet/)
   * [Diff of HTMLs](https://diffofhtmls.herokuapp.com/)
+  * [CSS Suppport Guide for Email Clients](https://www.campaignmonitor.com/css/)
 
 ---
 

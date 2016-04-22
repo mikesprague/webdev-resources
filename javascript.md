@@ -150,6 +150,7 @@
   * [Build Your First Mobile App With Ionic 2 & Angular 2](http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2/)
   * [Angular 2 — Unit Testing recipes: Recipes for Angular 2 Unit Testing using Jasmine](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584#.mqrtu7jbc)
   * [A Fast Angular 2 Setup with Components and the Component Router](http://developer.telerik.com/content-types/tutorials/super-fast-setup-angular-2-components-component-router/)
+  * [Angular 2 Authentication with Auth0 and NodeJS](https://toddmotto.com/angular-2-authentication)
 
 ---
 

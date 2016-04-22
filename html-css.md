@@ -77,6 +77,7 @@
   * [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes)
   * [HEAD - A Collection of HTML Head Elements](https://github.com/joshbuchea/HEAD)
   * [Boxy SVG: A Fast, Simple, Insanely Useful, FREE SVG Editor](http://www.sitepoint.com/boxy-svg-a-fast-simple-insanely-useful-svg-editor/)
+  * [An Introduction to Stylelint](https://css-tricks.com/stylelint/)
 
 ---
 

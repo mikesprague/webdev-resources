@@ -144,6 +144,7 @@
   * [Rally Coding - Weekly Videos on React](http://rallycoding.com/)
   * [Testing in React: Getting Off The Ground](https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.hu949pk7p)
   * [5 Open Source React Native Projects To Learn From](https://medium.com/@bilalbudhani/5-open-source-react-native-projects-to-learn-from-fb7e5cfe29f2#.3gteereqt)
+  * [React Redux Starter Kit](https://github.com/davezuko/react-redux-starter-kit)
 
 ---
 

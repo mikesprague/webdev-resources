@@ -76,6 +76,7 @@
   * [The A11Y Project: A community-driven effort to make web accessibility easier](http://a11yproject.com/)
   * [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes)
   * [HEAD - A Collection of HTML Head Elements](https://github.com/joshbuchea/HEAD)
+  * [Boxy SVG: A Fast, Simple, Insanely Useful, FREE SVG Editor](http://www.sitepoint.com/boxy-svg-a-fast-simple-insanely-useful-svg-editor/)
 
 ---
 

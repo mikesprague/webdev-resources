@@ -35,3 +35,4 @@ A curated list of web development resources, tutorials, tools, etc. that I find 
   14. **[Docker](docker.md#docker)**
   15. **[Wordpress](wordpress.md#wordpress)**
   16. **[Vagrant / Otto](vagrant-otto.md#vagrant--otto)**
+  17. **[SQL](sql.md#sql)**

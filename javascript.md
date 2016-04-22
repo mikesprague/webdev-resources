@@ -72,6 +72,7 @@
   * [Keyboard Event Viewer](http://w3c.github.io/uievents/tools/key-event-viewer.html)
   * [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md)
   * [JS Tips](http://www.jstips.co/)
+  * [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 
 ---
 

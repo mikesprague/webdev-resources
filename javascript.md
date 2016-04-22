@@ -80,6 +80,7 @@
   * [An Introduction to jQuery’s Deferred Objects](http://www.sitepoint.com/introduction-jquery-deferred-objects/)
   * [JavaScript Design Patterns Cheat Sheet Using jQuery](https://github.com/nnupoor/js_designpatterns)
   * [A Comprehensive Look at Events in jQuery](http://www.sitepoint.com/comprehensive-events-jquery/)
+  * [jQuery Quick API Reference](https://oscarotero.com/jquery/)
 
 ---
 

@@ -70,6 +70,7 @@
   * [CSS @apply rule (native CSS mixins)](https://blog.gospodarets.com/css_apply_rule)
   * [Global CSS Property Usage](https://developer.microsoft.com/en-us/microsoft-edge/platform/usage/)
   * [Performance Tooling Today](http://www.perf-tooling.today/)
+  * [HTML5 Cheat Sheet](http://www.hostingreviewbox.com/html5-cheat-sheet/)
 
 ---
 

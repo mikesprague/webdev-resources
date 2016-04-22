@@ -98,6 +98,7 @@
   * [Webpack Your Bags](https://blog.madewithlove.be/post/webpack-your-bags/)
   * [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.3np9yuycx)
   * [Creating Modules in JavaScript with ES7 and Babel](https://blog.jscrambler.com/creating-modules-javascript-es7-babel/)
+  * [Speeding up npm in Virtual Environments](https://blog.plaid.com/npmserve/)
 
 ---
 

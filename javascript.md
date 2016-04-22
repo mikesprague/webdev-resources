@@ -135,6 +135,7 @@
   * [React 101, Part 1: Building a GIF search engine](http://blog.tighten.co/react-101-building-a-gif-search-engine)
   * [React 101, Part 2: Refactoring with Redux](http://blog.tighten.co/react-101-using-redux)
   * [Rally Coding - Weekly Videos on React](http://rallycoding.com/)
+  * [Testing in React: Getting Off The Ground](https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.hu949pk7p)
 
 ---
 

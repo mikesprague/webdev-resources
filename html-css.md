@@ -75,6 +75,7 @@
   * [CSS Suppport Guide for Email Clients](https://www.campaignmonitor.com/css/)
   * [The A11Y Project: A community-driven effort to make web accessibility easier](http://a11yproject.com/)
   * [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes)
+  * [HEAD - A Collection of HTML Head Elements](https://github.com/joshbuchea/HEAD)
 
 ---
 

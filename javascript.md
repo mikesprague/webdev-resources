@@ -70,6 +70,7 @@
   * [Function Expressions vs Function Declarations](http://www.sitepoint.com/function-expressions-vs-declarations/)
   * [10 Priceless Resources for JavaScript Learners](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e#.6a00qq3ag)
   * [Keyboard Event Viewer](http://w3c.github.io/uievents/tools/key-event-viewer.html)
+  * [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md)
 
 ---
 

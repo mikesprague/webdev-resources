@@ -78,6 +78,7 @@
   * [HEAD - A Collection of HTML Head Elements](https://github.com/joshbuchea/HEAD)
   * [Boxy SVG: A Fast, Simple, Insanely Useful, FREE SVG Editor](http://www.sitepoint.com/boxy-svg-a-fast-simple-insanely-useful-svg-editor/)
   * [An Introduction to Stylelint](https://css-tricks.com/stylelint/)
+  * [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/)
 
 ---
 

@@ -74,6 +74,7 @@
   * [JS Tips](http://www.jstips.co/)
   * [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
   * [JavaScript Objects — What You Don’t Know CAN Hurt You](http://blog.dmbcllc.com/javascript-objectswhat-you-dont-know-can-hurt-you/)
+  * [JavaScript Object Fields](http://blog.dmbcllc.com/javascript-fields/)
 
 ---
 

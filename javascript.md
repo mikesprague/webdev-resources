@@ -166,6 +166,11 @@
   * [Angular 2 Authentication with Auth0 and NodeJS](https://toddmotto.com/angular-2-authentication)
   * [Angular 2 Redux Starter](https://github.com/rangle/angular2-redux-starter)
   * [Rangle.io's Angular 2 Resources](http://rangle.io/angular-2-resources/)
+  * An In-depth Angular 2 Video Series
+    * [The Decision Maker's Guide: Why You Should Move to Angular 2.0 Now](http://rangle.io/resources/decision-makers-guide-why-you-should-move-angular-2-now/)
+    * [Thinking in Angular 2.0](http://rangle.io/resources/thinking-in-angular-2-overview-of-key-angular-2-concepts-for-angular-1-traditional-javascript-developers/)
+    * [Mastering Your Angular 2 Workflow with Batarangle, TypeScript, Webpack and More](http://rangle.io/resources/master-your-angular2-workflow-with-batarangle-typescript-webpack-key-tools/)
+    * [How to Start Using Angular 2.0 with Your Angular 1.0 Code Base](http://rangle.io/resources/how-to-start-using-angular-2-with-your-angular-1-code-base/)
 
 ---
 

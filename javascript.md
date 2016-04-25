@@ -108,6 +108,7 @@
   * [Creating Modules in JavaScript with ES7 and Babel](https://blog.jscrambler.com/creating-modules-javascript-es7-babel/)
   * [Speeding up npm in Virtual Environments](https://blog.plaid.com/npmserve/)
   * [Gulp Configuration: A Beginners Guide](https://webdevstudios.com/2016/04/12/gulp-configuration-a-beginners-guide/)
+  * [A to Z List of Useful Node.js Modules](https://www.codementor.io/nodejs/tutorial/list-of-useful-nodejs-modules)
 
 ---
 

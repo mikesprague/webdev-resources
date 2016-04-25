@@ -17,3 +17,4 @@
   * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
   * [Getting Started – Git-Flow](https://yakiloo.com/getting-started-git-flow/)
   * [Git-Flow Cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+  * [Beginner’s Guide to Using Git and GitHub](https://www.codementor.io/git/tutorial/git-github-tutorial-for-beginners)

@@ -165,6 +165,7 @@
   * [A Fast Angular 2 Setup with Components and the Component Router](http://developer.telerik.com/content-types/tutorials/super-fast-setup-angular-2-components-component-router/)
   * [Angular 2 Authentication with Auth0 and NodeJS](https://toddmotto.com/angular-2-authentication)
   * [Angular 2 Redux Starter](https://github.com/rangle/angular2-redux-starter)
+  * [Rangle.io's Angular 2 Resources](http://rangle.io/angular-2-resources/)
 
 ---
 

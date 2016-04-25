@@ -149,6 +149,7 @@
   * [5 Open Source React Native Projects To Learn From](https://medium.com/@bilalbudhani/5-open-source-react-native-projects-to-learn-from-fb7e5cfe29f2#.3gteereqt)
   * [React Redux Starter Kit](https://github.com/davezuko/react-redux-starter-kit)
   * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+  * [Setting Up a React.js Environment Using Npm, Babel 6 and Webpack](https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack)
 
 ---
 

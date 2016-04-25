@@ -21,3 +21,4 @@
   * [The Node Beginner Book](http://www.nodebeginner.org/)
   * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
   * [The Docker & Container Ebook Series](https://github.com/thenewstack/docker-and-containers-ebooks)
+  * [Angular 2 Training](https://www.gitbook.com/book/rangle-io/ngcourse2/details)

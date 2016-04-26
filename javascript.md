@@ -76,6 +76,7 @@
   * [JavaScript Objects — What You Don’t Know CAN Hurt You](http://blog.dmbcllc.com/javascript-objectswhat-you-dont-know-can-hurt-you/)
   * [JavaScript Object Fields](http://blog.dmbcllc.com/javascript-fields/)
   * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/)
+  * [JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration/)
 
 ---
 

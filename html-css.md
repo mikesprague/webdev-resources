@@ -83,6 +83,7 @@
   * [CSS clip-path maker](http://bennettfeely.com/clippy/)
   * [Diffee: Instant visual diffing with CSS blend modes](http://una.im/diffee/)
   * [Styling Text With SVG Filters](https://www.codeschool.com/blog/2016/04/21/styling-text-with-svg-filters/)
+  * [The tilde CSS selector, use carefully!](https://falkus.co/2016/04/the-tilde-css-selector-use-carefully/)
 
 ---
 

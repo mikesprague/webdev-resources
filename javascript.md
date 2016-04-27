@@ -79,6 +79,7 @@
   * [JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration/)
   * [grafi.js: JavaScript Image Processing Library](http://grafijs.org/)
   * [How to Log Client-Side JavaScript Errors](https://scotch.io/tutorials/how-to-log-client-side-javascript-errors)
+  * [DOM Features You Didn’t Know Existed (Video & Slides)](http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/)
 
 ---
 

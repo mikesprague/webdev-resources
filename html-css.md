@@ -85,6 +85,7 @@
   * [Styling Text With SVG Filters](https://www.codeschool.com/blog/2016/04/21/styling-text-with-svg-filters/)
   * [The tilde CSS selector, use carefully!](https://falkus.co/2016/04/the-tilde-css-selector-use-carefully/)
   * [A Basic HTML5 Template For Any Project](http://www.sitepoint.com/a-basic-html5-template/)
+  * [Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)
 
 ---
 

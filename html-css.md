@@ -82,6 +82,7 @@
   * [CSS Gradients with background-blend-mode](http://bennettfeely.com/gradients/)
   * [CSS clip-path maker](http://bennettfeely.com/clippy/)
   * [Diffee: Instant visual diffing with CSS blend modes](http://una.im/diffee/)
+  * [Styling Text With SVG Filters](https://www.codeschool.com/blog/2016/04/21/styling-text-with-svg-filters/)
 
 ---
 

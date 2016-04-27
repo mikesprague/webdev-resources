@@ -5,7 +5,7 @@ A curated list of web development resources, tutorials, tools, etc. that I find 
 ## Contents
 
   1. **[HTML(5) / CSS(3)](html-css.md#html5--css3)**
-    * [Tools / References](html-css.md#tools--references)
+    * [Tools / References / Tutorials](html-css.md#tools--references--tutorials)
     * [Frameworks / Starters](html-css.md#frameworks--starters)
     * [Flexbox](html-css.md#flexbox)
     * [Bootstrap](html-css.md#bootstrap)

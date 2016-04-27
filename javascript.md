@@ -78,6 +78,7 @@
   * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/)
   * [JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration/)
   * [grafi.js: JavaScript Image Processing Library](http://grafijs.org/)
+  * [How to Log Client-Side JavaScript Errors](https://scotch.io/tutorials/how-to-log-client-side-javascript-errors)
 
 ---
 

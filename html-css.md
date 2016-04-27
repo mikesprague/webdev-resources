@@ -81,6 +81,7 @@
   * [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/)
   * [CSS Gradients with background-blend-mode](http://bennettfeely.com/gradients/)
   * [CSS clip-path maker](http://bennettfeely.com/clippy/)
+  * [Diffee: Instant visual diffing with CSS blend modes](http://una.im/diffee/)
 
 ---
 

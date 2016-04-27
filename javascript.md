@@ -180,6 +180,7 @@
     * [Thinking in Angular 2.0](http://rangle.io/resources/thinking-in-angular-2-overview-of-key-angular-2-concepts-for-angular-1-traditional-javascript-developers/)
     * [Mastering Your Angular 2 Workflow with Batarangle, TypeScript, Webpack and More](http://rangle.io/resources/master-your-angular2-workflow-with-batarangle-typescript-webpack-key-tools/)
     * [How to Start Using Angular 2.0 with Your Angular 1.0 Code Base](http://rangle.io/resources/how-to-start-using-angular-2-with-your-angular-1-code-base/)
+  * [Angular 2: Getting off the Starting Line](http://tattoocoder.azurewebsites.net/angular-2-getting-off-the-starting-line/)
 
 ---
 

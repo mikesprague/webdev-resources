@@ -86,6 +86,7 @@
   * [The tilde CSS selector, use carefully!](https://falkus.co/2016/04/the-tilde-css-selector-use-carefully/)
   * [A Basic HTML5 Template For Any Project](http://www.sitepoint.com/a-basic-html5-template/)
   * [Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)
+  * [Quick Tip: Using CSS Counters to Style Incremental Elements](http://webdesign.tutsplus.com/tutorials/quick-tip-using-css-counters-to-style-incremental-elements--cms-23497)
 
 ---
 

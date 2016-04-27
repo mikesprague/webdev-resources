@@ -113,6 +113,8 @@
   * [Gulp Configuration: A Beginners Guide](https://webdevstudios.com/2016/04/12/gulp-configuration-a-beginners-guide/)
   * [A to Z List of Useful Node.js Modules](https://www.codementor.io/nodejs/tutorial/list-of-useful-nodejs-modules)
   * [Styleguide: Living Styleguide Made Easy](https://devbridge.github.io/Styleguide/)
+  * [Awesome Node.js - A curated list of delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
+  * [Awesome npm - npm resources and tips](https://github.com/sindresorhus/awesome-npm)
 
 ---
 

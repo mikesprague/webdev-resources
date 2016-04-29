@@ -160,6 +160,7 @@
   * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
   * [Setting Up a React.js Environment Using Npm, Babel 6 and Webpack](https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack)
   * [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
+  * [React Compose: Simpler Stateless Components](http://reactcompose.com/)
 
 ---
 

@@ -26,3 +26,4 @@
   * [Building Front-End Web Apps with Plain JavaScript, without Using Frameworks](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book)
   * [The JavaScript Tutorial: Classic free ebook to learn to code with JavaScript](http://javascript.info/)
   * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
+  * [Exploring ES6](http://exploringjs.com/es6/)

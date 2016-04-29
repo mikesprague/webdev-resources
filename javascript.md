@@ -125,6 +125,7 @@
   * [Create a TV Show Tracker using AngularJS, Node.js and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
   * [JavaScript Standard Style](http://standardjs.com/)
   * [Cross-platform Node.js](http://alan.norbauer.com/articles/cross-platform-nodejs/)
+  * [Using MySQL in Node.js](http://gajus.com/blog/8/using-mysql-in-node-js)
 
 ---
 

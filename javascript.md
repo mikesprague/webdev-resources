@@ -120,6 +120,7 @@
   * [Awesome Node.js - A curated list of delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
   * [Awesome npm - npm resources and tips](https://github.com/sindresorhus/awesome-npm)
   * [Hackathon Starter: A boilerplate for Node.js web applications](https://github.com/sahat/hackathon-starter)
+  * [Build an Instagram clone with AngularJS, Satellizer, Node.js and MongoDB](http://sahatyalkabov.com/build-an-instagram-clone-using-angularjs-satellizer-nodejs-and-mongodb/)
 
 ---
 

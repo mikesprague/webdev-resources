@@ -32,3 +32,4 @@
   * [Systematic CSS — The simplest way to design websites](http://www.systematiccss.com/)
   * [CSS Guidelines: Great free ebook for writing sane, manageable and scalable CSS](http://cssguidelin.es/)
   * [Transforms in CSS: eBook for learning to code animations (free download)](http://www.oreilly.com/free/transforms-in-css.csp)
+  * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)

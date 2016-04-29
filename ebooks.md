@@ -28,3 +28,4 @@
   * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
   * [Exploring ES6](http://exploringjs.com/es6/)
   * [Understanding ES6: Get started with the new Javascript](https://leanpub.com/understandinges6/read)
+  * [Node: Up and Running: Free ebook for building scalable apps with Node](http://chimera.labs.oreilly.com/books/1234000001808/index.html)

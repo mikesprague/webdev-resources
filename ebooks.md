@@ -30,3 +30,4 @@
   * [Understanding ES6: Get started with the new Javascript](https://leanpub.com/understandinges6/read)
   * [Node: Up and Running: Free ebook for building scalable apps with Node](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
   * [Systematic CSS — The simplest way to design websites](http://www.systematiccss.com/)
+  * [CSS Guidelines: Great free ebook for writing sane, manageable and scalable CSS](http://cssguidelin.es/)

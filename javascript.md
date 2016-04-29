@@ -81,6 +81,7 @@
   * [How to Log Client-Side JavaScript Errors](https://scotch.io/tutorials/how-to-log-client-side-javascript-errors)
   * [DOM Features You Didn’t Know Existed (Video & Slides)](http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/)
   * [Cycle.js - A functional and reactive JavaScript framework for cleaner code](http://cycle.js.org/)
+  * [12 Extremely Useful Hacks for JavaScript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/)
 
 ---
 

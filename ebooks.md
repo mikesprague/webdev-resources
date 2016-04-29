@@ -22,3 +22,4 @@
   * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial)
   * [The Docker & Container Ebook Series](https://github.com/thenewstack/docker-and-containers-ebooks)
   * [Angular 2 Training](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
+  * [Speaking JavaScript: An in-depth guide for programmers](http://speakingjs.com/es5/index.html)

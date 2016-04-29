@@ -34,3 +34,4 @@
   * [Transforms in CSS: eBook for learning to code animations (free download)](http://www.oreilly.com/free/transforms-in-css.csp)
   * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
   * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html)
+  * [Dive Into HTML5: Free ebook for intermediate web developers](http://diveintohtml5.info/index.html)

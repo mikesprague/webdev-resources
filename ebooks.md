@@ -31,3 +31,4 @@
   * [Node: Up and Running: Free ebook for building scalable apps with Node](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
   * [Systematic CSS — The simplest way to design websites](http://www.systematiccss.com/)
   * [CSS Guidelines: Great free ebook for writing sane, manageable and scalable CSS](http://cssguidelin.es/)
+  * [Transforms in CSS: eBook for learning to code animations (free download)](http://www.oreilly.com/free/transforms-in-css.csp)

@@ -83,6 +83,7 @@
   * [Cycle.js - A functional and reactive JavaScript framework for cleaner code](http://cycle.js.org/)
   * [12 Extremely Useful Hacks for JavaScript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/)
   * [Prototypal Object-Oriented Programming using JavaScript](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript)
+  * [Algebrite: Computer Algebra System in Javascript](http://algebrite.org/)
 
 ---
 

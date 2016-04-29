@@ -23,3 +23,4 @@
   * [The Docker & Container Ebook Series](https://github.com/thenewstack/docker-and-containers-ebooks)
   * [Angular 2 Training](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
   * [Speaking JavaScript: An in-depth guide for programmers](http://speakingjs.com/es5/index.html)
+  * [Building Front-End Web Apps with Plain JavaScript, without Using Frameworks](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book)

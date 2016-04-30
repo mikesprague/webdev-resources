@@ -199,6 +199,7 @@
     * [How to Start Using Angular 2.0 with Your Angular 1.0 Code Base](http://rangle.io/resources/how-to-start-using-angular-2-with-your-angular-1-code-base/)
   * [Angular 2: Getting off the Starting Line](http://tattoocoder.azurewebsites.net/angular-2-getting-off-the-starting-line/)
   * [Satellizer: Token-based AngularJS Authentication](https://github.com/sahat/satellizer)
+  * [The Journey to Angular: Part 1](http://www.codemag.com/article/1605031)
 
 ---
 

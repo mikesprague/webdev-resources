@@ -132,6 +132,7 @@
   * [NodeJS ES2015/ES6 Support Table](http://node.green/)
   * [Introducing yakbak: Record and playback HTTP interactions in NodeJS](http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/)
   * [How to write a web scraper in Node.js](https://www.codementor.io/nodejs/tutorial/how-to-write-a-web-scraper-in-nodejs)
+  * [Use JavaScript closures efficiently: Avoid memory leaks in your Node.js apps](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
 
 ---
 

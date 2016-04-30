@@ -200,6 +200,7 @@
   * [Angular 2: Getting off the Starting Line](http://tattoocoder.azurewebsites.net/angular-2-getting-off-the-starting-line/)
   * [Satellizer: Token-based AngularJS Authentication](https://github.com/sahat/satellizer)
   * [The Journey to Angular: Part 1](http://www.codemag.com/article/1605031)
+  * [AngularJS 2 (Introduction/Tutorial)](http://www.codemag.com/article/1605041)
 
 ---
 

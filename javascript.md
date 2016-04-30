@@ -84,6 +84,7 @@
   * [12 Extremely Useful Hacks for JavaScript](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/)
   * [Prototypal Object-Oriented Programming using JavaScript](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript)
   * [Algebrite: Computer Algebra System in Javascript](http://algebrite.org/)
+  * [Simplifying Objects, Inheritance and prototype in JavaScript](http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2016/04/28/simplifying-objects-inheritance-and-prototype-in-javascript.aspx)
 
 ---
 

@@ -35,3 +35,4 @@
   * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
   * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html)
   * [Dive Into HTML5: Free ebook for intermediate web developers](http://diveintohtml5.info/index.html)
+  * [Easy WP Guide: A simple, easy to read WordPress Manual](http://easywpguide.com/)

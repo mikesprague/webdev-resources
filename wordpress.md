@@ -4,3 +4,4 @@
 * [The Ultimate Guide To Automatic Updates With WP Pusher](http://blog.wppusher.com/the-ultimate-guide-to-automatic-updates-with-wp-pusher/)
 * [How to Remove Slow WordPress Plugins and Find Faster Alternatives](http://themeisle.com/blog/remove-slow-wordpress-plugins/)
 * [39 Must-Have WordPress Development Tools](http://premium.wpmudev.org/blog/wordpress-developer-tools/)
+* [The Ultimate WordPress Development Environment](http://www.sitepoint.com/ultimate-wordpress-development-environment/)

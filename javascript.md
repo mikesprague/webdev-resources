@@ -129,6 +129,7 @@
   * [Using MySQL in Node.js](http://gajus.com/blog/8/using-mysql-in-node-js)
   * [NodeJS ES2015/ES6 Support Table](http://node.green/)
   * [Introducing yakbak: Record and playback HTTP interactions in NodeJS](http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/)
+  * [How to write a web scraper in Node.js](https://www.codementor.io/nodejs/tutorial/how-to-write-a-web-scraper-in-nodejs)
 
 ---
 

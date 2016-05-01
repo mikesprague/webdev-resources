@@ -2,7 +2,7 @@
 
 ## JavaScript
 
-### Tools / References
+### Tools / References / Tutorials
 
   * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
   * [Compare JavaScript libraries by weight (file size)](http://weightof.it/)

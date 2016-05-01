@@ -184,6 +184,7 @@
 * [The Web Fonts: Preloaded](http://www.zachleat.com/web/preload/)
 * [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
 * [Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://sarasoueidan.com/blog/icon-fonts-to-svg/)
+* [Typography for Developers: A practical guide to web typography](https://medium.com/hh-design/typography-for-developers-975cf2abd1e#.8lfptfz9q)
 
 ---
 

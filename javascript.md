@@ -86,6 +86,7 @@
   * [Algebrite: Computer Algebra System in Javascript](http://algebrite.org/)
   * [Simplifying Objects, Inheritance and prototype in JavaScript](http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2016/04/28/simplifying-objects-inheritance-and-prototype-in-javascript.aspx)
   * [Redirection Using JavaScript](http://www.love2dev.com/#!article/Redirection-Using-JavaScript)
+  * [EcmaScript 6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 
 ---
 

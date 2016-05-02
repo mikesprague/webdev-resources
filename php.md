@@ -10,3 +10,4 @@
   * [Drunk with the Power of Composer Plugins](http://www.sitepoint.com/drunk-with-the-power-of-composer-plugins/)
   * [Converting PHP 7 code to equivalent PHP 5 code](https://murze.be/2016/03/converting-php-7-code-equivalent-php-5-code/)
   * [Google OAuth 2.0 Ajax Login using jQuery, PHP & MYSQL](http://w3lessons.info/2015/05/19/google-oauth-2-0-ajax-login-using-jquery-php-mysql/)
+  * [How to Authenticate Users With Twitter OAuth 2.0](http://code.tutsplus.com/tutorials/how-to-authenticate-users-with-twitter-oauth-20--cms-25713)

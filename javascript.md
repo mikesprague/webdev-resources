@@ -87,6 +87,7 @@
   * [Simplifying Objects, Inheritance and prototype in JavaScript](http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2016/04/28/simplifying-objects-inheritance-and-prototype-in-javascript.aspx)
   * [Redirection Using JavaScript](http://www.love2dev.com/#!article/Redirection-Using-JavaScript)
   * [EcmaScript 6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
+  * [From JavaScript to TypeScript Pt. I: Types & Variables](https://scotch.io/tutorials/from-javascript-to-typescript-pt-i-types-variables)
 
 ---
 

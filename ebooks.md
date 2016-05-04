@@ -40,3 +40,4 @@
   * [The UX Reader](http://theuxreader.com/)
   * [PHP The Right Way](http://www.phptherightway.com/)
   * [Book of Speed: The business, psychology and technology of high-performance web apps](http://www.bookofspeed.com/)
+  * [The Magic of CSS](http://adamschwartz.co/magic-of-css/)

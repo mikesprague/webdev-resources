@@ -39,3 +39,4 @@
   * [Visual Studio Code Succinctly](http://www.syncfusion.com/resources/techportal/details/ebooks/Visual_Studio_Code_Succinctly)
   * [The UX Reader](http://theuxreader.com/)
   * [PHP The Right Way](http://www.phptherightway.com/)
+  * [Book of Speed: The business, psychology and technology of high-performance web apps](http://www.bookofspeed.com/)

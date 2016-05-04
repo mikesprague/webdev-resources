@@ -38,3 +38,4 @@
   * [Easy WP Guide: A simple, easy to read WordPress Manual](http://easywpguide.com/)
   * [Visual Studio Code Succinctly](http://www.syncfusion.com/resources/techportal/details/ebooks/Visual_Studio_Code_Succinctly)
   * [The UX Reader](http://theuxreader.com/)
+  * [PHP The Right Way](http://www.phptherightway.com/)

@@ -12,3 +12,4 @@
   * [Web Security Fundamentals Video Course (free)](https://www.varonis.com/learn/web-security-fundamentals/)
   * [Say yes to HTTPS: A practical Guide to Encryption for Web Developers](https://sayyestohttps.org/)
   * [HTTP Security Headers: How to Secure Your Website](http://www.noupe.com/technology/http-security-headers-97381.html)
+  * [Two Factor Auth (2FA): List of websites and whether or not they support 2FA](https://twofactorauth.org/)

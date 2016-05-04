@@ -37,3 +37,4 @@
   * [Dive Into HTML5: Free ebook for intermediate web developers](http://diveintohtml5.info/index.html)
   * [Easy WP Guide: A simple, easy to read WordPress Manual](http://easywpguide.com/)
   * [Visual Studio Code Succinctly](http://www.syncfusion.com/resources/techportal/details/ebooks/Visual_Studio_Code_Succinctly)
+  * [The UX Reader](http://theuxreader.com/)

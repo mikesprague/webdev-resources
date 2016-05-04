@@ -88,6 +88,7 @@
   * [Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)
   * [Quick Tip: Using CSS Counters to Style Incremental Elements](http://webdesign.tutsplus.com/tutorials/quick-tip-using-css-counters-to-style-incremental-elements--cms-23497)
   * [Introducing the CSS Grid Layout](http://www.sitepoint.com/introducing-the-css-grid-layout/)
+  * [An Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/#?)
 
 ---
 

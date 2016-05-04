@@ -5,3 +5,4 @@
 ### Vagrant
 
   * [Automate Your Development Installs on Vagrant with Please](https://scotch.io/bar-talk/automate-your-development-installs-on-vagrant-with-please)
+  * [Introduction to Vagrant](http://code.tutsplus.com/tutorials/introduction-to-vagrant--cms-25917)

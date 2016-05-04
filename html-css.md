@@ -145,6 +145,7 @@
   * [The Web Designer's Guide to Flexbox](http://www.creativebloq.com/web-design/solve-layout-problems-flexbox-21619093)
   * [Flexbox Playground](http://codepen.io/enxaneta/full/adLPwv/)
   * [5 Flexbox Techniques You Need to Know About](http://tutorialzine.com/2016/04/5-flexbox-techniques-you-need-to-know-about/)
+  * [Flexbox Grid](http://flexboxgrid.com/)
 
 ---
 

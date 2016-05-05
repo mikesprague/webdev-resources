@@ -90,6 +90,7 @@
   * [Introducing the CSS Grid Layout](http://www.sitepoint.com/introducing-the-css-grid-layout/)
   * [An Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
   * [Stop Maiming Bodies: The Perils of Pixel Font-Size](http://www.sitepoint.com/stop-maiming-bodies-the-perils-of-pixel-font-size/)
+  * [A Guide to Using CSS Selectors](https://www.codementor.io/css/tutorial/how-to-use-css-selectors)
 
 ---
 

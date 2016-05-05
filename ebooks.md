@@ -42,3 +42,4 @@
   * [Book of Speed: The business, psychology and technology of high-performance web apps](http://www.bookofspeed.com/)
   * [The Magic of CSS](http://adamschwartz.co/magic-of-css/)
   * [Pocket Guide to Writing SVG](http://svgpocketguide.com/)
+  * [Combining Typefaces Made Easy (Free eBook)](http://www.noupe.com/essentials/combining-typefaces-ebook-97455.html)

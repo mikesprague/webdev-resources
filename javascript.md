@@ -4,6 +4,7 @@
 
 ### Tools / References / Tutorials
 
+  * [What Is JavaScript?](http://code.tutsplus.com/tutorials/what-is-javascript--cms-26177)
   * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
   * [Compare JavaScript libraries by weight (file size)](http://weightof.it/)
   * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)

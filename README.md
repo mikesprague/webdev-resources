@@ -2,6 +2,12 @@
 
 A curated list of web development resources, tutorials, tools, etc. that I find useful
 
+---
+
+Find this project useful? [Show some love :revolving_hearts:](https://www.creatorlove.com/mikesprague/web-development-resources) and buy me a cup of cofee! :coffee:
+
+---
+
 ## Contents
 
   1. **[HTML(5) / CSS(3)](html-css.md#html5--css3)**

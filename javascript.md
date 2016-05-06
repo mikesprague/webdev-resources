@@ -109,7 +109,20 @@
   * [package.json: An Interactive Guide](http://browsenpm.org/package.json)
   * [Understanding npm](https://unpm.nodesource.com/)
   * [A Beginner’s Guide to npm — the Node Package Manager](http://www.sitepoint.com/beginners-guide-node-package-manager/)
-  * [Node Hero Tutorial Series](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+  * Node Hero Tutorial Series
+    * [Getting started with Node.js](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+    * [Using NPM](https://blog.risingstack.com/node-hero-npm-tutorial)
+    * [Understanding async programming](https://blog.risingstack.com/node-hero-async-programming-in-node-js)
+    * [Your first Node.js HTTP server](https://blog.risingstack.com/your-first-node-js-http-server)
+    * [Node.js database tutorial](https://blog.risingstack.com/node-js-database-tutorial)
+    * [Node.js Request Module Tutorial](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
+    * Structuring your projects
+    * Authenticating users
+    * Testing Node.js applications
+    * Debugging Node.js
+    * Securing your application
+    * Deploying Node.js application to a PaaS
+    * Monitoring and operating Node.js applications
   * [You Don't Know Node Article](http://webapplog.com/you-dont-know-node/)
   * [You Don't Know Node Repo](https://github.com/azat-co/you-dont-know-node)
   * [Node Patterns: From Callbacks to Observer](http://webapplog.com/node-patterns-from-callbacks-to-observer/)

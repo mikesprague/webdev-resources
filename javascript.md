@@ -153,6 +153,7 @@
   * [Introduction to Webpack: Part 1](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-1--cms-25791)
   * [Test Driven Development With Node, Postgres, and Knex (Red/Green/Refactor)](http://mherman.org/blog/2016/04/28/test-driven-development-with-node/)
   * [Debugging Node.js applications using core dumps](https://reaktor.com/blog/debugging-node-js-applications-using-core-dumps/)
+  * [Faster tests for multi-node code with ES6 and babel](https://remysharp.com/2016/05/02/faster-tests-for-multi-node-code-with-es6-and-babel)
 
 ---
 

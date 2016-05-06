@@ -34,6 +34,8 @@ Find this project useful? [Show some love :revolving_hearts:](https://www.creato
   7. **[Project Management](project-management.md#project-management)**
   8. **[Python](python.md#python)**
   9. **[Ruby](ruby.md#ruby)**
+    * [Ruby](ruby.md#ruby)
+    * [Rails]((ruby.md#rails))
   10. **[PHP](php.md#php)**
   11. **[Editors / IDEs](editors-ides.md#editors--ides)**
   12. **[eBooks](ebooks.md#ebooks)**

@@ -138,6 +138,7 @@
   * [How to write a web scraper in Node.js](https://www.codementor.io/nodejs/tutorial/how-to-write-a-web-scraper-in-nodejs)
   * [Use JavaScript closures efficiently: Avoid memory leaks in your Node.js apps](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
   * [Introduction to Webpack: Part 1](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-1--cms-25791)
+  * [Test Driven Development With Node, Postgres, and Knex (Red/Green/Refactor)](http://mherman.org/blog/2016/04/28/test-driven-development-with-node/)
 
 ---
 

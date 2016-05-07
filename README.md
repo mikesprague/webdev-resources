@@ -43,6 +43,8 @@ Find this project useful? [Show some love :revolving_hearts:](https://www.creato
   14. **[Docker](docker.md#docker)**
   15. **[Wordpress](wordpress.md#wordpress)**
   16. **[Vagrant / Otto](vagrant-otto.md#vagrant--otto)**
+    * [Vagrant](vagrant-otto.md#vagrant)
+    * [Otto](vagrant-otto.md#otto)
   17. **[SQL](sql.md#sql)**
   18. **[UI / UX](ui-ux.md#ui--ux)**
   19. **[Databases](databases.md#databases)**

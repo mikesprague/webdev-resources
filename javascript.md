@@ -91,6 +91,7 @@
   * [From JavaScript to TypeScript, Pt. I: Types & Variables](https://scotch.io/tutorials/from-javascript-to-typescript-pt-i-types-variables)
   * [From JavaScript to TypeScript, Pt. IIA: Using Classes, Interfaces, & Mixins](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iia-using-classes-interfaces-mixins)
   * [How to Implement Smooth Scrolling in Vanilla JavaScript](http://www.sitepoint.com/smooth-scrolling-vanilla-javascript/)
+  * [A Gentle Introduction to Javascript Test Driven Development](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
 
 ---
 

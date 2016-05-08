@@ -8,3 +8,4 @@
 * [39 Must-Have WordPress Development Tools](http://premium.wpmudev.org/blog/wordpress-developer-tools/)
 * [The Ultimate WordPress Development Environment](http://www.sitepoint.com/ultimate-wordpress-development-environment/)
 * [A Quick Guide to the Terminal and Command Line Prompt for WordPress](https://premium.wpmudev.org/blog/terminal-command-line/)
+* [Hands On Improving Google PageSpeed](http://code.tutsplus.com/tutorials/hands-on-improving-google-pagespeed--cms-23219)

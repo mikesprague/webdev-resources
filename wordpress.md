@@ -7,3 +7,4 @@
 * [How to Remove Slow WordPress Plugins and Find Faster Alternatives](http://themeisle.com/blog/remove-slow-wordpress-plugins/)
 * [39 Must-Have WordPress Development Tools](http://premium.wpmudev.org/blog/wordpress-developer-tools/)
 * [The Ultimate WordPress Development Environment](http://www.sitepoint.com/ultimate-wordpress-development-environment/)
+* [A Quick Guide to the Terminal and Command Line Prompt for WordPress](https://premium.wpmudev.org/blog/terminal-command-line/)

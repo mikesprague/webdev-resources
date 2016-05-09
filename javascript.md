@@ -92,6 +92,7 @@
   * [From JavaScript to TypeScript, Pt. IIA: Using Classes, Interfaces, & Mixins](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iia-using-classes-interfaces-mixins)
   * [How to Implement Smooth Scrolling in Vanilla JavaScript](http://www.sitepoint.com/smooth-scrolling-vanilla-javascript/)
   * [A Gentle Introduction to Javascript Test Driven Development](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
+  * [JavaScript’s 'new' vs Object Literals: Performance Implications](http://derickbailey.com/2016/05/06/javascripts-new-vs-object-literals-performance-implications/)
 
 ---
 

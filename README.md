@@ -1,6 +1,6 @@
 # Web Development Resources
 
-A curated list of web development resources, tutorials, tools, etc. that I find useful
+A (constantly growing) list of web development resources, tutorials, tools, etc. that I find useful
 
 ---
 

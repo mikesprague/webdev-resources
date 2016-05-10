@@ -88,8 +88,10 @@
   * [Simplifying Objects, Inheritance and prototype in JavaScript](http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2016/04/28/simplifying-objects-inheritance-and-prototype-in-javascript.aspx)
   * [Redirection Using JavaScript](http://www.love2dev.com/#!article/Redirection-Using-JavaScript)
   * [EcmaScript 6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
-  * [From JavaScript to TypeScript, Pt. I: Types & Variables](https://scotch.io/tutorials/from-javascript-to-typescript-pt-i-types-variables)
-  * [From JavaScript to TypeScript, Pt. IIA: Using Classes, Interfaces, & Mixins](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iia-using-classes-interfaces-mixins)
+  * From JavaScript to TypeScript Tutorial Series
+    * [From JavaScript to TypeScript, Pt. I: Types & Variables](https://scotch.io/tutorials/from-javascript-to-typescript-pt-i-types-variables)
+    * [From JavaScript to TypeScript, Pt. IIA: Using Classes, Interfaces, & Mixins](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iia-using-classes-interfaces-mixins)
+    * [From JavaScript to TypeScript, Pt. IIB: Designing with Classes, Interfaces, & Mixins](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iib-designing-with-classes-interfaces-mixins)
   * [How to Implement Smooth Scrolling in Vanilla JavaScript](http://www.sitepoint.com/smooth-scrolling-vanilla-javascript/)
   * [A Gentle Introduction to Javascript Test Driven Development](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
   * [JavaScript’s 'new' vs Object Literals: Performance Implications](http://derickbailey.com/2016/05/06/javascripts-new-vs-object-literals-performance-implications/)

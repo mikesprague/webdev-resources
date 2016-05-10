@@ -92,6 +92,7 @@
   * [Stop Maiming Bodies: The Perils of Pixel Font-Size](http://www.sitepoint.com/stop-maiming-bodies-the-perils-of-pixel-font-size/)
   * [A Guide to Using CSS Selectors](https://www.codementor.io/css/tutorial/how-to-use-css-selectors)
   * [Optimizing for Large-Scale Displays](https://css-tricks.com/optimizing-large-scale-displays/)
+  * [The Importance of !important: Forcing Immutability in CSS](http://csswizardry.com/2016/05/the-importance-of-important/)
 
 ---
 

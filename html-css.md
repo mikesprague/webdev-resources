@@ -93,6 +93,7 @@
   * [A Guide to Using CSS Selectors](https://www.codementor.io/css/tutorial/how-to-use-css-selectors)
   * [Optimizing for Large-Scale Displays](https://css-tricks.com/optimizing-large-scale-displays/)
   * [The Importance of !important: Forcing Immutability in CSS](http://csswizardry.com/2016/05/the-importance-of-important/)
+  * [Emoji: how do you get from U+1F355 to 🍕?](http://meowni.ca/posts/emoji-emoji-emoji/)
 
 ---
 

@@ -11,3 +11,4 @@
 * [Hands On Improving Google PageSpeed](http://code.tutsplus.com/tutorials/hands-on-improving-google-pagespeed--cms-23219)
 * [Optimizing Google PageSpeed to 100 in WordPress](http://code.tutsplus.com/tutorials/optimizing-google-pagespeed-to-100-in-wordpress--cms-25804)
 * [Setting Up VVV for WordPress Development](https://premium.wpmudev.org/blog/vvv-wordpress-development/)
+* [Easily Turn a WordPress Site Into a Desktop App](https://webdevstudios.com/2016/05/10/easily-turn-wordpress-site-desktop-app/)

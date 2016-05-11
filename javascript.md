@@ -96,6 +96,7 @@
   * [A Gentle Introduction to Javascript Test Driven Development](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
   * [JavaScript’s 'new' vs Object Literals: Performance Implications](http://derickbailey.com/2016/05/06/javascripts-new-vs-object-literals-performance-implications/)
   * [Print console.log with custom style](https://thefullsnack.com/print-console-log-with-custom-style-6d7e972ae098#.54z1qnf7p)
+  * [Tocbot: Generate a table of contents based on the heading structure of an html document](http://tscanlin.github.io/tocbot/)
 
 ---
 

@@ -97,6 +97,7 @@
   * [Use Cases For CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries/)
   * [CSS Modules by Example](http://andrewhfarmer.com/css-modules-by-example/)
   * [Filtered Background with Fallback for Legibility](http://codepen.io/tigt/post/blurred-background-image-with-fallback)
+  * [Masking in the Browser with CSS and SVG](http://www.sitepoint.com/masking-in-the-browser-with-css-and-svg/)
 
 ---
 

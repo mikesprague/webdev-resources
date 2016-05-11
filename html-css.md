@@ -136,6 +136,7 @@
   * [Repaintless Library for fast CSS Animations](https://github.com/szynszyliszys/repaintless)
   * [Solid Framework & Style Guide](http://solid.buzzfeed.com/)
   * [Spectre.css: Responsive/modern CSS framework for faster and extensible development](http://picturepan2.github.io/spectre/)
+  * [Vital: A minimally invasive CSS framework for modern web applications](http://doximity.github.io/vital/)
 
 ---
 

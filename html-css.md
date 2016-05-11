@@ -95,6 +95,7 @@
   * [The Importance of !important: Forcing Immutability in CSS](http://csswizardry.com/2016/05/the-importance-of-important/)
   * [Emoji: how do you get from U+1F355 to 🍕?](http://meowni.ca/posts/emoji-emoji-emoji/)
   * [Use Cases For CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries/)
+  * [CSS Modules by Example](http://andrewhfarmer.com/css-modules-by-example/)
 
 ---
 

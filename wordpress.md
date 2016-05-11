@@ -15,3 +15,4 @@
 * [No Nonsense: What Really Accelerates WordPress Websites – #1](http://www.noupe.com/wordpress/no-nonsense-what-really-accelerates-wordpress-websites-1-96950.html)
 * [Performance: Really Accelerate WordPress Websites - #2](http://www.noupe.com/wordpress/tips-tricks-tutorials/performance-accelerate-wordpress-websites-97263.html)
 * [High Speed: Really Accelerate WordPress Websites - #3](http://www.noupe.com/wordpress/really-accelerate-wordpress-websites-3-97370.html)
+* [High Speed: Really Accelerate WordPress Websites - #4](http://www.noupe.com/wordpress/really-accelerate-wordpress-websites-4-97512.html)

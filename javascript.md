@@ -157,11 +157,13 @@
   * [Introducing yakbak: Record and playback HTTP interactions in NodeJS](http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/)
   * [How to write a web scraper in Node.js](https://www.codementor.io/nodejs/tutorial/how-to-write-a-web-scraper-in-nodejs)
   * [Use JavaScript closures efficiently: Avoid memory leaks in your Node.js apps](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
-  * [Introduction to Webpack: Part 1](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-1--cms-25791)
   * [Test Driven Development With Node, Postgres, and Knex (Red/Green/Refactor)](http://mherman.org/blog/2016/04/28/test-driven-development-with-node/)
   * [Debugging Node.js applications using core dumps](https://reaktor.com/blog/debugging-node-js-applications-using-core-dumps/)
   * [Faster tests for multi-node code with ES6 and babel](https://remysharp.com/2016/05/02/faster-tests-for-multi-node-code-with-es6-and-babel)
   * [Beginner’s guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.dwzhq91u2)
+  * Introduction to Webpack
+    * [Introduction to Webpack: Part 1](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-1--cms-25791)
+    * [Introduction to Webpack: Part 2](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-2--cms-25911)
 
 ---
 

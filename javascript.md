@@ -218,6 +218,10 @@
   * [How to Build a Todo App Using React, Redux, and Immutable.js](http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
   * [Tips to optimise rendering of a set of elements in React](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae#.qbgiu2fo9)
   * [How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/)
+  * Learn Raw React
+    * [Learn Raw React — no JSX, no Flux, no ES6, no Webpack…](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
+    * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
+    * [Building a Router with Raw React](http://jamesknelson.com/routing-with-raw-react/)
 
 ---
 

@@ -170,6 +170,7 @@
   * [Material Design Theme for Bootstrap 3](http://fezvrasta.github.io/bootstrap-material-design/)
   * [Materialize](http://materializecss.com/)
   * [Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet)
+  * [Different Tricks on How to Make Bootstrap Columns All the Same Height](https://scotch.io/bar-talk/different-tricks-on-how-to-make-bootstrap-columns-all-the-same-height)
 
 ---
 

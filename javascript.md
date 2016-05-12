@@ -168,6 +168,7 @@
     * [Introduction to Webpack: Part 2](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-2--cms-25911)
   * [Nodecasts: Premium quality screencasts, updated weekly. Covering Node.js, JavaScript and Web Performance!](https://nodecasts.io/)
   * [Using private git repos as NPM modules](http://nadafancy.com/2016/05/10/Using-private-git-repos-as-NPM-modules.html)
+  * [Modular JavaScript: A Beginners Guide to SystemJS & jspm](http://www.sitepoint.com/modular-javascript-systemjs-jspm/)
 
 ---
 

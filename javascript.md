@@ -109,6 +109,7 @@
   * [JavaScript Design Patterns Cheat Sheet Using jQuery](https://github.com/nnupoor/js_designpatterns)
   * [A Comprehensive Look at Events in jQuery](http://www.sitepoint.com/comprehensive-events-jquery/)
   * [jQuery Quick API Reference](https://oscarotero.com/jquery/)
+  * [Uncommon jQuery Selectors](http://code.tutsplus.com/tutorials/uncommon-jquery-selectors--cms-25812)
 
 ---
 

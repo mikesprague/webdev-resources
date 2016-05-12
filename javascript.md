@@ -125,7 +125,7 @@
     * [Your first Node.js HTTP server](https://blog.risingstack.com/your-first-node-js-http-server)
     * [Node.js database tutorial](https://blog.risingstack.com/node-js-database-tutorial)
     * [Node.js Request Module Tutorial](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
-    * Structuring your projects
+    * [Node.js Project Structure Tutorial](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
     * Authenticating users
     * Testing Node.js applications
     * Debugging Node.js

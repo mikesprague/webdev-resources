@@ -170,6 +170,7 @@
   * [Using private git repos as NPM modules](http://nadafancy.com/2016/05/10/Using-private-git-repos-as-NPM-modules.html)
   * [Modular JavaScript: A Beginners Guide to SystemJS & jspm](http://www.sitepoint.com/modular-javascript-systemjs-jspm/)
   * [Checklist: Best Practices of Node.JS Error Handling](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
+  * [What is Promise.try, and why does it matter?](http://cryto.net/~joepie91/blog/2016/05/11/what-is-promise-try-and-why-does-it-matter/)
 
 ---
 

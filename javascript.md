@@ -166,6 +166,7 @@
   * Introduction to Webpack
     * [Introduction to Webpack: Part 1](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-1--cms-25791)
     * [Introduction to Webpack: Part 2](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-2--cms-25911)
+  * [Nodecasts: Premium quality screencasts, updated weekly. Covering Node.js, JavaScript and Web Performance!](https://nodecasts.io/)
 
 ---
 

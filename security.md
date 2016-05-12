@@ -14,3 +14,4 @@
   * [HTTP Security Headers: How to Secure Your Website](http://www.noupe.com/technology/http-security-headers-97381.html)
   * [Two Factor Auth (2FA): List of websites and whether or not they support 2FA](https://twofactorauth.org/)
   * [Target=”_blank” — the most underestimated vulnerability ever](https://medium.com/@jitbit/target-blank-the-most-underestimated-vulnerability-ever-96e328301f4c#.p9s3a76e5)
+  * [A Guide to a Secure Life Online](http://developer.telerik.com/featured/guide-secure-life-online/)

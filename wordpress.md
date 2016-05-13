@@ -18,3 +18,4 @@
   * [High Speed: Really Accelerate WordPress Websites - #3](http://www.noupe.com/wordpress/really-accelerate-wordpress-websites-3-97370.html)
   * [High Speed: Really Accelerate WordPress Websites - #4](http://www.noupe.com/wordpress/really-accelerate-wordpress-websites-4-97512.html)
 * [How to Tweak wp-config.php to Protect Your WordPress Site](https://premium.wpmudev.org/blog/tweaking-wp-config/)
+* [Setting Up VersionPress for Git-Powered WordPress Version Control](https://premium.wpmudev.org/blog/versionpress/)

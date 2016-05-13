@@ -98,6 +98,7 @@
   * [Print console.log with custom style](https://thefullsnack.com/print-console-log-with-custom-style-6d7e972ae098#.54z1qnf7p)
   * [Tocbot: Generate a table of contents based on the heading structure of an html document](http://tscanlin.github.io/tocbot/)
   * [Get to Know the Page Visibility API](https://scotch.io/tutorials/get-to-know-the-page-visibility-api)
+  * [How to Make Accessible Web Components — a Brief Guide](http://www.sitepoint.com/accessible-web-components/)
 
 ---
 

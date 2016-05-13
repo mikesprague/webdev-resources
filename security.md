@@ -15,3 +15,4 @@
   * [Two Factor Auth (2FA): List of websites and whether or not they support 2FA](https://twofactorauth.org/)
   * [Target=”_blank” — the most underestimated vulnerability ever](https://medium.com/@jitbit/target-blank-the-most-underestimated-vulnerability-ever-96e328301f4c#.p9s3a76e5)
   * [A Guide to a Secure Life Online](http://developer.telerik.com/featured/guide-secure-life-online/)
+  * [Certbot: Automatically enable HTTPS on your website with EFF's Certbot, deploying Let's Encrypt certificates](https://certbot.eff.org/)

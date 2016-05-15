@@ -99,6 +99,7 @@
   * [Tocbot: Generate a table of contents based on the heading structure of an html document](http://tscanlin.github.io/tocbot/)
   * [Get to Know the Page Visibility API](https://scotch.io/tutorials/get-to-know-the-page-visibility-api)
   * [How to Make Accessible Web Components — a Brief Guide](http://www.sitepoint.com/accessible-web-components/)
+  * [A Look at ES6 Sets](http://www.barbarianmeetscoding.com/blog/2016/05/12/a-look-at-es6-sets/)
 
 ---
 

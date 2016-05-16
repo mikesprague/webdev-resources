@@ -99,6 +99,7 @@
   * [Filtered Background with Fallback for Legibility](http://codepen.io/tigt/post/blurred-background-image-with-fallback)
   * [Masking in the Browser with CSS and SVG](http://www.sitepoint.com/masking-in-the-browser-with-css-and-svg/)
   * [CSS Architecture: First steps](https://www.ckl.io/blog/css-architecture-first-steps/)
+  * [A Tale of CSS and Sass Precision](http://www.sitepoint.com/a-tale-of-css-and-sass-precision/)
 
 ---
 

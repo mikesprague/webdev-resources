@@ -224,6 +224,7 @@
     * [Learn Raw React — no JSX, no Flux, no ES6, no Webpack…](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
     * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
     * [Building a Router with Raw React](http://jamesknelson.com/routing-with-raw-react/)
+  * [A Beginner's Guide to Redux Middleware](https://www.codementor.io/reactjs/tutorial/beginner-s-guide-to-redux-middleware)
 
 ---
 

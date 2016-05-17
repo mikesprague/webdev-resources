@@ -173,6 +173,7 @@
   * [Modular JavaScript: A Beginners Guide to SystemJS & jspm](http://www.sitepoint.com/modular-javascript-systemjs-jspm/)
   * [Checklist: Best Practices of Node.JS Error Handling](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
   * [What is Promise.try, and why does it matter?](http://cryto.net/~joepie91/blog/2016/05/11/what-is-promise-try-and-why-does-it-matter/)
+  * [Server Components: A simple, lightweight tool for composable HTML rendering in Node.js, based on web components](http://pimterry.github.io/server-components/)
 
 ---
 

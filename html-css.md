@@ -100,6 +100,7 @@
   * [Masking in the Browser with CSS and SVG](http://www.sitepoint.com/masking-in-the-browser-with-css-and-svg/)
   * [CSS Architecture: First steps](https://www.ckl.io/blog/css-architecture-first-steps/)
   * [A Tale of CSS and Sass Precision](http://www.sitepoint.com/a-tale-of-css-and-sass-precision/)
+  * [flag-icon-css: A collection of all country flags in SVG — plus the CSS for easier integration](http://flag-icon-css.lip.is/)
 
 ---
 

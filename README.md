@@ -15,7 +15,7 @@ Find this project useful? [Show some love :revolving_hearts:](https://www.creato
     * [Frameworks / Starters](html-css.md#frameworks--starters)
     * [Flexbox](html-css.md#flexbox)
     * [Bootstrap](html-css.md#bootstrap)
-    * [Fonts / Icon Fonts](html-css.md#fonts--icon-fonts)
+    * [Typography / Fonts / Icon Fonts](html-css.mdTypography#typography--fonts--icon-fonts)
     * [CSS Preprocessing / Post-processing](html-css.md#css-preprocessing--post-processing)
   2. **[JavaScript](javascript.md#javascript)**
     * [Tools / References / Tutorials](javascript.md#tools--references--tutorials)

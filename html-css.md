@@ -176,7 +176,7 @@
 
 ---
 
-### Fonts / Icon Fonts
+### Typography / Fonts / Icon Fonts
 
 * [Google Fonts](https://www.google.com/fonts)
 * [Font Squirrel](https://www.fontsquirrel.com/)

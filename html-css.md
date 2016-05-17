@@ -101,6 +101,7 @@
   * [CSS Architecture: First steps](https://www.ckl.io/blog/css-architecture-first-steps/)
   * [A Tale of CSS and Sass Precision](http://www.sitepoint.com/a-tale-of-css-and-sass-precision/)
   * [flag-icon-css: A collection of all country flags in SVG — plus the CSS for easier integration](http://flag-icon-css.lip.is/)
+  * [HTML5 Accessibility: Get the current accessibility support status of HTML5 features across major browsers](http://stevefaulkner.github.io/HTML5accessibility/)
 
 ---
 

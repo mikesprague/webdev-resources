@@ -103,6 +103,7 @@
   * [A Look at ES6 Sets](http://www.barbarianmeetscoding.com/blog/2016/05/12/a-look-at-es6-sets/)
   * [Easier Web Application Debugging with the Command Line API](http://developer.telerik.com/content-types/tutorials/easier-web-application-debugging-command-line-api/)
   * [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
+  * [5 JavaScript “Bad” Parts That Are Fixed In ES6](https://medium.com/@rajaraodv/5-javascript-bad-parts-that-are-fixed-in-es6-c7c45d44fd81#.hewa4y16y)
 
 ---
 
@@ -230,6 +231,7 @@
     * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
     * [Building a Router with Raw React](http://jamesknelson.com/routing-with-raw-react/)
   * [A Beginner's Guide to Redux Middleware](https://www.codementor.io/reactjs/tutorial/beginner-s-guide-to-redux-middleware)
+  * [How to Write a Google Maps React Component](https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/)
 
 ---
 

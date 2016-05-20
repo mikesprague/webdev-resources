@@ -102,6 +102,7 @@
   * [How to Make Accessible Web Components — a Brief Guide](http://www.sitepoint.com/accessible-web-components/)
   * [A Look at ES6 Sets](http://www.barbarianmeetscoding.com/blog/2016/05/12/a-look-at-es6-sets/)
   * [Easier Web Application Debugging with the Command Line API](http://developer.telerik.com/content-types/tutorials/easier-web-application-debugging-command-line-api/)
+  * [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
 
 ---
 

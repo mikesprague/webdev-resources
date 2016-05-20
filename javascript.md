@@ -175,6 +175,7 @@
   * [Checklist: Best Practices of Node.JS Error Handling](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
   * [What is Promise.try, and why does it matter?](http://cryto.net/~joepie91/blog/2016/05/11/what-is-promise-try-and-why-does-it-matter/)
   * [Server Components: A simple, lightweight tool for composable HTML rendering in Node.js, based on web components](http://pimterry.github.io/server-components/)
+  * [Setting up Node.js on Windows 10](https://blog.risingstack.com/node-js-windows-10-tutorial/)
 
 ---
 

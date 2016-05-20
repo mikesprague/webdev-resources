@@ -104,6 +104,7 @@
   * [HTML5 Accessibility: Get the current accessibility support status of HTML5 features across major browsers](http://stevefaulkner.github.io/HTML5accessibility/)
   * [Using CSS’s object-fit and object-position Properties](https://www.sitepoint.com/using-css-object-fit-object-position-properties/)
   * [How to Center in CSS](http://howtocenterincss.com/)
+  * [CSS Purge - Saving the web 1kb at a time](http://www.csspurge.com/)
 
 ---
 

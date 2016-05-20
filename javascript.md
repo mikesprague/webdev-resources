@@ -104,6 +104,7 @@
   * [Easier Web Application Debugging with the Command Line API](http://developer.telerik.com/content-types/tutorials/easier-web-application-debugging-command-line-api/)
   * [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
   * [5 JavaScript “Bad” Parts That Are Fixed In ES6](https://medium.com/@rajaraodv/5-javascript-bad-parts-that-are-fixed-in-es6-c7c45d44fd81#.hewa4y16y)
+  * [Custom PDF Rendering in JavaScript with Mozilla’s PDF.Js](https://www.sitepoint.com/custom-pdf-rendering/)
 
 ---
 

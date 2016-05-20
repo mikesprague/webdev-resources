@@ -103,6 +103,7 @@
   * [flag-icon-css: A collection of all country flags in SVG — plus the CSS for easier integration](http://flag-icon-css.lip.is/)
   * [HTML5 Accessibility: Get the current accessibility support status of HTML5 features across major browsers](http://stevefaulkner.github.io/HTML5accessibility/)
   * [Using CSS’s object-fit and object-position Properties](https://www.sitepoint.com/using-css-object-fit-object-position-properties/)
+  * [How to Center in CSS](http://howtocenterincss.com/)
 
 ---
 

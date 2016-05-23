@@ -21,3 +21,4 @@
 * [Setting Up VersionPress for Git-Powered WordPress Version Control](https://premium.wpmudev.org/blog/versionpress/)
 * [Using Composer With WordPress](https://paulund.co.uk/using-composer-wordpress)
 * [A Quick and Thorough Guide to WordPress Maintenance Mode](https://premium.wpmudev.org/blog/maintenance-mode/)
+* [The Ultimate Guide to 404 Pages for WordPress](https://premium.wpmudev.org/blog/guide-404-pages/)

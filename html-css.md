@@ -57,7 +57,10 @@
   * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
   * [BrandColors: Official color codes for the world's biggest brands](http://brandcolors.net/)
   * [Colours: A list of colour names in CSS](http://colours.neilorangepeel.com/)
-  * [CSS Modules Tutorial Series](https://css-tricks.com/css-modules-part-1-need/)
+  * CSS Modules Tutorial Series
+    * [What are CSS Modules and why do we need them?]](https://css-tricks.com/css-modules-part-1-need/)
+    * [Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/)
+    * [CSS Modules and React](https://css-tricks.com/css-modules-part-3-react/)
   * [The Psychology of Color in Web Design](http://www.vandelaydesign.com/the-psychology-of-color-in-web-design/)
   * [Quick Tip: The Right Way to Use Figure & Figcaption Elements](http://www.sitepoint.com/quick-tip-the-right-way-to-use-figure-and-figcaption-elements/)
   * [Building a dynamic SVG timer](http://stylecampaign.com/blog/2016/04/building-a-dynamic-svg-timer/)

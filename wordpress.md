@@ -20,3 +20,4 @@
 * [How to Tweak wp-config.php to Protect Your WordPress Site](https://premium.wpmudev.org/blog/tweaking-wp-config/)
 * [Setting Up VersionPress for Git-Powered WordPress Version Control](https://premium.wpmudev.org/blog/versionpress/)
 * [Using Composer With WordPress](https://paulund.co.uk/using-composer-wordpress)
+* [A Quick and Thorough Guide to WordPress Maintenance Mode](https://premium.wpmudev.org/blog/maintenance-mode/)

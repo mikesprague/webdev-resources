@@ -19,3 +19,4 @@
   * [Git-Flow Cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
   * [Beginner’s Guide to Using Git and GitHub](https://www.codementor.io/git/tutorial/git-github-tutorial-for-beginners)
   * [Store Your Private Data Inside a Git Repository](https://coderwall.com/p/e-azzg/store-your-private-data-inside-a-git-repository)
+  * [Git Rebase for Reasonable Developers](https://dotdev.co/git-rebase-for-reasonable-developers-26dc8776dc25#.qzqhohadw)

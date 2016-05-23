@@ -8,3 +8,4 @@
   * [Django Unchained – Learn and Master Django](http://herculesphaeton.com/2015/03/django-unchained-learn-and-master-django/)
   * [A Primer For Web Development In Python](http://herculesphaeton.com/2015/03/a-primer-for-web-development-in-python/)
   * [5 Common Problems Faced by Python Beginners](http://www.sitepoint.com/5-common-problems-faced-by-python-beginners/)
+  * [Database Handling in Python](http://code.tutsplus.com/tutorials/database-handling-in-python--cms-25645)

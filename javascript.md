@@ -237,6 +237,7 @@
     * [Building a Router with Raw React](http://jamesknelson.com/routing-with-raw-react/)
   * [A Beginner's Guide to Redux Middleware](https://www.codementor.io/reactjs/tutorial/beginner-s-guide-to-redux-middleware)
   * [How to Write a Google Maps React Component](https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/)
+  * [How to Sprinkle ReactJS into an Existing Web Application](https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application)
 
 ---
 

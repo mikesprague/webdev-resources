@@ -183,6 +183,7 @@
   * [Server Components: A simple, lightweight tool for composable HTML rendering in Node.js, based on web components](http://pimterry.github.io/server-components/)
   * [Setting up Node.js on Windows 10](https://blog.risingstack.com/node-js-windows-10-tutorial/)
   * [Bublé: The Blazing Fast, Batteries Included, ES2015 Compiler](https://buble.surge.sh/guide/)
+  * [Create Cross-Platform Desktop Node Apps with Electron](https://www.sitepoint.com/desktop-node-apps-with-electron/)
 
 ---
 

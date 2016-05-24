@@ -118,6 +118,7 @@
   * [jQuery Quick API Reference](https://oscarotero.com/jquery/)
   * [Uncommon jQuery Selectors](http://code.tutsplus.com/tutorials/uncommon-jquery-selectors--cms-25812)
   * [Timedropper: jQuery time plugin](http://felicegattuso.com/projects/timedropper/)
+  * [Lazy Loading Images? Don’t Rely On JavaScript!](http://robinosborne.co.uk/2016/05/16/lazy-loading-images-dont-rely-on-javascript/)
 
 ---
 

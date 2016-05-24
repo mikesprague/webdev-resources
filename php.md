@@ -13,3 +13,4 @@
   * [How to Authenticate Users With Twitter OAuth 2.0](http://code.tutsplus.com/tutorials/how-to-authenticate-users-with-twitter-oauth-20--cms-25713)
   * [10 PHP Functions and Code Snippets to Work with Dates](http://www.catswhocode.com/blog/10-php-functions-and-code-snippets-to-work-with-dates)
   * [How Can the ELK Stack Be Used to Monitor PHP Apps?](https://www.sitepoint.com/how-can-the-elk-stack-be-used-to-monitor-php-apps/)
+  * [Localizing Dates, Currency, and Numbers with Php-Intl](https://www.sitepoint.com/localizing-dates-currency-and-numbers-with-php-intl/)

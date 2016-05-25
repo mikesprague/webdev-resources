@@ -109,6 +109,7 @@
   * [How to Center in CSS](http://howtocenterincss.com/)
   * [CSS Purge - Saving the web 1kb at a time](http://www.csspurge.com/)
   * [Dealing with the Cascade and Specificity](http://snook.ca/archives/html_and_css/dealing-with-cascade-specificity)
+  * [CSS coding techniques](https://hacks.mozilla.org/2016/05/css-coding-techniques/)
 
 ---
 

@@ -115,6 +115,7 @@
   * [Architecting Front-end Styles](https://robots.thoughtbot.com/architecting-front-end-styles)
   * [Angled Edges with CSS Masks and Transforms](https://www.viget.com/articles/angled-edges-with-css-masks-and-transforms)
   * [Autofill: What web devs should know, but don’t](http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/)
+  * [Reducing JPG File size](https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.f0rsb6t3i)
 
 ---
 

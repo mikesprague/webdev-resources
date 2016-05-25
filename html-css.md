@@ -114,6 +114,7 @@
   * [Debugging CSS](https://benfrain.com/debugging-css/)
   * [Architecting Front-end Styles](https://robots.thoughtbot.com/architecting-front-end-styles)
   * [Angled Edges with CSS Masks and Transforms](https://www.viget.com/articles/angled-edges-with-css-masks-and-transforms)
+  * [Autofill: What web devs should know, but don’t](http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/)
 
 ---
 

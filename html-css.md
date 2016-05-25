@@ -113,6 +113,7 @@
   * [Understanding The CSS Property Value Syntax](https://www.smashingmagazine.com/2016/05/understanding-the-css-property-value-syntax/)
   * [Debugging CSS](https://benfrain.com/debugging-css/)
   * [Architecting Front-end Styles](https://robots.thoughtbot.com/architecting-front-end-styles)
+  * [Angled Edges with CSS Masks and Transforms](https://www.viget.com/articles/angled-edges-with-css-masks-and-transforms)
 
 ---
 

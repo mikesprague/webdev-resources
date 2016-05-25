@@ -93,6 +93,7 @@
     * [From JavaScript to TypeScript, Pt. IIA: Using Classes, Interfaces, & Mixins](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iia-using-classes-interfaces-mixins)
     * [From JavaScript to TypeScript, Pt. IIB: Designing with Classes, Interfaces, & Mixins](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iib-designing-with-classes-interfaces-mixins)
     * [From JavaScript to TypeScript, Pt. III: Type Inference & Compatibility](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iii-type-inference-compatibility)
+    * [From JavaScript to TypeScript, Pt. IV: Generics & Algebraic Data Types](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iv-generics-algebraic-data-types)
   * [How to Implement Smooth Scrolling in Vanilla JavaScript](http://www.sitepoint.com/smooth-scrolling-vanilla-javascript/)
   * [A Gentle Introduction to Javascript Test Driven Development](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
   * [JavaScript’s 'new' vs Object Literals: Performance Implications](http://derickbailey.com/2016/05/06/javascripts-new-vs-object-literals-performance-implications/)

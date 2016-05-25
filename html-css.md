@@ -112,6 +112,7 @@
   * [CSS coding techniques](https://hacks.mozilla.org/2016/05/css-coding-techniques/)
   * [Understanding The CSS Property Value Syntax](https://www.smashingmagazine.com/2016/05/understanding-the-css-property-value-syntax/)
   * [Debugging CSS](https://benfrain.com/debugging-css/)
+  * [Architecting Front-end Styles](https://robots.thoughtbot.com/architecting-front-end-styles)
 
 ---
 

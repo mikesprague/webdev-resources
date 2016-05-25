@@ -44,3 +44,4 @@
   * [Pocket Guide to Writing SVG](http://svgpocketguide.com/)
   * [Combining Typefaces Made Easy (Free eBook)](http://www.noupe.com/essentials/combining-typefaces-ebook-97455.html)
   * [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
+  * [Front-End Developer Handbook](http://www.frontendhandbook.com/)

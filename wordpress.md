@@ -23,3 +23,4 @@
 * [A Quick and Thorough Guide to WordPress Maintenance Mode](https://premium.wpmudev.org/blog/maintenance-mode/)
 * [The Ultimate Guide to 404 Pages for WordPress](https://premium.wpmudev.org/blog/guide-404-pages/)
 * [When To Register Custom Post Types](https://tommcfarlin.com/custom-post-types/)
+* [9 Obvious Things You Probably Don’t Know About WordPress SEO](https://premium.wpmudev.org/blog/obvious-wordpress-seo/)

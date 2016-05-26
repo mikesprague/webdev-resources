@@ -10,3 +10,4 @@
 
   * [AntiPatterns Basics: Rails Tests](http://code.tutsplus.com/articles/antipatterns-basics-rails-tests--cms-26011)
   * [An in-Depth Look at Basic Rails Routing](http://www.sitepoint.com/an-in-depth-look-at-basic-rails-routing/)
+  * [Brush up Your Knowledge of Rails Associations](https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/)

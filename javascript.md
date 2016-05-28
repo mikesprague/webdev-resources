@@ -186,6 +186,8 @@
   * [Bublé: The Blazing Fast, Batteries Included, ES2015 Compiler](https://buble.surge.sh/guide/)
   * [Create Cross-Platform Desktop Node Apps with Electron](https://www.sitepoint.com/desktop-node-apps-with-electron/)
   * [Understanding ASTs by Building Your Own Babel Plugin](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)
+  * [QuorraJS: A Full Fledged Node.js MVC Framework Inspired by Laravel](https://quorrajs.org/)
+    * [Introducing QuorraJS](https://medium.com/@quorrajs/we-are-just-getting-started-f6593e4ae06b#.c62778x91)
 
 ---
 

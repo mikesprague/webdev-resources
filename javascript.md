@@ -245,6 +245,7 @@
   * [How to Sprinkle ReactJS into an Existing Web Application](https://scotch.io/tutorials/how-to-sprinkle-reactjs-into-an-existing-web-application)
   * [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
   * [Building SVG Maps with React](https://blog.komand.com/building-svg-maps-with-react)
+  * [Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)
 
 ---
 

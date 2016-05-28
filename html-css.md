@@ -223,6 +223,7 @@
 * [Gutenberg: A Meaningful Web Typography Starter Kit](http://matejlatin.github.io/Gutenberg/)
 * [Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
 * [Tips for Aligning Icons to Text](https://css-tricks.com/tips-aligning-icons-text/)
+* [CSS @font-face: 2016 Edition](https://webdevstudios.com/2016/05/26/css-font-face-2016-edition/)
 
 ---
 

@@ -107,6 +107,7 @@
   * [5 JavaScript “Bad” Parts That Are Fixed In ES6](https://medium.com/@rajaraodv/5-javascript-bad-parts-that-are-fixed-in-es6-c7c45d44fd81#.hewa4y16y)
   * [Custom PDF Rendering in JavaScript with Mozilla’s PDF.Js](https://www.sitepoint.com/custom-pdf-rendering/)
   * [Six nifty ES6 tricks](http://www.2ality.com/2016/05/six-nifty-es6-tricks.html)
+  * [Permissions API](https://davidwalsh.name/permissions-api)
 
 ---
 

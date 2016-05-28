@@ -117,6 +117,7 @@
   * [Autofill: What web devs should know, but don’t](http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/)
   * [Reducing JPG File size](https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.f0rsb6t3i)
   * [Considerations for styling the < pre > tag](http://mediatemple.net/blog/tips/considerations-for-styling-the-pre-tag/)
+  * [Semantic CSS](http://snook.ca/archives/html_and_css/semantic-css)
 
 ---
 

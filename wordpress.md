@@ -26,3 +26,4 @@
 * [9 Obvious Things You Probably Don’t Know About WordPress SEO](https://premium.wpmudev.org/blog/obvious-wordpress-seo/)
 * [Adding Free SSL Certificate and HTTPS to WordPress with Let’s Encrypt and Certbot](https://premium.wpmudev.org/blog/adding-free-ssl-https-wordpress/)
 * [How to Use SSL and HTTPS with WordPress](https://premium.wpmudev.org/blog/ssl-https-wordpress/)
+* [How to Fix “Error Establishing Database Connection” for WordPress](https://premium.wpmudev.org/blog/fix-error-establishing-database-connection/)

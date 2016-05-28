@@ -246,6 +246,7 @@
   * [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
   * [Building SVG Maps with React](https://blog.komand.com/building-svg-maps-with-react)
   * [Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)
+  * [React and Firebase, sittin’ in a tree](https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb#.5apmyucv4)
 
 ---
 

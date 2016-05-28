@@ -136,7 +136,7 @@
     * [Node.js database tutorial](https://blog.risingstack.com/node-js-database-tutorial)
     * [Node.js Request Module Tutorial](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
     * [Node.js Project Structure Tutorial](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
-    * Authenticating users
+    * [Node.js Authentication using Passport.js](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
     * Testing Node.js applications
     * Debugging Node.js
     * Securing your application

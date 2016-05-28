@@ -24,3 +24,4 @@
 * [The Ultimate Guide to 404 Pages for WordPress](https://premium.wpmudev.org/blog/guide-404-pages/)
 * [When To Register Custom Post Types](https://tommcfarlin.com/custom-post-types/)
 * [9 Obvious Things You Probably Don’t Know About WordPress SEO](https://premium.wpmudev.org/blog/obvious-wordpress-seo/)
+* [Adding Free SSL Certificate and HTTPS to WordPress with Let’s Encrypt and Certbot](https://premium.wpmudev.org/blog/adding-free-ssl-https-wordpress/)

@@ -18,3 +18,4 @@
   * [Certbot: Automatically enable HTTPS on your website with EFF's Certbot, deploying Let's Encrypt certificates](https://certbot.eff.org/)
   * [The Sleepy User Agent](https://blog.cloudflare.com/the-sleepy-user-agent/)
   * [How to Get Started with a Content Security Policy](https://blog.codeship.com/how-to-get-started-with-a-content-security-policy/)
+  * [Get HTTPS for free!](https://gethttpsforfree.com/)

@@ -27,3 +27,4 @@
 * [Adding Free SSL Certificate and HTTPS to WordPress with Let’s Encrypt and Certbot](https://premium.wpmudev.org/blog/adding-free-ssl-https-wordpress/)
 * [How to Use SSL and HTTPS with WordPress](https://premium.wpmudev.org/blog/ssl-https-wordpress/)
 * [How to Fix “Error Establishing Database Connection” for WordPress](https://premium.wpmudev.org/blog/fix-error-establishing-database-connection/)
+* [How to Fix the 500 Internal Server Error in WordPress](https://premium.wpmudev.org/blog/500-internal-server-error/)

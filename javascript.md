@@ -190,6 +190,7 @@
   * [Understanding ASTs by Building Your Own Babel Plugin](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)
   * [QuorraJS: A Full Fledged Node.js MVC Framework Inspired by Laravel](https://quorrajs.org/)
     * [Introducing QuorraJS](https://medium.com/@quorrajs/we-are-just-getting-started-f6593e4ae06b#.c62778x91)
+  * [Building a URL Shortener with MongoDB, Express, and Node.js](http://lefkowitz.me/thoughts/2016/05/05/men-stack-building-a-url-shortener-with-mongodb-express-and-node-js/)
 
 ---
 

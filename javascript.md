@@ -249,6 +249,7 @@
   * [Building SVG Maps with React](https://blog.komand.com/building-svg-maps-with-react)
   * [Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)
   * [React and Firebase, sittin’ in a tree](https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb#.5apmyucv4)
+  * [22 Amazing Open Source React Projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.syz9vgsbu)
 
 ---
 

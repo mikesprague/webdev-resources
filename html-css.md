@@ -119,6 +119,7 @@
   * [Considerations for styling the < pre > tag](http://mediatemple.net/blog/tips/considerations-for-styling-the-pre-tag/)
   * [Semantic CSS](http://snook.ca/archives/html_and_css/semantic-css)
   * [What Web Can Do Today](https://whatwebcando.today/)
+  * [You Don't Need JavaScript for That!](https://robots.thoughtbot.com/you-don-t-need-javascript-for-that)
 
 ---
 

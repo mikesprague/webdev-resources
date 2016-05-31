@@ -23,3 +23,4 @@
   * [Wrangle Wandering Whitespace with Git (?!?)](http://vanwilson.info/2016/05/wrangling-wandering-whitespace-git/)
   * [Create a Global .gitignore](https://davidwalsh.name/global-gitignore)
   * [Why You’re Branching and Merging in Git Wrong](https://dotdev.co/why-you-re-branching-and-merging-in-git-wrong-7a9c005a3e4e#.d339ikmyn)
+  * [A Git workflow for client-facing sign off](https://dotdev.co/a-git-workflow-for-client-facing-sign-off-28b7683bf01c#.vpami78vi)

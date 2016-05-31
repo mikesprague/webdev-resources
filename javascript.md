@@ -109,6 +109,7 @@
   * [Six nifty ES6 tricks](http://www.2ality.com/2016/05/six-nifty-es6-tricks.html)
   * [Permissions API](https://davidwalsh.name/permissions-api)
   * [Motion Detection with JavaScript](http://codersblock.com/blog/motion-detection-with-javascript/)
+  * [The Vanilla Javascript Repository](http://www.vanillalist.com/)
 
 ---
 

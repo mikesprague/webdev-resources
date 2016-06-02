@@ -11,3 +11,4 @@
   * [Database Handling in Python](http://code.tutsplus.com/tutorials/database-handling-in-python--cms-25645)
   * [File Handling in Python](http://code.tutsplus.com/tutorials/file-handling-in-python--cms-25623)
   * [Write Professional Unit Tests in Python](http://code.tutsplus.com/tutorials/write-professional-unit-tests-in-python--cms-25835)
+  * [How to Host your Python Package on PyPI with GitHub](https://www.codementor.io/python/tutorial/host-your-python-package-using-github-on-pypi)

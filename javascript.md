@@ -113,6 +113,7 @@
   * [Harnessing the Google Maps JavaScript API the Right Way](https://www.sitepoint.com/google-maps-javascript-api-the-right-way/)
   * [Why You Shouldn’t Be Scared of TypeScript](https://scotch.io/tutorials/why-you-shouldnt-be-scared-of-typescript)
   * [What is PhantomJS and How is it Used?](https://scotch.io/tutorials/what-is-phantomjs-and-how-is-it-used)
+  * [Smooth Page Scroll in 5 Lines of JavaScript](http://thenewcode.com/507/Smooth-Page-Scroll-in-5-Lines-of-JavaScript)
 
 ---
 

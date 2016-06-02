@@ -120,6 +120,7 @@
   * [Semantic CSS](http://snook.ca/archives/html_and_css/semantic-css)
   * [What Web Can Do Today](https://whatwebcando.today/)
   * [You Don't Need JavaScript for That!](https://robots.thoughtbot.com/you-don-t-need-javascript-for-that)
+  * [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
 
 ---
 

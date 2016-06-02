@@ -29,3 +29,4 @@
 * [How to Fix “Error Establishing Database Connection” for WordPress](https://premium.wpmudev.org/blog/fix-error-establishing-database-connection/)
 * [How to Fix the 500 Internal Server Error in WordPress](https://premium.wpmudev.org/blog/500-internal-server-error/)
 * [How to Integrate SmoothState.js Into a WordPress Theme](http://webdesign.tutsplus.com/tutorials/how-to-integrate-smoothstatejs-into-a-wordpress-theme--cms-26610)
+* [A Real World Example of WordPress Plugin Development](https://www.sitepoint.com/real-world-example-wordpress-plugin-development/)

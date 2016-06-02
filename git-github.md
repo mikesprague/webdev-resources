@@ -24,3 +24,4 @@
   * [Create a Global .gitignore](https://davidwalsh.name/global-gitignore)
   * [Why You’re Branching and Merging in Git Wrong](https://dotdev.co/why-you-re-branching-and-merging-in-git-wrong-7a9c005a3e4e#.d339ikmyn)
   * [A Git workflow for client-facing sign off](https://dotdev.co/a-git-workflow-for-client-facing-sign-off-28b7683bf01c#.vpami78vi)
+  * [Learn Git in 30 Minutes](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)

@@ -12,3 +12,4 @@
   * [An in-Depth Look at Basic Rails Routing](http://www.sitepoint.com/an-in-depth-look-at-basic-rails-routing/)
   * [Brush up Your Knowledge of Rails Associations](https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/)
   * [Queries in Rails, Part 1](http://code.tutsplus.com/articles/queries-in-rails-part-1--cms-26409)
+  * [Queries in Rails, Part 2](http://code.tutsplus.com/articles/queries-in-rails-part-2--cms-26450)

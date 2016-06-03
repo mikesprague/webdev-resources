@@ -114,6 +114,7 @@
   * [Why You Shouldn’t Be Scared of TypeScript](https://scotch.io/tutorials/why-you-shouldnt-be-scared-of-typescript)
   * [What is PhantomJS and How is it Used?](https://scotch.io/tutorials/what-is-phantomjs-and-how-is-it-used)
   * [Smooth Page Scroll in 5 Lines of JavaScript](http://thenewcode.com/507/Smooth-Page-Scroll-in-5-Lines-of-JavaScript)
+  * [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.sstrw9aht)
 
 ---
 

@@ -30,3 +30,4 @@
 * [How to Fix the 500 Internal Server Error in WordPress](https://premium.wpmudev.org/blog/500-internal-server-error/)
 * [How to Integrate SmoothState.js Into a WordPress Theme](http://webdesign.tutsplus.com/tutorials/how-to-integrate-smoothstatejs-into-a-wordpress-theme--cms-26610)
 * [A Real World Example of WordPress Plugin Development](https://www.sitepoint.com/real-world-example-wordpress-plugin-development/)
+* [An In-depth SEO Guide for WordPress Site Owners](http://blog.templatemonster.com/2016/06/03/the-complete-beginners-seo-guide-for-wordpress-users/)

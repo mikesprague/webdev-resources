@@ -5,6 +5,7 @@
   * [Learn Ruby with the Neo Ruby Koans](http://rubykoans.com/)
   * [Try Ruby](http://tryruby.org/)
   * [Ruby Monk Interactive Ruby Tutorials](https://rubymonk.com/)
+  * [Learn Concurrency by Making a Countdown Latch in Ruby](https://www.sitepoint.com/learn-concurrency-by-making-a-countdown-latch-in-ruby/)
 
 ## Rails
 

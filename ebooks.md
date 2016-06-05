@@ -46,3 +46,4 @@
   * [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
   * [Front-End Developer Handbook](http://www.frontendhandbook.com/)
   * [Designing for the Web](http://www.designingfortheweb.co.uk/)
+  * [Reverse Engineering for Beginners (free book)](http://beginners.re/)

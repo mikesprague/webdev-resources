@@ -123,6 +123,7 @@
   * [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
   * [Introducing the CSS clip-path Property](https://www.sitepoint.com/introducing-css-clip-path-property/)
   * [Building Animated Covers for Video with Sprites](https://notes.embed.ly/building-animated-covers-for-video-with-sprites-d260c445eb10#.ryz7jxxt2)
+  * [Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/)
 
 ---
 

@@ -124,6 +124,7 @@
   * [Introducing the CSS clip-path Property](https://www.sitepoint.com/introducing-css-clip-path-property/)
   * [Building Animated Covers for Video with Sprites](https://notes.embed.ly/building-animated-covers-for-video-with-sprites-d260c445eb10#.ryz7jxxt2)
   * [Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/)
+  * [CSS Modules: A review from the front-end](https://kevinsuttle.com/css-modules-a-review/)
 
 ---
 

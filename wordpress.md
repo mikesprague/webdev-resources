@@ -33,3 +33,4 @@
 * [An In-depth SEO Guide for WordPress Site Owners](http://blog.templatemonster.com/2016/06/03/the-complete-beginners-seo-guide-for-wordpress-users/)
 * [The Ultimate Guide to WordPress Caching](https://premium.wpmudev.org/blog/wordpress-caching/)
 * [Add Interactive Maps to WordPress with MapSVG](https://speckyboy.com/2016/06/06/add-interactive-maps-wordpress-mapsvg/)
+* [Full E-Commerce Integration of Snipcart with WordPress](https://scotch.io/tutorials/full-e-commerce-integration-of-snipcart-with-wordpress)

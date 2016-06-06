@@ -16,3 +16,4 @@
   * [Localizing Dates, Currency, and Numbers with Php-Intl](https://www.sitepoint.com/localizing-dates-currency-and-numbers-with-php-intl/)
   * [Quick Tip: Make Composer Auto-Update Itself](https://scotch.io/tutorials/quick-tip-make-composer-auto-update-itself)
   * [Things I didn't know Laravel could do](https://mattstauffer.co/blog/things-i-didnt-know-laravel-could-do)
+  * [Understanding Laravel Middleware](https://scotch.io/tutorials/understanding-laravel-middleware)

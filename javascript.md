@@ -201,6 +201,7 @@
   * [Building a URL Shortener with MongoDB, Express, and Node.js](http://lefkowitz.me/thoughts/2016/05/05/men-stack-building-a-url-shortener-with-mongodb-express-and-node-js/)
   * [Mocknode: a configurable mock server](https://medium.com/@i.anunay/mocknode-e338f793dba0#.x0iojk1b3)
   * [The Complete-Ish Guide to Upgrading to Gulp 4](https://www.joezimjs.com/javascript/complete-guide-upgrading-gulp-4/)
+  * [Rethink Database for Creating a Realtime Web Application with Node JS](http://www.9lessons.info/2016/06/rethink-database-for-creating-realtime.html)
 
 ---
 

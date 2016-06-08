@@ -117,6 +117,7 @@
   * [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.sstrw9aht)
   * [Front-end Hyperpolyglot: a comparison of similar features in popular JavaScript frameworks](https://jeffcarp.github.io/frontend-hyperpolyglot/)
   * [TypeScript 1.8 Tutorial - Quick Start](http://www.dotnetcurry.com/typescript/1287/typescript-quick-start-tutorial)
+  * [Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)
 
 ---
 

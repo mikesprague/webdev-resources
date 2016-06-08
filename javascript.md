@@ -266,6 +266,7 @@
   * [React and Firebase, sittin’ in a tree](https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb#.5apmyucv4)
   * [22 Amazing Open Source React Projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.syz9vgsbu)
   * [Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
+  * [Learning Redux with Reducks - Intro](http://www.aaron-powell.com//posts/2016-06-06-learning-redux-with-reducks-intro.html)
 
 ---
 

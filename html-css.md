@@ -125,6 +125,7 @@
   * [Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/)
   * [CSS Modules: A review from the front-end](https://kevinsuttle.com/css-modules-a-review/)
   * [Five Ways to Hide Elements in CSS](https://www.sitepoint.com/five-ways-to-hide-elements-in-css/)
+  * [CSS Specificity](http://cssspecificity.com/)
 
 ---
 

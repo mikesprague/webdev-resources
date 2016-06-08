@@ -190,6 +190,7 @@
   * [Flexbox Playground](http://codepen.io/enxaneta/full/adLPwv/)
   * [5 Flexbox Techniques You Need to Know About](http://tutorialzine.com/2016/04/5-flexbox-techniques-you-need-to-know-about/)
   * [Flexbox Grid](http://flexboxgrid.com/)
+  * [Getting Started With CSS Flexbox Using Practical Examples](https://speckyboy.com/2016/06/08/getting-started-css-flexbox/)
 
 ---
 

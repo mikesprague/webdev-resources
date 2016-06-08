@@ -170,6 +170,7 @@
   * [Gridism: A simple responsive CSS grid](http://cobyism.com/gridism/)
   * [Pavilion: A simple, unopinionated CSS framework, ready for the future](http://www.pavilion.io/)
   * [Picnic CSS: Lightweight and beautiful library](http://picnicss.com/)
+  * [Mega Boilerplate: Handcrafted starter projects, optimized for simplicity and ease of use](http://megaboilerplate.com/)
 
 ---
 

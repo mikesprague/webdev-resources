@@ -167,6 +167,7 @@
   * [Pills: A simple, responsive, and tiny CSS grid for humans](http://arkpod.in/pills/)
   * [Gridism: A simple responsive CSS grid](http://cobyism.com/gridism/)
   * [Pavilion: A simple, unopinionated CSS framework, ready for the future](http://www.pavilion.io/)
+  * [Picnic CSS: Lightweight and beautiful library](http://picnicss.com/)
 
 ---
 

@@ -118,6 +118,7 @@
   * [Front-end Hyperpolyglot: a comparison of similar features in popular JavaScript frameworks](https://jeffcarp.github.io/frontend-hyperpolyglot/)
   * [TypeScript 1.8 Tutorial - Quick Start](http://www.dotnetcurry.com/typescript/1287/typescript-quick-start-tutorial)
   * [Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)
+  * [The JavaScript Execution Stack: The Key to Learning the Language](https://simpleprogrammer.com/2016/06/06/javascript-execution-stack-key-learning-language/)
 
 ---
 

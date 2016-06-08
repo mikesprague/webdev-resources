@@ -32,7 +32,6 @@
   * [A Front End Engineer's Manifesto](http://f2em.com/)
   * [Get BEM (Block Element Modifier)](http://getbem.com/)
   * [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
-  * [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
   * [A Practical Guide to SVG on the Web](https://svgontheweb.com/)
   * [SVG Weirdness](https://github.com/emilbjorklund/svg-weirdness)
   * [The State of Web Type](http://stateofwebtype.com/)
@@ -167,6 +166,7 @@
   * [Cutestrap: A sassy, opinionated CSS Framework - A tiny alternative to Bootstrap](https://www.cutestrap.com/)
   * [Pills: A simple, responsive, and tiny CSS grid for humans](http://arkpod.in/pills/)
   * [Gridism: A simple responsive CSS grid](http://cobyism.com/gridism/)
+  * [Pavilion: A simple, unopinionated CSS framework, ready for the future](http://www.pavilion.io/)
 
 ---
 

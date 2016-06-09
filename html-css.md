@@ -126,6 +126,7 @@
   * [CSS Modules: A review from the front-end](https://kevinsuttle.com/css-modules-a-review/)
   * [Five Ways to Hide Elements in CSS](https://www.sitepoint.com/five-ways-to-hide-elements-in-css/)
   * [CSS Specificity](http://cssspecificity.com/)
+  * [CSS structure & anti patterns (Part 1)](https://blog.stapps.io/css-structure-anti-patterns-part1/)
 
 ---
 

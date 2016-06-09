@@ -13,3 +13,4 @@
   * [Write Professional Unit Tests in Python](http://code.tutsplus.com/tutorials/write-professional-unit-tests-in-python--cms-25835)
   * [How to Host your Python Package on PyPI with GitHub](https://www.codementor.io/python/tutorial/host-your-python-package-using-github-on-pypi)
   * [Image Processing Using Python](http://code.tutsplus.com/tutorials/image-processing-using-python--cms-25772)
+  * [File and Directory Operations Using Python](http://code.tutsplus.com/tutorials/file-and-directory-operations-using-python--cms-25817)

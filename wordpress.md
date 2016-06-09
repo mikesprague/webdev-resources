@@ -36,3 +36,4 @@
 * [Full E-Commerce Integration of Snipcart with WordPress](https://scotch.io/tutorials/full-e-commerce-integration-of-snipcart-with-wordpress)
 * [Using PHP CodeSniffer With WordPress: Understanding Code Smells](http://code.tutsplus.com/tutorials/using-php-codesniffer-with-wordpress-understanding-code-smells--cms-26352)
 * [WordPress Development for Intermediate Users: Theme Development in Detail](https://premium.wpmudev.org/blog/wordpress-development-intermediate-theme-development-in-detail/)
+* [Monitoring WordPress Apps with the ELK Stack](https://www.sitepoint.com/monitoring-wordpress-apps-with-the-elk-stack/)

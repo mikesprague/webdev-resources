@@ -17,3 +17,4 @@
   * [Setting Up Rails Over HTTPS Using Nginx and Let's Encrypt](https://blog.benroux.me/production-https-rails-app-using-nginx-and-lets-encrypt/)
   * [Brush up Your Knowledge of Rails Associations](https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/)
   * [How To Implement Simple Authentication Without Devise](http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise/)
+  * [Two Factor Authentication (2FA) in Ruby on Rails with Devise and Nexmo Verify](https://www.nexmo.com/blog/2016/06/07/two-factor-authentication-2fa-ruby-rails-devise-nexmo-verify/)

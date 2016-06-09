@@ -20,3 +20,4 @@
   * [Two Factor Authentication (2FA) in Ruby on Rails with Devise and Nexmo Verify](https://www.nexmo.com/blog/2016/06/07/two-factor-authentication-2fa-ruby-rails-devise-nexmo-verify/)
   * [Setup and Deploy Rails using Passenger - Part 1](https://littlefox.es/post/deploy-rails-passenger-rubyconf.html)
   * [Setup and Deploy Rails using Passenger - Part 2](https://littlefox.es/post/deploy-rails-passenger-rubyconf-part2.html)
+  * [How To Keep Your Controllers Thin with Form Objects](http://ducktypelabs.com/how-to-keep-your-controllers-thin-with-form-objects/)

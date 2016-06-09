@@ -122,6 +122,7 @@
   * [Debugging JavaScript with Chrome DevTools Breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)
   * [10 Lodash Features You Can Replace with ES6](https://www.sitepoint.com/lodash-features-replace-es6/)
   * [Regular Expressions in JavaScript](https://www.sitepoint.com/expressions-javascript/)
+  * [JavaScript variables hoisting in details](http://rainsoft.io/javascript-hoisting-in-details/)
 
 ---
 

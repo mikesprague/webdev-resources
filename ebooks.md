@@ -47,3 +47,4 @@
   * [Front-End Developer Handbook](http://www.frontendhandbook.com/)
   * [Designing for the Web](http://www.designingfortheweb.co.uk/)
   * [Reverse Engineering for Beginners (free book)](http://beginners.re/)
+  * [Why’s (Poignant) Guide to Ruby](http://poignant.guide/book/)

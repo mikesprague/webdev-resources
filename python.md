@@ -15,3 +15,4 @@
   * [Image Processing Using Python](http://code.tutsplus.com/tutorials/image-processing-using-python--cms-25772)
   * [File and Directory Operations Using Python](http://code.tutsplus.com/tutorials/file-and-directory-operations-using-python--cms-25817)
   * [Professional Error Handling With Python](http://code.tutsplus.com/tutorials/professional-error-handling-with-python--cms-25950)
+  * [Quick Tip: How to Create a Universally Unique Identifier in Python](http://code.tutsplus.com/tutorials/quick-tip-how-to-create-a-universally-unique-identifier-in-python--cms-25927)

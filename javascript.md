@@ -123,6 +123,7 @@
   * [10 Lodash Features You Can Replace with ES6](https://www.sitepoint.com/lodash-features-replace-es6/)
   * [Regular Expressions in JavaScript](https://www.sitepoint.com/expressions-javascript/)
   * [JavaScript variables hoisting in details](http://rainsoft.io/javascript-hoisting-in-details/)
+  * [JavaScript Object Creation: Patterns and Best Practices](https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/)
 
 ---
 

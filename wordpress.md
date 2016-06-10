@@ -38,3 +38,4 @@
 * [WordPress Development for Intermediate Users: Theme Development in Detail](https://premium.wpmudev.org/blog/wordpress-development-intermediate-theme-development-in-detail/)
 * [Monitoring WordPress Apps with the ELK Stack](https://www.sitepoint.com/monitoring-wordpress-apps-with-the-elk-stack/)
 * [The Ultimate Guide to A/B Split Testing with WordPress](https://premium.wpmudev.org/blog/ab-testing/)
+* [Debug WordPress with Kint PHP Debugger](https://tommcfarlin.com/debug-wordpress-with-kint/)

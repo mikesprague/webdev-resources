@@ -305,6 +305,7 @@
   * [Official Angular 2 Style Guide](https://angular.io/styleguide)
   * [An introduction to Angular 2 – Series](http://blog.falafel.com/introduction-angular-2-series/)
   * [Get Your Angular 2 On: Upgrading from 1.5](https://www.toptal.com/angular-js/angular-2-upgrading-from-1-5)
+  * [Testing AngularJS with Jasmine and Karma (Part 1)](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1)
 
 ---
 

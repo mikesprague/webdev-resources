@@ -127,6 +127,7 @@
   * [Five Ways to Hide Elements in CSS](https://www.sitepoint.com/five-ways-to-hide-elements-in-css/)
   * [CSS Specificity](http://cssspecificity.com/)
   * [CSS structure & anti patterns (Part 1)](https://blog.stapps.io/css-structure-anti-patterns-part1/)
+  * [Form Validation UX in HTML and CSS](https://css-tricks.com/form-validation-ux-html-css/)
 
 ---
 

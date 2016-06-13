@@ -304,6 +304,7 @@
   * [Improving Angular performance with 1 line of code](https://medium.com/@hackupstate/improving-angular-performance-with-1-line-of-code-a1fb814a6476#.kr7lcaagc)
   * [Official Angular 2 Style Guide](https://angular.io/styleguide)
   * [An introduction to Angular 2 – Series](http://blog.falafel.com/introduction-angular-2-series/)
+  * [Get Your Angular 2 On: Upgrading from 1.5](https://www.toptal.com/angular-js/angular-2-upgrading-from-1-5)
 
 ---
 

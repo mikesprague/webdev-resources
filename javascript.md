@@ -303,6 +303,7 @@
   * [AngularJS 2 (Introduction/Tutorial)](http://www.codemag.com/article/1605041)
   * [Improving Angular performance with 1 line of code](https://medium.com/@hackupstate/improving-angular-performance-with-1-line-of-code-a1fb814a6476#.kr7lcaagc)
   * [Official Angular 2 Style Guide](https://angular.io/styleguide)
+  * [An introduction to Angular 2 – Series](http://blog.falafel.com/introduction-angular-2-series/)
 
 ---
 

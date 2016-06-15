@@ -34,8 +34,10 @@
 * [The Ultimate Guide to WordPress Caching](https://premium.wpmudev.org/blog/wordpress-caching/)
 * [Add Interactive Maps to WordPress with MapSVG](https://speckyboy.com/2016/06/06/add-interactive-maps-wordpress-mapsvg/)
 * [Full E-Commerce Integration of Snipcart with WordPress](https://scotch.io/tutorials/full-e-commerce-integration-of-snipcart-with-wordpress)
-* [Using PHP CodeSniffer With WordPress: Understanding Code Smells](http://code.tutsplus.com/tutorials/using-php-codesniffer-with-wordpress-understanding-code-smells--cms-26352)
 * [WordPress Development for Intermediate Users: Theme Development in Detail](https://premium.wpmudev.org/blog/wordpress-development-intermediate-theme-development-in-detail/)
 * [Monitoring WordPress Apps with the ELK Stack](https://www.sitepoint.com/monitoring-wordpress-apps-with-the-elk-stack/)
 * [The Ultimate Guide to A/B Split Testing with WordPress](https://premium.wpmudev.org/blog/ab-testing/)
 * [Debug WordPress with Kint PHP Debugger](https://tommcfarlin.com/debug-wordpress-with-kint/)
+* Using PHP CodeSniffer With WordPress
+  * [Understanding Code Smells](http://code.tutsplus.com/tutorials/using-php-codesniffer-with-wordpress-understanding-code-smells--cms-26352)
+  * [Installing and Using PHP CodeSniffer](http://code.tutsplus.com/tutorials/using-php-codesniffer-with-wordpress-installing-and-using-php-codesniffer--cms-26394)

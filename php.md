@@ -18,3 +18,4 @@
   * [Things I didn't know Laravel could do](https://mattstauffer.co/blog/things-i-didnt-know-laravel-could-do)
   * [Understanding Laravel Middleware](https://scotch.io/tutorials/understanding-laravel-middleware)
   * [Kint: a modern and powerful PHP debugging helper](https://raveren.github.io/kint/)
+  * [Google Two Factor Authentication Login with PHP](http://www.9lessons.info/2016/06/google-two-factor-authentication-login.html)

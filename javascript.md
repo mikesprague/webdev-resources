@@ -124,6 +124,7 @@
   * [Regular Expressions in JavaScript](https://www.sitepoint.com/expressions-javascript/)
   * [JavaScript variables hoisting in details](http://rainsoft.io/javascript-hoisting-in-details/)
   * [JavaScript Object Creation: Patterns and Best Practices](https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/)
+  * [Functional Programming in JavaScript](http://www.barbarianmeetscoding.com/blog/2016/06/14/functional-programming-in-javascript/)
 
 ---
 

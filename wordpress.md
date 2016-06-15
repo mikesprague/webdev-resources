@@ -41,3 +41,4 @@
 * Using PHP CodeSniffer With WordPress
   * [Understanding Code Smells](http://code.tutsplus.com/tutorials/using-php-codesniffer-with-wordpress-understanding-code-smells--cms-26352)
   * [Installing and Using PHP CodeSniffer](http://code.tutsplus.com/tutorials/using-php-codesniffer-with-wordpress-installing-and-using-php-codesniffer--cms-26394)
+* [Architecture and Unit Testing WordPress Code](https://tommcfarlin.com/unit-testing-wordpress-code/)

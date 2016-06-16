@@ -17,3 +17,4 @@
   * [Professional Error Handling With Python](http://code.tutsplus.com/tutorials/professional-error-handling-with-python--cms-25950)
   * [Quick Tip: How to Create a Universally Unique Identifier in Python](http://code.tutsplus.com/tutorials/quick-tip-how-to-create-a-universally-unique-identifier-in-python--cms-25927)
   * [Templating With Jinja2 in Flask: Essentials](http://code.tutsplus.com/tutorials/templating-with-jinja2-in-flask-essentials--cms-25571)
+  * [How To Set Up a Jupyter Notebook to Run IPython on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04)

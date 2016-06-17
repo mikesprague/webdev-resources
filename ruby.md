@@ -9,6 +9,7 @@
   * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
   * [Getting Started with RSpec](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)
   * [Metaprogramming in Ruby](https://blog.codeship.com/metaprogramming-in-ruby/)
+  * [Solving Backwards Compatibility in Ruby with a Proxy Object](https://blog.codeship.com/solving-backwards-compatibility-ruby-proxy-object/)
 
 ## Rails
 

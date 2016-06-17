@@ -42,3 +42,4 @@
   * [Understanding Code Smells](http://code.tutsplus.com/tutorials/using-php-codesniffer-with-wordpress-understanding-code-smells--cms-26352)
   * [Installing and Using PHP CodeSniffer](http://code.tutsplus.com/tutorials/using-php-codesniffer-with-wordpress-installing-and-using-php-codesniffer--cms-26394)
 * [Architecture and Unit Testing WordPress Code](https://tommcfarlin.com/unit-testing-wordpress-code/)
+* [How to Automate and Optimize Your WordPress Development and Testing on Pantheon](http://code.tutsplus.com/tutorials/how-to-automate-and-optimize-your-wordpress-development-and-testing-on-pantheon--cms-26551)

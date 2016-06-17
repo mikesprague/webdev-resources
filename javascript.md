@@ -127,6 +127,7 @@
   * [Functional Programming in JavaScript](http://www.barbarianmeetscoding.com/blog/2016/06/14/functional-programming-in-javascript/)
   * [Learn JavaScript Series: 6 Essential Tips for Getting Started as a JavaScript Developer](http://blog.debugme.eu/getting-started-as-a-javascript-developer/)
   * [One Weird Trick that Will Change the Way You Code Forever: Javascript TDD](http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/)
+  * [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
 ---
 

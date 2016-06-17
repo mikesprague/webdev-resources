@@ -218,6 +218,7 @@
   * [How Using Yeoman Changed the Way We Work](https://css-tricks.com/using-yeoman-changed-way-work/)
   * [Building Real-time Apps with Websockets & Server-Sent Events](https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/)
   * [Introduction to Koa.js](https://blog.jscrambler.com/introduction-to-koajs/)
+  * [ES7 Async/Await in Node.js with Babel.js](http://blog.shaunxu.me/2016-06-14-es7-async-await-in-node-with-bebel/)
 
 ---
 

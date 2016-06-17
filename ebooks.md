@@ -49,3 +49,4 @@
   * [Reverse Engineering for Beginners (free book)](http://beginners.re/)
   * [Why’s (Poignant) Guide to Ruby](http://poignant.guide/book/)
   * [Learn to Program](https://pine.fm/LearnToProgram/)
+  * [Typography Handbook: A concise, referential guide on best web typographic practices](http://typographyhandbook.com/)

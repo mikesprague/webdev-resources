@@ -8,6 +8,7 @@
   * [Learn Concurrency by Making a Countdown Latch in Ruby](https://www.sitepoint.com/learn-concurrency-by-making-a-countdown-latch-in-ruby/)
   * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
   * [Getting Started with RSpec](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)
+  * [Metaprogramming in Ruby](https://blog.codeship.com/metaprogramming-in-ruby/)
 
 ## Rails
 

@@ -12,6 +12,7 @@
   * [Solving Backwards Compatibility in Ruby with a Proxy Object](https://blog.codeship.com/solving-backwards-compatibility-ruby-proxy-object/)
   * [Proper Regexp Anchoring](http://aaronlasseigne.com/2016/06/10/proper-regexp-anchoring/)
   * [Ruby Iterators, Enumerators, Enumerable, and Loops](http://www.zenruby.info/2016/06/ruby-iterators-enumerators-enumerable.html)
+  * [Exceptions and Observers](https://killring.org/2016/06/12/exceptions-and-observers/)
 
 ## Rails
 

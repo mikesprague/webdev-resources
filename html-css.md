@@ -130,6 +130,7 @@
   * [Form Validation UX in HTML and CSS](https://css-tricks.com/form-validation-ux-html-css/)
   * [Rationalizing Functional CSS](https://marcelosomers.com/writing/rationalizing-functional-css/)
   * [Improving the Quality of Front End Projects, Automatically! Pt. 1 – HTML](http://developer.telerik.com/featured/improving-quality-front-end-projects-automatically-pt-1-html/)
+  * [CriticalCSS In Action](https://bocoup.com/weblog/criticalcss-in-action)
 
 ---
 

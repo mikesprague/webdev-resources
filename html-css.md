@@ -131,6 +131,7 @@
   * [Rationalizing Functional CSS](https://marcelosomers.com/writing/rationalizing-functional-css/)
   * [Improving the Quality of Front End Projects, Automatically! Pt. 1 – HTML](http://developer.telerik.com/featured/improving-quality-front-end-projects-automatically-pt-1-html/)
   * [CriticalCSS In Action](https://bocoup.com/weblog/criticalcss-in-action)
+  * [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/)
 
 ---
 

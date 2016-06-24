@@ -14,6 +14,7 @@
   * [Ruby Iterators, Enumerators, Enumerable, and Loops](http://www.zenruby.info/2016/06/ruby-iterators-enumerators-enumerable.html)
   * [Exceptions and Observers](https://killring.org/2016/06/12/exceptions-and-observers/)
   * [Ruby Ranges: How Do They Work?](http://www.blackbytes.info/2016/06/ruby-ranges-how-do-they-work/)
+  * [Duck-typing with #to_proc](http://jbodah.github.io/blog/2016/06/09/ducktyping-toproc/)
 
 ## Rails
 

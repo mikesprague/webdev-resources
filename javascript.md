@@ -130,6 +130,7 @@
   * [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
   * [Debug JavaScript With These 14 Tips](https://dzone.com/articles/debug-javascript-with-these-14-tips)
   * [Accessing the User’s Camera with JpegCamera and Canvas](https://www.sitepoint.com/jpegcamera-and-canvas/)
+  * [An Introduction to TypeScript: Static Typing for the Web](https://www.sitepoint.com/introduction-to-typescript/)
 
 ---
 

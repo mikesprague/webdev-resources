@@ -33,3 +33,4 @@
   * [How To Keep Your Controllers Thin with Form Objects](http://ducktypelabs.com/how-to-keep-your-controllers-thin-with-form-objects/)
   * [Make Easy Graphs and Charts on Rails with Chartkick](https://www.sitepoint.com/make-easy-graphs-and-charts-on-rails-with-chartkick/)
   * [Rails Image Upload: Using Paperclip in a Rails Application](http://code.tutsplus.com/tutorials/rails-image-upload-using-paperclip-in-a-rails-application--cms-25974)
+  * [Making Rails asset pipeline faster](http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster)

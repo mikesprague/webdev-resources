@@ -225,6 +225,7 @@
   * [Introduction to Koa.js](https://blog.jscrambler.com/introduction-to-koajs/)
   * [ES7 Async/Await in Node.js with Babel.js](http://blog.shaunxu.me/2016-06-14-es7-async-await-in-node-with-bebel/)
   * [How To Harness The Machines: Being Productive With Task Runners](https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/)
+  * [Introducing Queues in Node.js](http://blog.yld.io/2016/05/10/introducing-queues/)
 
 ---
 

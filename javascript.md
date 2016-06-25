@@ -292,6 +292,7 @@
     * [Creating a Store](http://www.aaron-powell.com//posts/2016-06-09-learning-redux-with-reducks-creating-a-store.html)
     * [Tests and Demo App](http://www.aaron-powell.com/posts/2016-06-09-learning-redux-with-reducks-tests-and-demo.html)
   * [Realtime App Development with RethinkDB and React Native](https://www.sitepoint.com/realtime-app-development-with-rethinkdb-and-react-native/)
+  * [Getting Started With React](http://code.tutsplus.com/articles/getting-started-with-react--cms-25031)
 
 ---
 

@@ -19,3 +19,4 @@
   * [The Sleepy User Agent](https://blog.cloudflare.com/the-sleepy-user-agent/)
   * [How to Get Started with a Content Security Policy](https://blog.codeship.com/how-to-get-started-with-a-content-security-policy/)
   * [Get HTTPS for free!](https://gethttpsforfree.com/)
+  * [What is Cross-Site Request Forgery?](https://blog.jscrambler.com/what-is-cross-site-request-forgery/)

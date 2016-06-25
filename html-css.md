@@ -177,6 +177,7 @@
   * [Pavilion: A simple, unopinionated CSS framework, ready for the future](http://www.pavilion.io/)
   * [Picnic CSS: Lightweight and beautiful library](http://picnicss.com/)
   * [Mega Boilerplate: Handcrafted starter projects, optimized for simplicity and ease of use](http://megaboilerplate.com/)
+  * [Flex Layout Attribute: HTML layout helper based on CSS flexbox specification](http://progressivered.com/fla/)
 
 ---
 

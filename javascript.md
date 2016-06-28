@@ -133,6 +133,7 @@
   * [An Introduction to TypeScript: Static Typing for the Web](https://www.sitepoint.com/introduction-to-typescript/)
   * [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/)
   * [Everything I Know About The Script Tag](https://eager.io/blog/everything-I-know-about-the-script-tag/)
+  * [Build a Screenshot App (Part 1): Web Page Module and Screen Capture](https://scotch.io/tutorials/build-a-screenshot-app-part-1-web-page-module-and-screen-capture)
 
 ---
 

@@ -16,6 +16,7 @@
   * [Ruby Ranges: How Do They Work?](http://www.blackbytes.info/2016/06/ruby-ranges-how-do-they-work/)
   * [Duck-typing with #to_proc](http://jbodah.github.io/blog/2016/06/09/ducktyping-toproc/)
   * [Writing a microservice in Ruby](http://coderascal.com/ruby/writing-a-microservice-in-ruby/)
+  * [Ruby Classes](http://www.zenruby.info/2016/06/ruby-classes.html)
 
 ## Rails
 

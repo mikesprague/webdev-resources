@@ -45,3 +45,4 @@
 * [How to Automate and Optimize Your WordPress Development and Testing on Pantheon](http://code.tutsplus.com/tutorials/how-to-automate-and-optimize-your-wordpress-development-and-testing-on-pantheon--cms-26551)
 * [How to Hide Your WordPress Login Page From Hackers and Brute Force](https://premium.wpmudev.org/blog/hide-wordpress-login-page/)
 * [The Clean Architecture and WordPress](https://tommcfarlin.com/clean-architecture/)
+* [WordPress Development for Intermediate Users: Custom Post Types and Taxonomies](https://premium.wpmudev.org/blog/wordpress-development-for-intermediate-users-custom-post-types-and-taxonomies/)

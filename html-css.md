@@ -133,6 +133,7 @@
   * [CriticalCSS In Action](https://bocoup.com/weblog/criticalcss-in-action)
   * [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/)
   * [How well do you know CSS display?](https://www.chenhuijing.com/blog/how-well-do-you-know-display/)
+  * [Image Replacement Techniques in the Modern Age](https://www.sitepoint.com/image-replacement-techniques-in-the-modern-age/)
 
 ---
 

@@ -202,6 +202,7 @@
   * [Getting Started With CSS Flexbox Using Practical Examples](https://speckyboy.com/2016/06/08/getting-started-css-flexbox/)
   * [Quick Tip: How z-index and Auto Margins Work in Flexbox](https://www.sitepoint.com/quick-tip-how-z-index-and-auto-margins-work-in-flexbox/)
   * [Don’t Overthink It (Flexbox) Grids](https://css-tricks.com/dont-overthink-flexbox-grids/)
+  * [Getting Started with Flexbox: First Impressions, Tips, & Tricks](https://webdevstudios.com/2016/06/28/getting-started-with-flexbox/)
 
 ---
 

@@ -20,3 +20,4 @@
   * [How to Get Started with a Content Security Policy](https://blog.codeship.com/how-to-get-started-with-a-content-security-policy/)
   * [Get HTTPS for free!](https://gethttpsforfree.com/)
   * [What is Cross-Site Request Forgery?](https://blog.jscrambler.com/what-is-cross-site-request-forgery/)
+  * [Everything you could ever want to know (and more) about controlling the Referer header](https://blog.fastmail.com/2016/06/20/everything-you-could-ever-want-to-know-and-more-about-controlling-the-referer-header/)

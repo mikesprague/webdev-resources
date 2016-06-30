@@ -150,6 +150,7 @@
   * [Timedropper: jQuery time plugin](http://felicegattuso.com/projects/timedropper/)
   * [Lazy Loading Images? Don’t Rely On JavaScript!](http://robinosborne.co.uk/2016/05/16/lazy-loading-images-dont-rely-on-javascript/)
   * [Understanding JavaScript Promises, Pt. I: Background & Basics](https://scotch.io/tutorials/understanding-javascript-promises-pt-i-background-basics)
+  * [Three Real-World Uses for Mutation Observer](https://eager.io/blog/three-real-world-use-cases-for-mutation-observer/)
 
 ---
 

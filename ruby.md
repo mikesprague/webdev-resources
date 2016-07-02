@@ -18,6 +18,7 @@
   * [Writing a microservice in Ruby](http://coderascal.com/ruby/writing-a-microservice-in-ruby/)
   * [Ruby Classes](http://www.zenruby.info/2016/06/ruby-classes.html)
   * [RSpec be_within matcher](http://www.eq8.eu/blogs/27-rspec-be_within-matcher)
+  * [5 lessons in object-oriented design from Sandi Metz](https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/)
 
 ## Rails
 

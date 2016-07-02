@@ -135,6 +135,7 @@
   * [Everything I Know About The Script Tag](https://eager.io/blog/everything-I-know-about-the-script-tag/)
   * [Build a Screenshot App (Part 1): Web Page Module and Screen Capture](https://scotch.io/tutorials/build-a-screenshot-app-part-1-web-page-module-and-screen-capture)
   * [Things to Know (and Potential Dangers) with Third-Party Scripts](https://css-tricks.com/potential-dangers-of-third-party-javascript/)
+  * [JavaScript Design Patterns: The Singleton](https://www.sitepoint.com/javascript-design-patterns-singleton/)
 
 ---
 

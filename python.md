@@ -23,3 +23,4 @@
   * [Python Virtual Environments](http://code.tutsplus.com/tutorials/python-virtual-environments--cms-26284)
   * [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
   * [Counting Word Frequency in a File Using Python](http://code.tutsplus.com/tutorials/counting-word-frequency-in-a-file-using-python--cms-25965)
+  * [Quick Tip: How to Read Extremely Large Text Files Using Python](http://code.tutsplus.com/tutorials/quick-tip-how-to-read-extremely-large-text-files-using-python--cms-25992)

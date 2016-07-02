@@ -28,3 +28,4 @@
   * [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
   * [How to Recover a Lost Commit With Git](http://www.barbarianmeetscoding.com/blog/2016/06/07/barbaric-tip-of-the-week-how-to-recover-a-lost-commit-with-git/)
   * [Git’s Patch Mode](https://css-tricks.com/git-add-patch-mode/)
+  * [Writing Good Git Commit Messages](https://tommcfarlin.com/git-commit-messages/)

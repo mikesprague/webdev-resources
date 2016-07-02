@@ -9,3 +9,4 @@
   * [Learn Docker by building a Microservice](http://www.dwmkerr.com/learn-docker-by-building-a-microservice/)
   * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
   * [How to build a Node.js Nano Server Docker base image](https://stefanscherer.github.io/how-to-build-nodejs-nanoserver-image/)
+  * [An Intro to Setting up Your First Docker Container for your Rails App](http://www.codelitt.com/blog/intro-setting-up-your-first-docker-container-your-rails-app/)

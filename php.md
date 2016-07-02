@@ -22,3 +22,4 @@
   * [PHP School (Learn PHP Through Command Line Workshops)](https://css-tricks.com/php-school/)
   * [Processing a csv file in Laravel](https://murze.be/2016/07/processing-csv-file-laravel/)
   * [Laravel Collections: PHP Arrays On Steroids](https://scotch.io/tutorials/laravel-collections-php-arrays-on-steroids)
+  * [Disco with Design Patterns: A Fresh Look at Dependency Injection](https://www.sitepoint.com/disco-with-frameworks-and-design-patterns-a-fresh-look-at-dependency-injection/)

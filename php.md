@@ -21,3 +21,4 @@
   * [Google Two Factor Authentication Login with PHP](http://www.9lessons.info/2016/06/google-two-factor-authentication-login.html)
   * [PHP School (Learn PHP Through Command Line Workshops)](https://css-tricks.com/php-school/)
   * [Processing a csv file in Laravel](https://murze.be/2016/07/processing-csv-file-laravel/)
+  * [Laravel Collections: PHP Arrays On Steroids](https://scotch.io/tutorials/laravel-collections-php-arrays-on-steroids)

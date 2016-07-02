@@ -22,3 +22,4 @@
   * [How To Set Up a Jupyter Notebook to Run IPython on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04)
   * [Python Virtual Environments](http://code.tutsplus.com/tutorials/python-virtual-environments--cms-26284)
   * [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
+  * [Counting Word Frequency in a File Using Python](http://code.tutsplus.com/tutorials/counting-word-frequency-in-a-file-using-python--cms-25965)

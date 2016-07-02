@@ -46,3 +46,4 @@
 * [How to Hide Your WordPress Login Page From Hackers and Brute Force](https://premium.wpmudev.org/blog/hide-wordpress-login-page/)
 * [The Clean Architecture and WordPress](https://tommcfarlin.com/clean-architecture/)
 * [WordPress Development for Intermediate Users: Custom Post Types and Taxonomies](https://premium.wpmudev.org/blog/wordpress-development-for-intermediate-users-custom-post-types-and-taxonomies/)
+* [Object-Oriented Partials in WordPress](https://tommcfarlin.com/partials-in-wordpress/)

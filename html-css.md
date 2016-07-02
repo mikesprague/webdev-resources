@@ -135,6 +135,7 @@
   * [How well do you know CSS display?](https://www.chenhuijing.com/blog/how-well-do-you-know-display/)
   * [Image Replacement Techniques in the Modern Age](https://www.sitepoint.com/image-replacement-techniques-in-the-modern-age/)
   * [Content Jumping (and How To Avoid It)](https://css-tricks.com/content-jumping-avoid/)
+  * [Introducing the CSS text-align-last Property](https://www.sitepoint.com/introducing-the-css-text-align-last-property/)
 
 ---
 

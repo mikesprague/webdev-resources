@@ -20,3 +20,4 @@
   * [Kint: a modern and powerful PHP debugging helper](https://raveren.github.io/kint/)
   * [Google Two Factor Authentication Login with PHP](http://www.9lessons.info/2016/06/google-two-factor-authentication-login.html)
   * [PHP School (Learn PHP Through Command Line Workshops)](https://css-tricks.com/php-school/)
+  * [Processing a csv file in Laravel](https://murze.be/2016/07/processing-csv-file-laravel/)

@@ -171,7 +171,7 @@
     * [Node.js Project Structure Tutorial](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
     * [Node.js Authentication using Passport.js](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
     * [Node.js Unit Testing Tutorial](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
-    * Debugging Node.js
+    * [Debugging Node.js applications](https://blog.risingstack.com/node-hero-node-js-debugging-tutorial/)
     * Securing your application
     * Deploying Node.js application to a PaaS
     * Monitoring and operating Node.js applications

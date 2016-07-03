@@ -154,6 +154,7 @@
   * [Understanding JavaScript Promises, Pt. I: Background & Basics](https://scotch.io/tutorials/understanding-javascript-promises-pt-i-background-basics)
   * [Three Real-World Uses for Mutation Observer](https://eager.io/blog/three-real-world-use-cases-for-mutation-observer/)
   * [Introduction to Developing jQuery Plugins](https://www.sitepoint.com/developing-jquery-plugins/)
+  * [jQuery’s JSONP Explained with Examples](https://www.sitepoint.com/jsonp-examples/)
 
 ---
 

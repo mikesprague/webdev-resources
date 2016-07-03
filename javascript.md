@@ -234,6 +234,7 @@
   * [How To Harness The Machines: Being Productive With Task Runners](https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/)
   * [Introducing Queues in Node.js](http://blog.yld.io/2016/05/10/introducing-queues/)
   * [Getting Started with Hapi.js](https://scotch.io/tutorials/getting-started-with-hapi-js)
+  * [How to Upgrade a Node Module The Right Way](http://www.jamasoftware.com/blog/upgrade-node-module-right-way/)
 
 ---
 

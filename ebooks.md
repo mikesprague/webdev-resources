@@ -51,3 +51,4 @@
   * [Learn to Program](https://pine.fm/LearnToProgram/)
   * [Typography Handbook: A concise, referential guide on best web typographic practices](http://typographyhandbook.com/)
   * [Full Stack Python](https://www.fullstackpython.com/)
+  * [AngularJS with Ruby on Rails](http://angular-rails.com/)

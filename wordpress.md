@@ -48,3 +48,4 @@
 * [WordPress Development for Intermediate Users: Custom Post Types and Taxonomies](https://premium.wpmudev.org/blog/wordpress-development-for-intermediate-users-custom-post-types-and-taxonomies/)
 * [Object-Oriented Partials in WordPress](https://tommcfarlin.com/partials-in-wordpress/)
 * [WordPress Theme Automation With Gulp](https://www.sitepoint.com/wordpress-theme-automation-with-gulp/)
+* [How to Use Git for WordPress Development](https://premium.wpmudev.org/blog/git-for-wordpress-development/)

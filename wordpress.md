@@ -52,3 +52,4 @@
 * Internationalizing WordPress Projects
   * [The Introduction](http://code.tutsplus.com/tutorials/internationalizing-wordpress-projects-the-introduction--cms-26636)
   * [A Practical Example, Part 1](http://code.tutsplus.com/tutorials/internationalizing-wordpress-projects-a-practical-example-part-1--cms-26676)
+* [Leverage WordPress Functions to Reduce HTML in your Posts](https://css-tricks.com/leverage-wordpress-functions-reduce-html-posts/)

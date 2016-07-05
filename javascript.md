@@ -235,6 +235,7 @@
   * [Introducing Queues in Node.js](http://blog.yld.io/2016/05/10/introducing-queues/)
   * [Getting Started with Hapi.js](https://scotch.io/tutorials/getting-started-with-hapi-js)
   * [How to Upgrade a Node Module The Right Way](http://www.jamasoftware.com/blog/upgrade-node-module-right-way/)
+  * [10 Tips For Optimizing Node.js Applications](https://blog.jscrambler.com/10-tips-for-optimizing-node-js-applications/)
 
 ---
 

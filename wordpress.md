@@ -49,3 +49,6 @@
 * [Object-Oriented Partials in WordPress](https://tommcfarlin.com/partials-in-wordpress/)
 * [WordPress Theme Automation With Gulp](https://www.sitepoint.com/wordpress-theme-automation-with-gulp/)
 * [How to Use Git for WordPress Development](https://premium.wpmudev.org/blog/git-for-wordpress-development/)
+* Internationalizing WordPress Projects
+  * [The Introduction](http://code.tutsplus.com/tutorials/internationalizing-wordpress-projects-the-introduction--cms-26636)
+  * [A Practical Example, Part 1](http://code.tutsplus.com/tutorials/internationalizing-wordpress-projects-a-practical-example-part-1--cms-26676)

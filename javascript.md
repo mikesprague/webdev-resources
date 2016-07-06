@@ -338,6 +338,7 @@
   * [Get Your Angular 2 On: Upgrading from 1.5](https://www.toptal.com/angular-js/angular-2-upgrading-from-1-5)
   * [Testing AngularJS with Jasmine and Karma (Part 1)](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1)
   * [Angular 2 Tutorial: Create a CRUD App with Angular CLI](https://www.sitepoint.com/angular-2-tutorial/)
+  * [Build a Mobile App with Angular 2 and Ionic 2](https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2)
 
 ---
 

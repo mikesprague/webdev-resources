@@ -138,6 +138,7 @@
   * [JavaScript Design Patterns: The Singleton](https://www.sitepoint.com/javascript-design-patterns-singleton/)
   * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript)
   * [JavaScript bind() for cleaner code](http://blog.dmbcllc.com/javascript-bind-for-cleaner-code/)
+  * [Improving User Flow Through Page Transitions](https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/)
 
 ---
 

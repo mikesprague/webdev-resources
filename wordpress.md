@@ -54,3 +54,4 @@
   * [A Practical Example, Part 1](http://code.tutsplus.com/tutorials/internationalizing-wordpress-projects-a-practical-example-part-1--cms-26676)
 * [Leverage WordPress Functions to Reduce HTML in your Posts](https://css-tricks.com/leverage-wordpress-functions-reduce-html-posts/)
 * [Custom Data Validation in WordPress](https://tommcfarlin.com/custom-data-validation/)
+* [WordPress Development for Intermediate Users: Queries and Loops](https://premium.wpmudev.org/blog/wordpress-development-intermediate-users-queries-loops/)

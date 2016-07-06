@@ -19,6 +19,7 @@
   * Templating With Jinja2 in Flask
     * [Essentials](http://code.tutsplus.com/tutorials/templating-with-jinja2-in-flask-essentials--cms-25571)
     * [Advanced](http://code.tutsplus.com/tutorials/templating-with-jinja2-in-flask-advanced--cms-25794)
+    * [Date and Time Formatting With moment.js](http://code.tutsplus.com/tutorials/templating-with-jinja2-in-flask-date-and-time-formatting-with-momentjs--cms-25813)
   * [How To Set Up a Jupyter Notebook to Run IPython on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04)
   * [Python Virtual Environments](http://code.tutsplus.com/tutorials/python-virtual-environments--cms-26284)
   * [Coconut: Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)

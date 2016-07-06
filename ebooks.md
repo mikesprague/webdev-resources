@@ -52,3 +52,4 @@
   * [Typography Handbook: A concise, referential guide on best web typographic practices](http://typographyhandbook.com/)
   * [Full Stack Python](https://www.fullstackpython.com/)
   * [AngularJS with Ruby on Rails](http://angular-rails.com/)
+  * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)

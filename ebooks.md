@@ -53,3 +53,4 @@
   * [Full Stack Python](https://www.fullstackpython.com/)
   * [AngularJS with Ruby on Rails](http://angular-rails.com/)
   * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
+  * [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby)

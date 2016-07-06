@@ -136,6 +136,7 @@
   * [Image Replacement Techniques in the Modern Age](https://www.sitepoint.com/image-replacement-techniques-in-the-modern-age/)
   * [Content Jumping (and How To Avoid It)](https://css-tricks.com/content-jumping-avoid/)
   * [Introducing the CSS text-align-last Property](https://www.sitepoint.com/introducing-the-css-text-align-last-property/)
+  * [CSS: The Perfect Print Stylesheet](http://www.noupe.com/design/css-perfect-print-stylesheet-98272.html)
 
 ---
 

@@ -137,6 +137,7 @@
   * [Things to Know (and Potential Dangers) with Third-Party Scripts](https://css-tricks.com/potential-dangers-of-third-party-javascript/)
   * [JavaScript Design Patterns: The Singleton](https://www.sitepoint.com/javascript-design-patterns-singleton/)
   * [Introduction to asynchronous JavaScript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript)
+  * [JavaScript bind() for cleaner code](http://blog.dmbcllc.com/javascript-bind-for-cleaner-code/)
 
 ---
 

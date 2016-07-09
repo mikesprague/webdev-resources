@@ -25,3 +25,4 @@
   * [Disco with Design Patterns: A Fresh Look at Dependency Injection](https://www.sitepoint.com/disco-with-frameworks-and-design-patterns-a-fresh-look-at-dependency-injection/)
   * [Creating A Laravel 404 Page Using Custom Exception Handlers](https://scotch.io/tutorials/creating-a-laravel-404-page-using-custom-exception-handlers)
   * [Creating your first Laravel app and adding authentication](https://auth0.com/blog/2016/06/23/creating-your-first-laravel-app-and-adding-authentication/)
+  * [Why the composer.lock file matters](https://dotdev.co/why-the-composer-lock-file-matters-c8d1e1488be7#.qmejmuflo)

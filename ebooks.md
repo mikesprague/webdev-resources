@@ -57,3 +57,4 @@
   * [Introduction to Programming with Ruby](https://launchschool.com/books/ruby)
   * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
   * [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
+  * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)

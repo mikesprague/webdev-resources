@@ -56,3 +56,4 @@
   * [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby)
   * [Introduction to Programming with Ruby](https://launchschool.com/books/ruby)
   * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
+  * [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)

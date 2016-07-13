@@ -26,3 +26,4 @@
   * [Counting Word Frequency in a File Using Python](http://code.tutsplus.com/tutorials/counting-word-frequency-in-a-file-using-python--cms-25965)
   * [Quick Tip: How to Read Extremely Large Text Files Using Python](http://code.tutsplus.com/tutorials/quick-tip-how-to-read-extremely-large-text-files-using-python--cms-25992)
   * [Quick Tip: What Is a Metaclass in Python?](http://code.tutsplus.com/tutorials/quick-tip-what-is-a-metaclass-in-python--cms-26016)
+  * [Build Your First Python and Django Application](https://scotch.io/tutorials/build-your-first-python-and-django-application)

@@ -19,7 +19,9 @@
   * [Ruby Classes](http://www.zenruby.info/2016/06/ruby-classes.html)
   * [RSpec be_within matcher](http://www.eq8.eu/blogs/27-rspec-be_within-matcher)
   * [5 lessons in object-oriented design from Sandi Metz](https://18f.gsa.gov/2016/06/24/5-lessons-in-object-oriented-design-from-sandi-metz/)
-  * [Rake 101](http://code.tutsplus.com/articles/rake-101--cms-26215)
+  * [All About Rake](http://code.tutsplus.com/series/all-about-rake--cms-1015)
+    * [Rake 101](http://code.tutsplus.com/articles/rake-101--cms-26215)
+    * [Rake 201](http://code.tutsplus.com/articles/rake-201--cms-26261)
 
 ## Rails
 

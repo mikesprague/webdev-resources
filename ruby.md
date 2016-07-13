@@ -47,3 +47,4 @@
   * [Deliver the Mail with Amazon SES and Rails](https://www.sitepoint.com/deliver-the-mail-with-amazon-ses-and-rails/)
   * [Rails Image Upload Using Dragonfly](http://code.tutsplus.com/tutorials/rails-image-upload-using-dragonfly--cms-26179)
   * [Building a Rails Notification Queue 1: The Database](https://blog.benroux.me/building-a-rails-notification-queue-1-the-database/)
+  * [Building a Rails Notification Queue 2: The Notification Class](https://blog.benroux.me/building-a-rails-notification-queue-2-the-notification-class/)

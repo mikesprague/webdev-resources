@@ -55,3 +55,4 @@
 * [Leverage WordPress Functions to Reduce HTML in your Posts](https://css-tricks.com/leverage-wordpress-functions-reduce-html-posts/)
 * [Custom Data Validation in WordPress](https://tommcfarlin.com/custom-data-validation/)
 * [WordPress Development for Intermediate Users: Queries and Loops](https://premium.wpmudev.org/blog/wordpress-development-intermediate-users-queries-loops/)
+* [WordPress Development for Intermediate Users: Custom Fields and Metadata](https://premium.wpmudev.org/blog/wordpress-development-intermediate-users-custom-fields-metadata/)

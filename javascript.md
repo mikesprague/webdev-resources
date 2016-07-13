@@ -142,6 +142,7 @@
   * [Improving User Flow Through Page Transitions](https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/)
   * [ES5 Objects vs. ES6 Maps – The differences and similarities](http://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/)
   * [Borrowing Methods in JavaScript](http://davidshariff.com/blog/borrowing-methods-in-javascript/)
+  * [Learning How to Set Up Automated, Cross-browser JavaScript Unit Testing](https://philipwalton.com/articles/learning-how-to-set-up-automated-cross-browser-javascript-unit-testing/)
 
 ---
 

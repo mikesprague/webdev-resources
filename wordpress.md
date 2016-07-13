@@ -57,3 +57,4 @@
 * [WordPress Development for Intermediate Users: Queries and Loops](https://premium.wpmudev.org/blog/wordpress-development-intermediate-users-queries-loops/)
 * [WordPress Development for Intermediate Users: Custom Fields and Metadata](https://premium.wpmudev.org/blog/wordpress-development-intermediate-users-custom-fields-metadata/)
 * [The WP REST API for Remote Control WordPress](https://css-tricks.com/wp-rest-api-remote-control-wordpress/)
+* [Integrating WordPress with the Internet of Things](https://www.sitepoint.com/integrating-wordpress-with-the-internet-of-things/)

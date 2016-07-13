@@ -22,6 +22,7 @@
   * [All About Rake](http://code.tutsplus.com/series/all-about-rake--cms-1015)
     * [Rake 101](http://code.tutsplus.com/articles/rake-101--cms-26215)
     * [Rake 201](http://code.tutsplus.com/articles/rake-201--cms-26261)
+  * [Avoid Mutation – Functional Style In Ruby](http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/)
 
 ## Rails
 

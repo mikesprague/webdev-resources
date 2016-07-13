@@ -139,6 +139,7 @@
   * [CSS: The Perfect Print Stylesheet](http://www.noupe.com/design/css-perfect-print-stylesheet-98272.html)
   * [The :target Trick](https://bitsofco.de/the-target-trick/)
   * [The Search For The Holy Grail: How I Ended Up With Element Queries, And How You Can Use Them Today](https://www.smashingmagazine.com/2016/07/how-i-ended-up-with-element-queries-and-how-you-can-use-them-today/)
+  * [Use Cases For CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries/)
 
 ---
 

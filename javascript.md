@@ -240,6 +240,7 @@
   * [How to Upgrade a Node Module The Right Way](http://www.jamasoftware.com/blog/upgrade-node-module-right-way/)
   * [10 Tips For Optimizing Node.js Applications](https://blog.jscrambler.com/10-tips-for-optimizing-node-js-applications/)
   * [Easy HTTP/2 Server with Node.js and Express.js](http://webapplog.com/http2-node/)
+  * [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
 
 ---
 

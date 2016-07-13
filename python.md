@@ -27,3 +27,4 @@
   * [Quick Tip: How to Read Extremely Large Text Files Using Python](http://code.tutsplus.com/tutorials/quick-tip-how-to-read-extremely-large-text-files-using-python--cms-25992)
   * [Quick Tip: What Is a Metaclass in Python?](http://code.tutsplus.com/tutorials/quick-tip-what-is-a-metaclass-in-python--cms-26016)
   * [Build Your First Python and Django Application](https://scotch.io/tutorials/build-your-first-python-and-django-application)
+  * [How to Deploy a Django Application on DigitalOcean](https://www.codementor.io/python/tutorial/how-to-deploy-a-django-application-on-digitalocean)

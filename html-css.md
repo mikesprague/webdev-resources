@@ -187,6 +187,7 @@
   * [Picnic CSS: Lightweight and beautiful library](http://picnicss.com/)
   * [Mega Boilerplate: Handcrafted starter projects, optimized for simplicity and ease of use](http://megaboilerplate.com/)
   * [Flex Layout Attribute: HTML layout helper based on CSS flexbox specification](http://progressivered.com/fla/)
+  * [Wing: Minimal CSS Framework](http://usewing.ml/)
 
 ---
 

@@ -144,6 +144,7 @@
   * [Borrowing Methods in JavaScript](http://davidshariff.com/blog/borrowing-methods-in-javascript/)
   * [Learning How to Set Up Automated, Cross-browser JavaScript Unit Testing](https://philipwalton.com/articles/learning-how-to-set-up-automated-cross-browser-javascript-unit-testing/)
   * [Seven Surprising Javascript 'features'](http://blog.scottlogic.com/2015/07/02/surprising-things-about-js.html)
+  * [Clean Code with ES6 Default Parameters & Property Shorthands](https://www.sitepoint.com/es6-default-parameters/)
 
 ---
 

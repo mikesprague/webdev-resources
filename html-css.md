@@ -258,6 +258,7 @@
 * [Tips for Aligning Icons to Text](https://css-tricks.com/tips-aligning-icons-text/)
 * [CSS @font-face: 2016 Edition](https://webdevstudios.com/2016/05/26/css-font-face-2016-edition/)
 * [FontCDN: Search tool for Google Fonts](http://fontcdn.org/)
+* [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 
 ---
 

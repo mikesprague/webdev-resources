@@ -28,3 +28,4 @@
   * [Quick Tip: What Is a Metaclass in Python?](http://code.tutsplus.com/tutorials/quick-tip-what-is-a-metaclass-in-python--cms-26016)
   * [Build Your First Python and Django Application](https://scotch.io/tutorials/build-your-first-python-and-django-application)
   * [How to Deploy a Django Application on DigitalOcean](https://www.codementor.io/python/tutorial/how-to-deploy-a-django-application-on-digitalocean)
+  * [How to Use Python Packages](http://code.tutsplus.com/tutorials/how-to-use-python-packages--cms-26000)

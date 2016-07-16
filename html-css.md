@@ -140,6 +140,7 @@
   * [The :target Trick](https://bitsofco.de/the-target-trick/)
   * [The Search For The Holy Grail: How I Ended Up With Element Queries, And How You Can Use Them Today](https://www.smashingmagazine.com/2016/07/how-i-ended-up-with-element-queries-and-how-you-can-use-them-today/)
   * [Use Cases For CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries/)
+  * [Change Color of All Four Borders Even With `border-collapse: collapse;`](https://css-tricks.com/table-border-collapse-issue/)
 
 ---
 

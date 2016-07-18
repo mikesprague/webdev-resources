@@ -52,3 +52,4 @@
   * [Building a Rails Notification Queue 2: The Notification Class](https://blog.benroux.me/building-a-rails-notification-queue-2-the-notification-class/)
   * [Building a Rails Notification Queue 3: Queue Processing](https://blog.benroux.me/building-a-rails-notification-queue-3-queue-processing/)
   * [How to Configure Your First Rails REST API](https://www.codementor.io/ruby-on-rails/tutorial/how-to-configure-your-first-rails-rest-api)
+  * [Active Record - brief introduction for beginners](https://prograils.com/posts/active-record-brief-introduction-for-beginners)

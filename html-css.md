@@ -142,6 +142,7 @@
   * [Use Cases For CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries/)
   * [Change Color of All Four Borders Even With `border-collapse: collapse;`](https://css-tricks.com/table-border-collapse-issue/)
   * [CSS Filter Effects: Blur, Grayscale, Brightness and More in CSS!](https://www.sitepoint.com/css-filter-effects-blur-grayscale-brightness-and-more-in-css/)
+  * [BEM & Atomic Design: A CSS Architecture Worth Loving](https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving)
 
 ---
 

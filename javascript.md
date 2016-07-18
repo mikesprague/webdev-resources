@@ -182,7 +182,7 @@
     * [Node.js Authentication using Passport.js](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
     * [Node.js Unit Testing Tutorial](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
     * [Debugging Node.js applications](https://blog.risingstack.com/node-hero-node-js-debugging-tutorial/)
-    * Securing your application
+    * [Node.js Security Tutorial](https://blog.risingstack.com/node-hero-node-js-security-tutorial/)
     * Deploying Node.js application to a PaaS
     * Monitoring and operating Node.js applications
   * [You Don't Know Node Article](http://webapplog.com/you-dont-know-node/)

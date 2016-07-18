@@ -349,6 +349,7 @@
   * [Testing AngularJS with Jasmine and Karma (Part 1)](https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1)
   * [Angular 2 Tutorial: Create a CRUD App with Angular CLI](https://www.sitepoint.com/angular-2-tutorial/)
   * [Build a Mobile App with Angular 2 and Ionic 2](https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2)
+  * [How to Deal with Different Form Controls in Angular 2](https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2)
 
 ---
 

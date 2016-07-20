@@ -248,6 +248,7 @@
   * [Easy HTTP/2 Server with Node.js and Express.js](http://webapplog.com/http2-node/)
   * [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
   * [A Comprehensive Introduction to Webpack, the Module Bundler](http://www.theodo.fr/blog/2016/07/a-comprehensive-introduction-to-webpack-the-module-bundler/)
+  * [Using Winston, a versatile logging library for Node.js](http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
 
 ---
 

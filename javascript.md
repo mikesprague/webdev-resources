@@ -147,6 +147,7 @@
   * [Clean Code with ES6 Default Parameters & Property Shorthands](https://www.sitepoint.com/es6-default-parameters/)
   * [Learn to Create D3.js Data Visualizations by Example](https://www.sitepoint.com/d3-js-data-visualizations/)
   * [How To Use Arguments And Parameters In ECMAScript 6](https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/)
+  * [ServiceWorker: A Basic Guide to BackgroundSync](https://ponyfoo.com/articles/backgroundsync)
 
 ---
 

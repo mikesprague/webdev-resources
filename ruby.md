@@ -22,6 +22,7 @@
   * [All About Rake](http://code.tutsplus.com/series/all-about-rake--cms-1015)
     * [Rake 101](http://code.tutsplus.com/articles/rake-101--cms-26215)
     * [Rake 201](http://code.tutsplus.com/articles/rake-201--cms-26261)
+    * [Rake 301](http://code.tutsplus.com/articles/rake-301--cms-26282)
   * [Avoid Mutation – Functional Style In Ruby](http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/)
   * [5 Tips for Writing a Legible Regexp](http://aaronlasseigne.com/2016/07/08/5-tips-for-writing-a-legible-regexp/)
   * [Writing a microservice in Ruby](https://blog.codeship.com/writing-microservice-in-ruby/)

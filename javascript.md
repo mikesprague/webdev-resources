@@ -352,6 +352,7 @@
   * [Angular 2 Tutorial: Create a CRUD App with Angular CLI](https://www.sitepoint.com/angular-2-tutorial/)
   * [Build a Mobile App with Angular 2 and Ionic 2](https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2)
   * [How to Deal with Different Form Controls in Angular 2](https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2)
+  * [Using Angular 2’s Template-Driven Forms](https://scotch.io/tutorials/using-angular-2s-template-driven-forms)
 
 ---
 

@@ -191,6 +191,7 @@
   * [Flex Layout Attribute: HTML layout helper based on CSS flexbox specification](http://progressivered.com/fla/)
   * [Wing: Minimal CSS Framework](http://usewing.ml/)
   * [Hack.css: Dead Simple CSS Framework](http://hackcss.com/)
+  * [BlazeCSS: Open source modular CSS framework providing great structure for building websites quickly](http://blazecss.com/)
 
 ---
 

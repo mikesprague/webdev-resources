@@ -321,6 +321,7 @@
   * [Using JSX and React](http://code.tutsplus.com/tutorials/using-jsx-and-react--cms-25131)
   * [An Introduction To Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
   * [NativeBase: The Missing Piece of React Native​](https://scotch.io/tutorials/nativebase-the-missing-piece-of-react-native%E2%80%8B)
+  * [Getting Started with Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
 
 ---
 

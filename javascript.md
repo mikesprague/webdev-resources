@@ -152,6 +152,7 @@
   * [JavaScript Promises 101](https://bitsofco.de/javascript-promises-101/)
   * [Getting Started with Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
   * [The Service Worker Lifecycle](https://bitsofco.de/the-service-worker-lifecycle/)
+  * [howler.js - Audio library for the modern web](https://howlerjs.com/)
 
 ---
 

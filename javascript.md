@@ -154,6 +154,7 @@
   * [The Service Worker Lifecycle](https://bitsofco.de/the-service-worker-lifecycle/)
   * [howler.js Audio library for the modern web](https://howlerjs.com/)
   * [Jets.js Native CSS search engine](https://jets.js.org/)
+  * [Using ESLint as an ES2015 Learning Tool](https://www.triplet.fi/blog/using-eslint-as-an-es2015-learning-tool/)
 
 ---
 

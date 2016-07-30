@@ -29,3 +29,4 @@
   * [How to Recover a Lost Commit With Git](http://www.barbarianmeetscoding.com/blog/2016/06/07/barbaric-tip-of-the-week-how-to-recover-a-lost-commit-with-git/)
   * [Git’s Patch Mode](https://css-tricks.com/git-add-patch-mode/)
   * [Writing Good Git Commit Messages](https://tommcfarlin.com/git-commit-messages/)
+  * [Fixing the "this is larger than GitHub's recommended maximum file size of 100 MB" error](http://www.thisprogrammingthing.com/2013/fixing-the-this-exceeds-githubs-file-size-limit-of-100-mb-error/)

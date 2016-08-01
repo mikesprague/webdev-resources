@@ -365,6 +365,7 @@
   * [Using Angular 2’s Template-Driven Forms](https://scotch.io/tutorials/using-angular-2s-template-driven-forms)
   * [Using Angular 2’s Model-Driven Forms with FormGroup and FormControl](https://scotch.io/tutorials/using-angular-2s-model-driven-forms-with-formgroup-and-formcontrol)
   * [Routing Angular 2 Single Page Apps with the Component Router](https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router)
+  * [Angular 2 HTTP Requests with Observables](https://scotch.io/tutorials/angular-2-http-requests-with-observables)
 
 ---
 

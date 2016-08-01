@@ -29,6 +29,7 @@
   * [Ruby's Case Statement - Advanced Techniques](http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/)
   * [How To Parse HTML with Ruby and Nokogiri](http://readysteadycode.com/howto-parse-html-with-ruby-and-nokogiri)
   * [A Crash Course in Ruby]https://scotch.io/tutorials/a-crash-course-in-ruby
+  * [The Ins and Outs of Debugging Ruby with Byebug](https://www.sitepoint.com/the-ins-and-outs-of-debugging-ruby-with-byebug/)
 
 ## Rails
 

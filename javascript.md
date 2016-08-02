@@ -368,6 +368,7 @@
   * [Angular 2 HTTP Requests with Observables](https://scotch.io/tutorials/angular-2-http-requests-with-observables)
   * [How to Implement Conditional Validation in Angular 2 Model-driven Forms](https://scotch.io/tutorials/how-to-implement-conditional-validation-in-angular-2-model-driven-forms)
   * [Debugging Angular 2 Apps with Augury](https://scotch.io/tutorials/debugging-angular-2-apps-with-augury)
+  * [Simple Language Translation in Angular 2 (Part 1)](https://scotch.io/tutorials/simple-language-translation-in-angular-2-part-1)
 
 ---
 

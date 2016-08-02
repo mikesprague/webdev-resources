@@ -59,3 +59,4 @@
 * [The WP REST API for Remote Control WordPress](https://css-tricks.com/wp-rest-api-remote-control-wordpress/)
 * [Integrating WordPress with the Internet of Things](https://www.sitepoint.com/integrating-wordpress-with-the-internet-of-things/)
 * [WP-CLI GUI: A GUI for a command line interface for WordPress](https://wpcligui.com/)
+* [Create a Custom Shipping Method for WooCommerce](http://code.tutsplus.com/tutorials/create-a-custom-shipping-method-for-woocommerce--cms-26098)

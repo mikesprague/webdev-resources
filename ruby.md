@@ -31,6 +31,7 @@
   * [A Crash Course in Ruby]https://scotch.io/tutorials/a-crash-course-in-ruby
   * [The Ins and Outs of Debugging Ruby with Byebug](https://www.sitepoint.com/the-ins-and-outs-of-debugging-ruby-with-byebug/)
   * [Understanding a fundamental Ruby abstraction for concurrency](https://blog.codeship.com/understanding-fundamental-ruby-abstraction-concurrency/)
+  * [Behind The Scenes: How Numbers Work in Ruby](http://www.blackbytes.info/2016/07/numbers-in-ruby/)
 
 ## Rails
 

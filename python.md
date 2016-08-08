@@ -29,3 +29,4 @@
   * [Build Your First Python and Django Application](https://scotch.io/tutorials/build-your-first-python-and-django-application)
   * [How to Deploy a Django Application on DigitalOcean](https://www.codementor.io/python/tutorial/how-to-deploy-a-django-application-on-digitalocean)
   * [How to Use Python Packages](http://code.tutsplus.com/tutorials/how-to-use-python-packages--cms-26000)
+  * [Quick Tip: How to Make Changes to Multiple Files Within a Directory Using Python](http://code.tutsplus.com/tutorials/quick-tip-how-to-make-changes-to-multiple-files-within-a-directory-using-python--cms-26452)

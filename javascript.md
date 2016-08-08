@@ -173,6 +173,7 @@
   * [Three Real-World Uses for Mutation Observer](https://eager.io/blog/three-real-world-use-cases-for-mutation-observer/)
   * [Introduction to Developing jQuery Plugins](https://www.sitepoint.com/developing-jquery-plugins/)
   * [jQuery’s JSONP Explained with Examples](https://www.sitepoint.com/jsonp-examples/)
+  * [A Comprehensive Look at jQuery Selectors](https://www.sitepoint.com/comprehensive-jquery-selectors/)
 
 ---
 

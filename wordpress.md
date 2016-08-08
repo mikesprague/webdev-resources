@@ -60,3 +60,5 @@
 * [Integrating WordPress with the Internet of Things](https://www.sitepoint.com/integrating-wordpress-with-the-internet-of-things/)
 * [WP-CLI GUI: A GUI for a command line interface for WordPress](https://wpcligui.com/)
 * [Create a Custom Shipping Method for WooCommerce](http://code.tutsplus.com/tutorials/create-a-custom-shipping-method-for-woocommerce--cms-26098)
+* Building a WordPress-Powered Front End With the WP REST API and AngularJS
+  * [Introduction and Setup](http://code.tutsplus.com/tutorials/building-a-wordpress-powered-front-end-with-the-wp-rest-api-and-angularjs-introduction-and-setup--cms-26115)

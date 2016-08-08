@@ -62,3 +62,4 @@
 * [Create a Custom Shipping Method for WooCommerce](http://code.tutsplus.com/tutorials/create-a-custom-shipping-method-for-woocommerce--cms-26098)
 * Building a WordPress-Powered Front End With the WP REST API and AngularJS
   * [Introduction and Setup](http://code.tutsplus.com/tutorials/building-a-wordpress-powered-front-end-with-the-wp-rest-api-and-angularjs-introduction-and-setup--cms-26115)
+* [A Primer on Options and The WordPress Object Cache](https://tommcfarlin.com/wordpress-object-cache/)

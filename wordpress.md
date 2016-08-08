@@ -63,3 +63,4 @@
 * Building a WordPress-Powered Front End With the WP REST API and AngularJS
   * [Introduction and Setup](http://code.tutsplus.com/tutorials/building-a-wordpress-powered-front-end-with-the-wp-rest-api-and-angularjs-introduction-and-setup--cms-26115)
 * [A Primer on Options and The WordPress Object Cache](https://tommcfarlin.com/wordpress-object-cache/)
+* [Hiding Your WordPress Login Page from Hackers with Code](https://premium.wpmudev.org/blog/hide-wordpress-login-page-2/)

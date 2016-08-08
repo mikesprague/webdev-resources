@@ -62,3 +62,4 @@
   * [How to Configure Your First Rails REST API](https://www.codementor.io/ruby-on-rails/tutorial/how-to-configure-your-first-rails-rest-api)
   * [Active Record - brief introduction for beginners](https://prograils.com/posts/active-record-brief-introduction-for-beginners)
   * [Build a Blog with Ruby on Rails – Part 1](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
+  * [Asynchronous Multiple File Upload with Rails and Dropzone.js](https://www.sitepoint.com/asynchronous-multiple-file-upload-with-rails-and-dropzone-js/)

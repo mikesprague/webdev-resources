@@ -145,6 +145,7 @@
   * [BEM & Atomic Design: A CSS Architecture Worth Loving](https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving)
   * [Precedence in CSS (When Order of CSS Matters)](https://css-tricks.com/precedence-css-order-css-matters/)
   * [HTML Color Codes](http://htmlcolorcodes.com/)
+  * [Building Themes with CSS4 Color Features](https://cloudfour.com/thinks/building-themes-with-css4-color-features/)
 
 ---
 

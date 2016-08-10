@@ -65,3 +65,4 @@
   * [Build a Blog with Ruby on Rails – Part 1](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
   * [Asynchronous Multiple File Upload with Rails and Dropzone.js](https://www.sitepoint.com/asynchronous-multiple-file-upload-with-rails-and-dropzone-js/)
   * [Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App](https://blog.phusion.nl/2016/08/04/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app/)
+  * [Merging Query Strings when Redirecting in Rails](https://www.viget.com/articles/merging-query-strings-when-redirecting-in-rails)

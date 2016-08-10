@@ -331,6 +331,7 @@
   * [An Introduction To Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
   * [NativeBase: The Missing Piece of React Native​](https://scotch.io/tutorials/nativebase-the-missing-piece-of-react-native%E2%80%8B)
   * [Use React Native to a Create a Face Recognition App](https://www.sitepoint.com/use-react-native-to-a-create-a-face-recognition-app/)
+  * [A Primer on the React Ecosystem: Part 1 of 3](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/)
 
 ---
 

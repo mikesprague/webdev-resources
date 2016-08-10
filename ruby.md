@@ -34,6 +34,7 @@
   * [Behind The Scenes: How Numbers Work in Ruby](http://www.blackbytes.info/2016/07/numbers-in-ruby/)
   * [6 Ruby Best Practices Beginners Should Know](https://www.codementor.io/ruby-on-rails/tutorial/6-ruby-best-practices-beginners-should-know)
   * [RSpec::Core Cheat Sheet](http://www.rubypigeon.com/posts/rspec-core-cheat-sheet/)
+  * [Variable References and Mutability of Ruby Objects](https://launchschool.com/blog/references-and-mutability-in-ruby)
 
 ## Rails
 

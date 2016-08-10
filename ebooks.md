@@ -58,3 +58,4 @@
   * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io/)
   * [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
   * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+  * [5 Algorithms Every Web Developer Can Use and Understand](https://www.gitbook.com/book/lizrush/algorithms-for-webdevs-ebook/details)

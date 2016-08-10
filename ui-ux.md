@@ -10,3 +10,4 @@
   * [7 Principles of Rich Web Applications](http://rauchg.com/2014/7-principles-of-rich-web-applications/)
   * [How To Roll Out New Features Without Hurting Loyal Users](https://www.smashingmagazine.com/2016/06/rolling-features-without-hurting-loyal-users/)
   * [Colour contrast - why does it matter?](https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter/)
+  * [Experience Design Essentials: Animated Microinteractions In Mobile Apps](https://www.smashingmagazine.com/2016/08/experience-design-essentials-animated-microinteractions-in-mobile-apps/)

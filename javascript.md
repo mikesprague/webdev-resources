@@ -330,6 +330,7 @@
   * [Using JSX and React](http://code.tutsplus.com/tutorials/using-jsx-and-react--cms-25131)
   * [An Introduction To Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
   * [NativeBase: The Missing Piece of React Native​](https://scotch.io/tutorials/nativebase-the-missing-piece-of-react-native%E2%80%8B)
+  * [Use React Native to a Create a Face Recognition App](https://www.sitepoint.com/use-react-native-to-a-create-a-face-recognition-app/)
 
 ---
 

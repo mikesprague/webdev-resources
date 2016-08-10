@@ -65,3 +65,4 @@
 * [A Primer on Options and The WordPress Object Cache](https://tommcfarlin.com/wordpress-object-cache/)
 * [Hiding Your WordPress Login Page from Hackers with Code](https://premium.wpmudev.org/blog/hide-wordpress-login-page-2/)
 * [How To Prevent Direct Access To Your Plugin](https://tommcfarlin.com/prevent-direct-access-to-your-plugin/)
+* [How to Automagically Create Child Themes in WordPress](https://premium.wpmudev.org/blog/easy-child-themes/)

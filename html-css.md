@@ -146,6 +146,7 @@
   * [Precedence in CSS (When Order of CSS Matters)](https://css-tricks.com/precedence-css-order-css-matters/)
   * [HTML Color Codes](http://htmlcolorcodes.com/)
   * [Building Themes with CSS4 Color Features](https://cloudfour.com/thinks/building-themes-with-css4-color-features/)
+  * [Force Selection of Text Block](https://css-tricks.com/force-selection-text-block/)
 
 ---
 

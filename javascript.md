@@ -375,6 +375,7 @@
   * [Debugging Angular 2 Apps with Augury](https://scotch.io/tutorials/debugging-angular-2-apps-with-augury)
   * [Simple Language Translation in Angular 2 (Part 1)](https://scotch.io/tutorials/simple-language-translation-in-angular-2-part-1)
   * [Simple Language Translation in Angular 2 (Part 2)](https://scotch.io/tutorials/simple-language-translation-in-angular-2-part-2)
+  * [Creating An AngularJS Application With Sequelize – Part 1](https://scotch.io/tutorials/creating-an-angularjs-application-with-sequelize-part-1)
 
 ---
 

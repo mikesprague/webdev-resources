@@ -156,6 +156,7 @@
   * [Jets.js Native CSS search engine](https://jets.js.org/)
   * [Using ESLint as an ES2015 Learning Tool](https://www.triplet.fi/blog/using-eslint-as-an-es2015-learning-tool/)
   * [JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)
+  * [Get started with writing TypeScript today!](https://twilioinc.wpengine.com/2016/08/start-writing-typescript-today.html)
 
 ---
 

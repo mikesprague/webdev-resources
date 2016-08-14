@@ -262,6 +262,7 @@
   * [Using Winston, a versatile logging library for Node.js](http://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
   * [Promise-Based Coroutines in Node.js](http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/)
   * [Node.js + Express.js Video Walkthrough Part 1](http://blog.falafel.com/node-js-express-js-video-walkthrough-part-1/)
+  * [Node.js + Express.js Video Walkthrough Part 2](http://blog.falafel.com/node-js-express-js-video-walkthrough-part-2/)
 
 ---
 

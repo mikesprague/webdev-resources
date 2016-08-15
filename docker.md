@@ -12,3 +12,4 @@
   * [An Intro to Setting up Your First Docker Container for your Rails App](http://www.codelitt.com/blog/intro-setting-up-your-first-docker-container-your-rails-app/)
   * [Docker for Gulp Build Tasks](https://serversforhackers.com/docker-for-gulp-build-tasks)
   * [Heroku Alternative: Deploy Apps with Dokku on DigitalOcean](https://www.sitepoint.com/heroku-alternative-deploy-apps-dokku-digitalocean/)
+  * [Containers – Clean up your House](https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/)

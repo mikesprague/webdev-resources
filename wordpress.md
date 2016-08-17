@@ -67,3 +67,5 @@
 * [How To Prevent Direct Access To Your Plugin](https://tommcfarlin.com/prevent-direct-access-to-your-plugin/)
 * [How to Automagically Create Child Themes in WordPress](https://premium.wpmudev.org/blog/easy-child-themes/)
 * [Loading WordPress Assets, Part 1](https://tommcfarlin.com/loading-wordpress-assets-1/)
+* The Ultimate Guide to W3 Total Cache
+  * [Introduction to Caching](https://premium.wpmudev.org/blog/w3-total-cache-introduction/)

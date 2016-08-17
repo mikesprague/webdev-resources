@@ -159,6 +159,7 @@
   * [Get started with writing TypeScript today!](https://twilioinc.wpengine.com/2016/08/start-writing-typescript-today.html)
   * [JavaScript Best Practices: Tips & Tricks to Level Up Your Code](https://www.codementor.io/javascript/tutorial/javascript-best-practices)
   * [Comma operator in JS](http://www.jstips.co/en/comma-operaton-in-js/)
+  * [Make your JavaScript code shine: knockout old ES5 hacks](https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/)
 
 ---
 

@@ -69,3 +69,4 @@
 * [Loading WordPress Assets, Part 1](https://tommcfarlin.com/loading-wordpress-assets-1/)
 * The Ultimate Guide to W3 Total Cache
   * [Introduction to Caching](https://premium.wpmudev.org/blog/w3-total-cache-introduction/)
+  * [How to Set it Up](https://premium.wpmudev.org/blog/w3-total-cache-settings/)

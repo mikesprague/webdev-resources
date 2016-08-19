@@ -37,6 +37,7 @@
   * [Variable References and Mutability of Ruby Objects](https://launchschool.com/blog/references-and-mutability-in-ruby)
   * [Ruby Enumerable, Enumerator, Lazy and domain specific collection objects](http://www.eq8.eu/blogs/28-ruby-enumerable-enumerator-lazy-and-domain-specific-collection-objects)
   * [Understanding Ruby Closures](https://scotch.io/tutorials/understanding-ruby-closures)
+  * [Rake gem explained](https://medium.com/@rudyyazdi/rake-gem-explained-ebee7e6e6f72#.fkj9z0k6e)
 
 ## Rails
 

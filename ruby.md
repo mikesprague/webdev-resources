@@ -70,3 +70,5 @@
   * [Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App](https://blog.phusion.nl/2016/08/04/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app/)
   * [Merging Query Strings when Redirecting in Rails](https://www.viget.com/articles/merging-query-strings-when-redirecting-in-rails)
   * [Setting up automated SSL/TLS for Rails app with Let's Encrypt](http://beyondscheme.com/2016/setting-up-automated-ssl-for-rails-app-with-lets-encrypt)
+  * [Advanced SQL in Rails - Part 1](http://brewhouse.io/2016/08/04/sql-in-rails.html)
+  * [Advanced SQL in Rails - Part 2](http://brewhouse.io/2016/08/12/sql-in-rails-part2.html)

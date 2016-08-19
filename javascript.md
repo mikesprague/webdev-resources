@@ -160,6 +160,7 @@
   * [JavaScript Best Practices: Tips & Tricks to Level Up Your Code](https://www.codementor.io/javascript/tutorial/javascript-best-practices)
   * [Comma operator in JS](http://www.jstips.co/en/comma-operaton-in-js/)
   * [Make your JavaScript code shine: knockout old ES5 hacks](https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/)
+  * [Quick Tip: What Are Factory Functions in JavaScript](https://www.sitepoint.com/factory-functions-javascript/)
 
 ---
 

@@ -28,3 +28,4 @@
   * [Why the composer.lock file matters](https://dotdev.co/why-the-composer-lock-file-matters-c8d1e1488be7#.qmejmuflo)
   * [Build A Support Ticket Application With Laravel – Part 1](https://scotch.io/tutorials/build-a-support-ticket-application-with-laravel-part-1)
   * [Build A Support Ticket Application With Laravel – Part 2](https://scotch.io/tutorials/build-a-support-ticket-application-with-laravel-part-2)
+  * [Build a Laravel Application with User Authentication](https://scotch.io/tutorials/build-a-laravel-application-with-user-authentication)

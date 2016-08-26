@@ -13,3 +13,4 @@
   * [Docker for Gulp Build Tasks](https://serversforhackers.com/docker-for-gulp-build-tasks)
   * [Heroku Alternative: Deploy Apps with Dokku on DigitalOcean](https://www.sitepoint.com/heroku-alternative-deploy-apps-dokku-digitalocean/)
   * [Containers – Clean up your House](https://lostechies.com/gabrielschenker/2016/08/14/containers-clean-up-your-house/)
+  * [A Beginner’s Guide to the Dockerfile](https://blog.codeship.com/a-beginners-guide-to-the-dockerfile/)

@@ -70,3 +70,6 @@
 * The Ultimate Guide to W3 Total Cache
   * [Introduction to Caching](https://premium.wpmudev.org/blog/w3-total-cache-introduction/)
   * [How to Set it Up](https://premium.wpmudev.org/blog/w3-total-cache-settings/)
+* Adding Custom Hooks in WordPress
+  * [Custom Actions](http://code.tutsplus.com/tutorials/adding-custom-hooks-in-wordpress-custom-actions--cms-26454)
+  * [Custom Filters](http://code.tutsplus.com/tutorials/adding-custom-hooks-in-wordpress-custom-filters--cms-26508)

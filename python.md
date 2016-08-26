@@ -31,3 +31,4 @@
   * [How to Use Python Packages](http://code.tutsplus.com/tutorials/how-to-use-python-packages--cms-26000)
   * [Quick Tip: How to Make Changes to Multiple Files Within a Directory Using Python](http://code.tutsplus.com/tutorials/quick-tip-how-to-make-changes-to-multiple-files-within-a-directory-using-python--cms-26452)
   * [How to Merge Two Python Dictionaries](http://code.tutsplus.com/tutorials/how-to-merge-two-python-dictionaries--cms-26230)
+  * [Serialization and Deserialization of Python Objects: Part 1](http://code.tutsplus.com/tutorials/serialization-and-deserialization-of-python-objects-part-1--cms-26183)
